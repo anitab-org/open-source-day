@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
+  - title: "OSD 2021"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "About"
+    url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "News"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
