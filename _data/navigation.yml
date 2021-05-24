@@ -2,7 +2,9 @@
 main:
   - title: "OSD 2021"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
+  - title: "Become a Mentor"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/ 
+  - title: "Our Team"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "News"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
