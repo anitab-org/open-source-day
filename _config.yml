@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : #"Open Source Day"
 title_separator          : "-"
 subtitle                 : #site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Open Source Day"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -51,7 +51,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -122,12 +122,12 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: ""
       icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
+      url: https://twitter.com/hashtag/OpenSourceDay
+    - label: ""
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: https://www.facebook.com/hashtag/opensourceday
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
@@ -289,4 +289,6 @@ defaults:
       type: pages
     values:
       layout: single 
+      author_profile: false
+      classes: wide
 

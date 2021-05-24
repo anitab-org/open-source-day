@@ -1,14 +1,38 @@
 # main links
 main:
   - title: "OSD 2021"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /open-source-day-2021-summer/
   - title: "Become a Mentor"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/ 
+    url: https://airtable.com/shrREw8EXQfmSA4Uu 
   - title: "Our Team"
     url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "News"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+osd2021july:
+  - title: Open Source Day Summer
+    children:
+      - title: "Overview"
+        url: /open-source-day-2021-summer/#register
+      - title: "Register"
+        url: /open-source-day-2021-summer/#register
+  - title: Contribution Track
+    children:
+      - title: "Partner Projects"
+        url: /open-source-day-2021-summer-contribution/#
+      - title: "Choose your own Adventure:"
+        url: /open-source-day-2021-summer-contribution/#
+      - title: "&nbsp;&nbsp;&nbsp;&nbsp;- Female Maintainers"
+        url: /open-source-day-2021-summer-contribution/#  
+      - title: "&nbsp;&nbsp;&nbsp;&nbsp;- OSS Community"
+        url: /open-source-day-2021-summer-contribution/#
+  - title: Learning Track
+    children:
+      - title: "Hands on Workshops"
+        url: /open-source-day-2021-summer-learning/
+  - title: Mentors
+    children:
+      - title: "Get to know your Mentors"
+        url: /open-source-day-2021-summer-mentors/
