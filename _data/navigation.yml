@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "OSD Summer 2021"
-    url: /open-source-day-upcoming/
+    url: /upcoming/
   - title: "Become a Mentor"
-    url: https://airtable.com/shrREw8EXQfmSA4Uu  
+    url: /become_a_mentor/ 
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
@@ -13,9 +13,9 @@ osd2021july:
   - title: Open Source Day Summer
     children:
       - title: "Overview"
-        url: /open-source-day-upcoming/#overview
+        url: /upcoming/#overview
       - title: "Register"
-        url: /open-source-day-upcoming/#register
+        url: /upcoming/#register
   - title: Contribution Track
     children:
       - title: "Partner Projects"

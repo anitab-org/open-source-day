@@ -1,6 +1,6 @@
 ---
 title: "Open Source Day Summer - July 15th 2021"
-permalink: /open-source-day-upcoming/
+permalink: /upcoming/
 classes: wide
 sidebar:
   nav: "osd2021july"
