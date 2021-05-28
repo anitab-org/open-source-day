@@ -13,13 +13,27 @@ As part of the Contribution Track, you will contribute code to curated open sour
 
 ### Partner Projects
 
-Coming soon
+| Project | Description | Maintainer(s) |
+| ------- | ----------- | ------------- |
+| [Apache Sharding Shpere](https://github.com/apache/shardingsphere) | Apache ShardingSphere is an open-source ecosystem consisted of a set of distributed database solutions, including 3 independent products, JDBC, Proxy & Sidecar (Planning). They all provide functions of data scale out, distributed transaction and distributed governance, applicable in a variety of situations such as Java isomorphism, heterogeneous language and cloud native. | [Juan Pan (Trista)](https://github.com/tristaZero) |
+| [Backdrop](https://github.1/backdrop/backdrop) | Backdrop is a full-featured content management system that allows non-technical users to manage a wide variety of content. It can be used to create all kinds of websites including blogs, image galleries, social networks, intranets, and more. | [Jen Lampton](https://github.com/jenlampton) |
+| [Greenpeace Planet 4](https://github.com/greenpeace) | Built on top of Wordpress tech, Greenpeace Planet 4 powers digital platforms to engage with millions and win campaigns around the world. | [Suzi Grishpul](https://github.com/suzi-greenpeace) |
+| [Material-UI](https://github.com/mui-org/material-ui) | Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design. | [Marija Najdova](https://github.com/mnajdova) |
+| [Openstack](https://opendev.org/openstack) | OpenStack is a cloud operating system that controls large pools of compute, storage, and networking resources throughout a datacenter, all managed through a dashboard that gives administrators control while empowering their users to provision resources through a web interface. | [Amy Marrich]() |
+| [OpenStreetMap](https://github.com/Intuit/Superglue) | TBA | TBA |
+| [OpenSUSE](https://github.com/openSUSE) | TBA | TBA |
+| [Superglue](https://github.com/Intuit/Superglue) | Superglue is a lineage-tracking tool built to help visualize the propagation of data through complex pipelines composed of tables, jobs and reports. | [Shradha Ambekar](https://github.com/sambekar15) |
 
 ### Choose your own Adventure: 
 
 #### Female Maintainers
 
-Coming soon
+| Project | Description | Maintainer(s) |
+| ------- | ----------- | ------------- |
+| [Tern](https://github.com/tern-tools/tern) | Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and Dockerfiles. The SBoM that Tern generates will give you a layer-by-layer view of what's inside your container in a variety of formats including human-readable, JSON, HTML, SPDX and more. | [Rose Judge](https://github.com/rnjudge) and [Nisha Kumar](https://github.com/nishakm) |
+| [Truffle Shuffle](https://github.com/intuit/truffle-shuffle) | An Android data-driven, percentage-based UI Card Gallery Library. | [Katie Levy](https://github.com/katielevy1) |
+| [User Data for Fraud Prevention](https://github.com/intuit/user-data-for-fraud-prevention)| Simple npm package with a utility to collect data from the browser required for compliance with fraud prevention APIs. | [Susmitha Kodamarthi](https://github.com/skodamarthi) |
+| [Wildfly Security](https://github.com/wildfly-security/wildfly-elytron) | TBA | TBA |
 
 #### Open Source Community
 
