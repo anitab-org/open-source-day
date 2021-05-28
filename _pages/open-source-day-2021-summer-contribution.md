@@ -33,7 +33,7 @@ As part of the Contribution Track, you will contribute code to curated open sour
 | [Tern](https://github.com/tern-tools/tern) | Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and Dockerfiles. The SBoM that Tern generates will give you a layer-by-layer view of what's inside your container in a variety of formats including human-readable, JSON, HTML, SPDX and more. | [Rose Judge](https://github.com/rnjudge) and [Nisha Kumar](https://github.com/nishakm) |
 | [Truffle Shuffle](https://github.com/intuit/truffle-shuffle) | An Android data-driven, percentage-based UI Card Gallery Library. | [Katie Levy](https://github.com/katielevy1) |
 | [User Data for Fraud Prevention](https://github.com/intuit/user-data-for-fraud-prevention)| Simple npm package with a utility to collect data from the browser required for compliance with fraud prevention APIs. | [Susmitha Kodamarthi](https://github.com/skodamarthi) |
-| [Wildfly Security](https://github.com/wildfly-security/wildfly-elytron) | TBA | TBA |
+| [Wildfly Elytron](https://github.com/wildfly-security/wildfly-elytron) | WildFly Elytron is a set of Java APIs and SPIs for application server and client side security. Within the WildFly application server, Elytron is used to secure management access to the server and to secure applications that are deployed to the server. Although it was developed to unify security across the WildFly application server, Elytron is an open source, standalone library that can theoretically be used in other Java server environments. | [Farah Juma](https://github.com/fjuma) and [Diana Křepinská](https://github.com/Skyllarr) |
 
 #### Open Source Community
 
