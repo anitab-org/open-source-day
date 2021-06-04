@@ -4,10 +4,8 @@ permalink: /become_a_mentor/
 classes: wide
 ---
 
-Thank you for your interest in applying to be a mentor for OSD 2021! Register to be 
-notified as new mentor opportunities become available!
-
-[Be in the know!](https://airtable.com/shrREw8EXQfmSA4Uu){: .btn .btn--primary}
+Thank you for your interest in applying to be a mentor for OSD 2021! Mentors application
+is opened!
 
 Open Source Day (OSD) is an opportunity for attendees of all skill levels and backgrounds to 
 learn and experience open source contribution with the support of experienced mentors and 
@@ -42,8 +40,10 @@ Each Open Source project has different onboarding process for new contributors. 
 participants will need to follow this process for their changes to be submitted and we
 discovered that knowing this process is important to your success as a mentor.
 
-Each project application openning notification will include a link to the first contribution
-guide.
+The mentors application includes links to each project's contribution guide. 
+Follow this guide to find good first issue, and open a pull request that resolves the issue.
+
+Paste a link to the pull request in your application!
 
 ### What am I committing to do?
 Before OSD:
@@ -64,3 +64,5 @@ On the day of OSD:
 ### Mentors benefits
 OSD mentors that will participate in both OSD Summer 2021, that will take place on July 15th from 9AM-5PM PDT, 
 and OSD vGHC2021, that will take place on the week of September 27th, will be eligible to receive a free vGHC 2021 ticket.
+
+[Click here to apply!](https://airtable.com/shrREw8EXQfmSA4Uu){: .btn .btn--primary}
