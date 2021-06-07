@@ -20,7 +20,7 @@ title                    : #"Open Source Day"
 title_separator          : "-"
 subtitle                 : #site tagline that appears below site title in masthead
 name                     : "Open Source Day"
-description              : "An amazing website."
+description              : "Your Guided Experience to Open Source"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

@@ -12,17 +12,17 @@ main:
 osd2021july:
   - title: Open Source Day Summer
     children:
-      - title: "Overview"
-        url: /upcoming/#overview
       - title: "Register"
         url: /upcoming/#register
+      - title: "Overview"
+        url: /upcoming/#overview
   - title: Contribution Track
     children:
       - title: "Partner Projects"
         url: /open-source-day-2021-summer-contribution/#
       - title: "Choose your own Adventure:"
         url: /open-source-day-2021-summer-contribution/#
-      - title: "&nbsp;&nbsp;&nbsp;&nbsp;- Female Maintainers"
+      - title: "&nbsp;&nbsp;&nbsp;&nbsp;- Women Maintainers"
         url: /open-source-day-2021-summer-contribution/#  
       - title: "&nbsp;&nbsp;&nbsp;&nbsp;- OSS Community"
         url: /open-source-day-2021-summer-contribution/#
