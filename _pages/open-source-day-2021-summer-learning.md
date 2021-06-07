@@ -107,6 +107,8 @@ As part of the Learn Track, you will spend your day attending hands-on workshops
   <tr>
     <td class="tg-baqh"><span >15:30 - 16:30</span></td>
     <td class="tg-baqh"><span style= "font-size:20px; font-weight: bold;">Open Sources Security: 101</span><br> <br> 
+    In the present time software industry is facing tremendous Cyber-attacks and it is vital to counter those attacks. In this talk, I will be covering basics of developing a secure software and best practices that geared towards Devops, Developers, Software engineers, Web developers, and others who are interested in learning about Open- Source Security.  This talk focuses on besting practices on developing secure software with limited resources. This talk is open for everyone who is interested in learning about Open Sources Security.  
+    You leave his workshop learning about the Fundamental of Risk Management,CIA triad, Best Practices of secure design principle and Open Sources Security Tools.
     </td>
     <td class="tg-baqh"><span style= "font-size:20px; font-weight: bold;">Automating CI/CD on AWS with GitHub Actions</span><br> <br> 
     In this workshop, attendees will learn how organizations using GitHub as a source code repository can use GitHub Actions to build a complete CI/CD pipeline for applications deployed on Amazon Elastic Container Service. Amazon ECS is a fully managed container orchestration service that makes it easy to operate containerized workloads at scale.
