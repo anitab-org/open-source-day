@@ -6,7 +6,8 @@ sidebar:
   nav: "osd2021july"
 ---
 ## Join us for OSD Summer! 
-[Register](#link){: .btn .btn--primary}
+
+Registration coming soon!
 
 ## Overview
 
