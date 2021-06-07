@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/become_a_mentor/</loc>
+<loc>/become_a_mentor/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/open-source-day-2021-summer-contribution/</loc>
+<loc>/open-source-day-2021-summer-contribution/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/open-source-day-2021-summer-learning/</loc>
+<loc>/open-source-day-2021-summer-learning/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/open-source-day-2021-summer-mentors/</loc>
+<loc>/open-source-day-2021-summer-mentors/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/upcoming/</loc>
+<loc>/upcoming/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/volunteer/</loc>
+<loc>/volunteer/</loc>
 </url>
 </urlset>
