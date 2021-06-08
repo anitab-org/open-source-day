@@ -45,6 +45,14 @@ Follow this guide to find good first issue, and open a pull request that resolve
 
 Paste a link to the pull request in your application!
 
+### Where can I find the list of projects?
+
+Mentors application is opened for the following projects:
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrpbjtqjLPQYmyqv?backgroundColor=orange&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+Follow the instructions in the contribution guide of each project to setup your environment, find issues and submit pull request.
+
 ### What am I committing to do?
 Before OSD:
 * Participate in an online training (~1hr)
