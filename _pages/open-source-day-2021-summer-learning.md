@@ -70,6 +70,11 @@ body {
   <div class="column">
     <div class="card">
       <h2>{{ workshop.title }}</h2>
+      {% for speaker in workshop.speakers %}
+      <div class="row">
+        <h3>{{ speaker.name | markdownify }}</h3>
+      </div>
+      {% endfor %}
       <p>{{ workshop.description }}</p>
     </div>
   </div>
