@@ -1,17 +1,25 @@
-- title: Github 101
-  begin: 8:00AM
+- begin: 8:00AM
   end: 9:00AM
-  speaker: Renana Yacobi
-  description: If you have never used a code version control system, then this is the workshop for you! We will go over the basics of creating and cloning a repository, creating a branch, committing and pushing code and finalize with creating a pull request. Learn everything you need to know to get started with using Git and GitHub in your next job or in your first Open Source contribution.
+  workshops:
+    - title: Github 101
+      description: If you have never used a code version control system, then this is the workshop for you! We will go over the basics of creating and cloning a repository, creating a branch, committing and pushing code and finalize with creating a pull request. Learn everything you need to know to get started with using Git and GitHub in your next job or in your first Open Source contribution.
+      speakers: 
+        - name: Renana Yacobi
+          bio: Renana has been working for over 17 years as a server-side software engineer, providing solutions in areas such as data mining, operating systems and image processing, specializing in distributed computation and systems. At Niantic she is focused on making the company’s games infrastructure scalable, secure and reliable. From time to time you can find her presenting or facilitating a workshop to encourage women to enter the world of backend and server engineering, or encourage them to contribute to Open Source.
 
-- title: Make your first contribution to Open Source
-  begin: 8:00AM
-  end: 9:00AM
-  speaker: Neha Giri
-  description: How do you get started with Open Source? If you’ve never contributed to an open source project before, making your first contribution can be intimidating. Not to mention, it can be difficult to know where to begin. Join us to learn everything you need to know about the Open Source community and how to make your first contribution! Hear stories from women in engineering about their open source involvement and contributions.
+- begin: 9:30AM
+  end: 10:30AM
+  workshops:
+    - title: Make your first contribution to Open Source
+      description: How do you get started with Open Source? If you’ve never contributed to an open source project before, making your first contribution can be intimidating. Not to mention, it can be difficult to know where to begin. Join us to learn everything you need to know about the Open Source community and how to make your first contribution! Hear stories from women in engineering about their open source involvement and contributions.
+      speakers: 
+        - name: Neha Giri
+          bio: 
 
-- title: Contributing to Kubernetes 101
-  begin: 8:00AM
-  end: 9:00AM
-  speaker: Nikhita Raghunath and Divya Mohan
-  description: Do you want to contribute to Kubernetes? Not sure how or where to begin? It can be overwhelming! But fear not - you can join the thousands of successful contributors too! In this new contributor workshop, we will explore how the Kubernetes community is structured, discuss the skills the attendees need to get started and learn the best ways to get their first Pull Request accepted. After this talk, contributing to Kubernetes will no longer be intimidating. The attendees will be able to fix any bugs that they encounter in their day job or otherwise.
+    - title: Contributing to Kubernetes 101
+      description: Do you want to contribute to Kubernetes? Not sure how or where to begin? It can be overwhelming! But fear not - you can join the thousands of successful contributors too! In this new contributor workshop, we will explore how the Kubernetes community is structured, discuss the skills the attendees need to get started and learn the best ways to get their first Pull Request accepted. After this talk, contributing to Kubernetes will no longer be intimidating. The attendees will be able to fix any bugs that they encounter in their day job or otherwise.
+      speakers: 
+        - name: Nikhita Raghunath
+          bio: 
+        - name: Divya Mohan
+          bio: 
