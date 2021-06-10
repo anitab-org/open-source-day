@@ -7,7 +7,7 @@ sidebar:
 ---
 ## Join us for OSD Summer! 
 
-Registration coming soon!
+[Register Now!](https://opensourceday.anitab.org/){: .btn .btn--primary}
 
 ## Overview
 
