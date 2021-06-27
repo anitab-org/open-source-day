@@ -1,25 +1,85 @@
-- begin: 8:00AM
-  end: 9:00AM
+- begin: 08:00AM
+  end: 09:00AM
   workshops:
     - title: Github 101
       description: If you have never used a code version control system, then this is the workshop for you! We will go over the basics of creating and cloning a repository, creating a branch, committing and pushing code and finalize with creating a pull request. Learn everything you need to know to get started with using Git and GitHub in your next job or in your first Open Source contribution.
       speakers: 
         - name: Renana Yacobi
+          picture: renana_yacobi.jpeg
           bio: Renana has been working for over 17 years as a server-side software engineer, providing solutions in areas such as data mining, operating systems and image processing, specializing in distributed computation and systems. At Niantic she is focused on making the company’s games infrastructure scalable, secure and reliable. From time to time you can find her presenting or facilitating a workshop to encourage women to enter the world of backend and server engineering, or encourage them to contribute to Open Source.
 
-- begin: 9:30AM
+- begin: 09:30AM
   end: 10:30AM
   workshops:
     - title: Make your first contribution to Open Source
       description: How do you get started with Open Source? If you’ve never contributed to an open source project before, making your first contribution can be intimidating. Not to mention, it can be difficult to know where to begin. Join us to learn everything you need to know about the Open Source community and how to make your first contribution! Hear stories from women in engineering about their open source involvement and contributions.
       speakers: 
         - name: Neha Giri
-          bio: 
+          picture: neha_giri.jpeg
+          bio: Neha Giri is a Software Architect at Intuit. She has about 15 years of experience in the software industry with various organizations including Ericsson and Ciena in India, Sweden and Canada. She is passionate about open source software and has helped first timers contribute to open source at Intuit. She believes in the power of collaboration and has driven many projects across globally dispersed teams. She loves helping team members to upgrade their leadership and technical skills by coaching and personal projects on new technologies. She received her Bachelor of Engineering degree in Computer Science from Delhi University.
 
     - title: Contributing to Kubernetes 101
       description: Do you want to contribute to Kubernetes? Not sure how or where to begin? It can be overwhelming! But fear not - you can join the thousands of successful contributors too! In this new contributor workshop, we will explore how the Kubernetes community is structured, discuss the skills the attendees need to get started and learn the best ways to get their first Pull Request accepted. After this talk, contributing to Kubernetes will no longer be intimidating. The attendees will be able to fix any bugs that they encounter in their day job or otherwise.
       speakers: 
         - name: Nikhita Raghunath
+          picture: nikhita_raghunath.jpeg
           bio: 
         - name: Divya Mohan
+          picture: divya_mohan.jpeg
           bio: 
+
+- begin: 11:00AM 
+  end: 12:00PM
+  workshops:
+    - title: Sure, It's Open, But Is It Inclusive?
+      description: This workshop invites you to explore how you can create more inclusive open source code, docs and communities, with a focus on language. Many open source projects are still filled with exclusionary language that can have a negative impact on people even while not being used with exclusionary intent. We'll look at some such examples of technical and nontechnical terms with problematic origins and connotations, discuss more inclusive alternatives, and then practise addressing "inclusion debt" in projects. You'll also learn that like tech debt, inclusion debt is also never done because language use is always shifting. Your projects will need multiple perspectives to shift and grow with it!
+      speakers: 
+        - name: Vasundhara Gautam
+          picture: vasundhara_gautam.jpeg
+          bio: Vasundhara (xe/they) is a Speech Recognition Engineer at Dialpad working to improve the transcription of keywords, names and numbers. Xe gets excited about code and language in particular, the subtle differences in how people use language fascinates xem. In xyr free time, xe likes to sing, play piano and go birding. Find xem on Twitter at @VasundharaNLP.
+
+
+- begin: 12:30AM 
+  end: 01:30PM
+  workshops:
+    - title: How to influence your company to open source tech
+      description: Open sourcing technology can have strategic impact on a companies goals and trajectory especially within the developer market. The following talk will walk participants through a variety of strategies and reasons for open sourcing technology and give participants frameworks for how to decide what to open source and why.
+      speakers: 
+        - name: Ria Bhatia
+          picture: ria_bhatia.jpeg
+          bio: Ria Bhatia is a Product Manager for Niantic Labs. She currently works on Core Infra and is excited about building Niantic’s infrastructure stack on open source projects like Envoy and Kubernetes. She was previously a Program Manager for Microsoft building Open Source projects that extended Kubernetes for developers. She currently lives in Seattle with her rescue pup Rue. Rue is from Taiwan and loves belly rubs.  
+    - title: Everyone can be a quantum open source developer! 💖
+      description: Quantum computing is an exciting and growing tech field that has adopted open source languages and platforms to address its unique challenges. Just like learning a new package or toolchain in your favorite language, you to can learn quantum computing via open source project and have an impact on the direction of the field! In this workshop, we will cover what in the heck quantum computing actually is, what are the current challenges that we can address with open source tools, and you will write your first quantum program in Python and Q#! <br> <br> <br> <br>
+      speakers: 
+        - name: Dr. Sarah Kaiser
+          picture: sarah_kaiser.jpeg
+          bio: Sarah is currently a technical staff member and quantum community lead at Unitary Fund, a non-profit working on building the quantum open source community. She has spent much of her career developing new quantum hardware in the lab, from building satellites to hacking quantum cryptography hardware and VR technology. Communicating what is so exciting about quantum technology is her passion, and loves building new demos, tools, and partnerships to help enable the quantum community to grow. When not at the keyboard she loves kayaking, laser cutting everything (safe), and writing books about engineering for kids and adults alike.
+
+- begin: 02:00PM 
+  end: 03:00PM
+  workshops:
+    - title: Get better at Git - End chaos in your collaboration
+      description:  Looking to level up your Git game?<br> We invite you to our Git party, where we provide you with hands-on examples of real world scenarios where you would use git features to fix common mistakes and restore your git history. We will cover how to handle merge conflicts, how to revert a commit, how to use git rebase to rewrite history, and how to use cherry-pick to keep only the commits you want.<br> Join us to learn and have fun. <br> <br>
+      speakers: 
+        - name: Annu Joshi
+          picture: annu_joshi.jpg
+          bio: Annu is a data engineer building analytics solutions at QuantumBlack, a McKinsey company. <br>Her experience involves building distributed data pipelines on complex data systems across diverse problem domains. She has a passion for enabling others to learn and grow. She’s also been helping with the organization of Grace Hopper Celebration for the last 3 years in various forms.<br>You can often find her rambling about the latest books she’s reading or on some rare occasions, dancing to indian classical tunes.
+        - name: Shubha Rajan
+          picture:
+          bio:
+    - title: Github 101
+      description: If you have never used a code version control system, then this is the workshop for you! We will go over the basics of creating and cloning a repository, creating a branch, committing and pushing code and finalize with creating a pull request.<br> Learn everything you need to know to get started with using Git and GitHub in your next job or in your first Open Source contribution.
+      speakers: 
+        - name: Renana Yacobi
+          picture: 
+          bio:  
+
+- begin: 03:30AM 
+  end: 04:30PM
+  workshops:
+    - title: Open Sources Security 101
+      description: How do you get started with Open Source? If you’ve never contributed to an open source project before, making your first contribution can be intimidating. Not to mention, it can be difficult to know where to begin. Join us to learn everything you need to know about the Open Source community and how to make your first contribution! Hear stories from women in engineering about their open source involvement and contributions.
+      speakers: 
+        - name: Deveeshree Nayak
+          picture: deveeshree_nayak.jpeg
+          bio: A cybersecurity and IT Professor at the UW Tacoma with a diverse background in the field of cybersecurity (information system, computer engineering, and criminology and criminal justice), Deveeshree Nayak is a member of the inclusion working group of WiCyS and has been a member of WiCyS since 2014. She is also a member of Anita Borg Institute, OWASP, IEEE, ACM, etc. She has master’s in IS, CE, and criminology. Deveeshree  Nayak has taught/trained over 5000 underrepresented people in STEM as a volunteer and as a trainer. She is a part of the review and program committee for GHC Security and Privacy, I4CS, SciPy 2019, RESPECT 2020.
