@@ -1,5 +1,5 @@
-- begin: 08:00AM
-  end: 09:00AM
+- begin: 8:00AM
+  end: 9:00AM
   workshops:
     - title: Github 101
       description: If you have never used a code version control system, then this is the workshop for you! We will go over the basics of creating and cloning a repository, creating a branch, committing and pushing code and finalize with creating a pull request. Learn everything you need to know to get started with using Git and GitHub in your next job or in your first Open Source contribution.
@@ -8,7 +8,7 @@
           picture: renana_yacobi.jpeg
           bio: Renana has been working for over 17 years as a server-side software engineer, providing solutions in areas such as data mining, operating systems and image processing, specializing in distributed computation and systems. At Niantic she is focused on making the company’s games infrastructure scalable, secure and reliable. From time to time you can find her presenting or facilitating a workshop to encourage women to enter the world of backend and server engineering, or encourage them to contribute to Open Source.
 
-- begin: 09:30AM
+- begin: 9:30AM
   end: 10:30AM
   workshops:
     - title: Make your first contribution to Open Source
@@ -39,8 +39,8 @@
           bio: Vasundhara (xe/they) is a Speech Recognition Engineer at Dialpad working to improve the transcription of keywords, names and numbers. Xe gets excited about code and language in particular, the subtle differences in how people use language fascinates xem. In xyr free time, xe likes to sing, play piano and go birding. Find xem on Twitter at @VasundharaNLP.
 
 
-- begin: 12:30AM 
-  end: 01:30PM
+- begin: 12:30PM
+  end: 1:30PM
   workshops:
     - title: How to influence your company to open source tech
       description: Open sourcing technology can have strategic impact on a companies goals and trajectory especially within the developer market. The following talk will walk participants through a variety of strategies and reasons for open sourcing technology and give participants frameworks for how to decide what to open source and why.
@@ -55,8 +55,8 @@
           picture: sarah_kaiser.jpeg
           bio: Sarah is currently a technical staff member and quantum community lead at Unitary Fund, a non-profit working on building the quantum open source community. She has spent much of her career developing new quantum hardware in the lab, from building satellites to hacking quantum cryptography hardware and VR technology. Communicating what is so exciting about quantum technology is her passion, and loves building new demos, tools, and partnerships to help enable the quantum community to grow. When not at the keyboard she loves kayaking, laser cutting everything (safe), and writing books about engineering for kids and adults alike.
 
-- begin: 02:00PM 
-  end: 03:00PM
+- begin: 2:00PM 
+  end: 3:00PM
   workshops:
     - title: Get better at Git - End chaos in your collaboration
       description:  Looking to level up your Git game?<br> We invite you to our Git party, where we provide you with hands-on examples of real world scenarios where you would use git features to fix common mistakes and restore your git history. We will cover how to handle merge conflicts, how to revert a commit, how to use git rebase to rewrite history, and how to use cherry-pick to keep only the commits you want.<br> Join us to learn and have fun. <br> <br>
@@ -74,8 +74,8 @@
           picture: 
           bio:  
 
-- begin: 03:30AM 
-  end: 04:30PM
+- begin: 3:30PM
+  end: 4:30PM
   workshops:
     - title: Open Sources Security 101
       description: How do you get started with Open Source? If you’ve never contributed to an open source project before, making your first contribution can be intimidating. Not to mention, it can be difficult to know where to begin. Join us to learn everything you need to know about the Open Source community and how to make your first contribution! Hear stories from women in engineering about their open source involvement and contributions.
