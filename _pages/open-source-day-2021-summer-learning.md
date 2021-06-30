@@ -100,7 +100,7 @@ body {
   {% for speaker in workshop.speakers %}
     <div class="card" >
       <div class="row">
-          <img src="/assets/images/speakers/{{speaker.picture}}" alt="{{speaker.picture}}" style="width:300px;height:300px;">
+          <img src="/open-source-day/assets/images/speakers/{{speaker.picture}}" alt="{{speaker.picture}}" style="width:300px;height:300px;">
           <h3>{{ speaker.name }}</h3> 
           <p>{{ speaker.bio }}</p>
       </div>

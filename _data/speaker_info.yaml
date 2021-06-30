@@ -26,7 +26,7 @@
       speakers: 
         - name: Ria Bhatia
           picture: Ria_Bhatia.jpeg
-          bio: <br>Ria Bhatia is a Product Manager for Niantic Labs. <br> She currently works on Core Infra and is excited about building Niantic’s infrastructure stack on open source projects like Envoy and Kubernetes. <br> She was previously a Program Manager for Microsoft building Open Source projects that extended Kubernetes for developers.<br> She currently lives in Seattle with her rescue pup Rue. Rue is from Taiwan and loves belly rubs. <br> <br> <br> <br>
+          bio: <br>Ria Bhatia is a Product Manager for Niantic Labs. <br> She currently works on Core Infra and is excited about building Niantic’s infrastructure stack on open source projects like Envoy and Kubernetes. She was previously a Program Manager for Microsoft building Open Source projects that extended Kubernetes for developers.<br> She currently lives in Seattle with her rescue pup Rue. Rue is from Taiwan and loves belly rubs. <br> <br> <br> <br>
 
 - begin: 11:00AM 
   end: 12:00PM
@@ -48,21 +48,22 @@
           picture: Neha_Giri.jpeg
           bio: Neha Giri is a Software Architect at Intuit. She has about 15 years of experience in the software industry with various organizations including Ericsson and Ciena in India, Sweden and Canada. She is passionate about open source software and has helped first timers contribute to open source at Intuit. She believes in the power of collaboration and has driven many projects across globally dispersed teams. She loves helping team members to upgrade their leadership and technical skills by coaching and personal projects on new technologies. She received her Bachelor of Engineering degree in Computer Science from Delhi University.
 
-# - begin: 12:30AM 
-#   end: 01:30PM
-#   workshops_speaker:
-#     - title: Contributing to Kubernetes 101
-#       description: Do you want to contribute to Kubernetes? Not sure how or where to begin? It can be overwhelming! But fear not - you can join the thousands of successful contributors too! In this new contributor workshop, we will explore how the Kubernetes community is structured, discuss the skills the attendees need to get started and learn the best ways to get their first Pull Request accepted. After this talk, contributing to Kubernetes will no longer be intimidating. The attendees will be able to fix any bugs that they encounter in their day job or otherwise.
-#       speakers: 
-#         - name: Nikhita Raghunath
-#           picture: nikhita_raghunath.jpeg
-#           bio:   
-#     - title: Contributing to Kubernetes 101
-#       description: Do you want to contribute to Kubernetes? Not sure how or where to begin? It can be overwhelming! But fear not - you can join the thousands of successful contributors too! In this new contributor workshop, we will explore how the Kubernetes community is structured, discuss the skills the attendees need to get started and learn the best ways to get their first Pull Request accepted. After this talk, contributing to Kubernetes will no longer be intimidating. The attendees will be able to fix any bugs that they encounter in their day job or otherwise.
-#       speakers: 
-#         - name: Divya Mohan
-#           picture: divya_mohan.jpeg
-#           bio: 
+- begin: 12:30AM 
+  end: 01:30PM
+  workshops_speaker:
+    - title: Contributing to Kubernetes 101
+      description: Do you want to contribute to Kubernetes? Not sure how or where to begin? It can be overwhelming! But fear not - you can join the thousands of successful contributors too! In this new contributor workshop, we will explore how the Kubernetes community is structured, discuss the skills the attendees need to get started and learn the best ways to get their first Pull Request accepted. After this talk, contributing to Kubernetes will no longer be intimidating. The attendees will be able to fix any bugs that they encounter in their day job or otherwise.
+      speakers: 
+        - name: Nikhita Raghunath
+          picture: Nikhita_Raghunath.jpeg
+          bio: Nikhita is a Staff Engineer at VMware, a member of the Kubernetes Steering Committee and a CNCF Ambassador. She is also the technical lead for a Special Interest Group (SIG) - SIG Contributor Experience - in the upstream Kubernetes project. She also helps run the Google Summer of Code (GSoC) and Outreachy internship programs for CNCF/Kubernetes.
+
+    - title: Contributing to Kubernetes 101
+      description: Do you want to contribute to Kubernetes? Not sure how or where to begin? It can be overwhelming! But fear not - you can join the thousands of successful contributors too! In this new contributor workshop, we will explore how the Kubernetes community is structured, discuss the skills the attendees need to get started and learn the best ways to get their first Pull Request accepted. After this talk, contributing to Kubernetes will no longer be intimidating. The attendees will be able to fix any bugs that they encounter in their day job or otherwise.
+      speakers: 
+        - name: Divya Mohan
+          picture: Divya_Mohan.jpeg
+          bio: A systems nerd, Divya currently leads a team at HSBC as part of her day job. She is extremely passionate about contributing to Open Source & is the SIG Docs Lead for LitmusChaos, a FOSS Chaos Engineering tool. She has served on a few Release cycles for Kubernetes & loves speaking about her (mis)adventures in the Open source space at various events.<br> <br>
 
 - begin: 02:00PM 
   end: 03:00PM
