@@ -1,4 +1,4 @@
-- project: Augur
+- name: Augur
   link: 
   mentors:
     - name: Srishti Guleria
@@ -8,7 +8,7 @@
       slack:
       ask-me: Open Source ☀️
       image:
-- project: Awesome Portfolio Websites
+- name: Awesome Portfolio Websites
   link: 
   mentors:
     - name: Yunika Bajracharya
@@ -25,7 +25,7 @@
       slack:
       ask-me:
       image:
-- project: Backdrop CMS
+- name: Backdrop CMS
   link: 
   mentors:
     - name: Padmini Rai
@@ -42,7 +42,7 @@
       slack:
       ask-me:
       image:
-- project: Ceph
+- name: Ceph
   link: 
   mentors:
     - name: varsha
@@ -59,7 +59,7 @@
       slack:
       ask-me: Ceph, s3select, rgw
       image:
-- project: CircuitVerse
+- name: CircuitVerse
   link: 
   mentors:
     - name: Garima Singh
@@ -76,7 +76,7 @@
       slack:
       ask-me:
       image:
-- project: Greenpeace Planet 4
+- name: Greenpeace Planet 4
   link: 
   mentors:
     - name: Iris Guo
@@ -107,7 +107,7 @@
       slack:
       ask-me: Git, web development, and open source!
       image:
-- project: Open Stack
+- name: Open Stack
   link: 
   mentors:
     - name: Archana Kumari
@@ -124,7 +124,7 @@
       slack:
       ask-me: 
       image:   
-- project: OpenStreetMap
+- name: OpenStreetMap
   link: 
   mentors:
     - name: Pragya Chauhan
@@ -148,17 +148,17 @@
       slack:
       ask-me:
       image:
-- project: Visual Studio Code
+- name: Visual Studio Code
   link: 
   mentors:
     - name: Kajol Kumari
       github: https://github.com/Kajol-Kumari
       linkedin: https://www.linkedin.com/in/kajol-kumari-73245b166/
       twitter: https://twitter.com/_Kajol_singh_
-      slack:
+      slack: https://opensourceday.slack.com/team/U026W6WJK3N
       ask-me: Typescript, JavaScript, Angular, Node, Git, Django, React, Docker
       image:
-- project: Wildfly Elytron
+- name: Wildfly Elytron
   link: 
   mentors:
     - name: Sonia Zaldana Calles
