@@ -79,14 +79,17 @@ GEM
     sawyer (0.8.2)
       addressable (>= 2.3.5)
       faraday (> 0.8, < 2.0)
+    webrick (1.7.0)
 
 PLATFORMS
   universal-darwin-18
+  x86_64-darwin-19
 
 DEPENDENCIES
   jekyll (~> 3.7)
   kramdown-parser-gfm
   minimal-mistakes-jekyll
+  webrick (~> 1.7)
 
 BUNDLED WITH
-   2.2.17
+   2.2.21

@@ -276,23 +276,18 @@
   box-sizing: border-box;
 }
 
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
-  padding: 16px;
-  text-align: center;
-  background-color: white;
+body {
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-.time-column {
-  float: left;
-  width: 25%;
-  padding: 0 10px;
+/* Float four columns side by side */
+.column {
+  /* float: left;
+  width: 85%; */
+  padding: 10px 10px; 
+  /* flex: 50%; */
 }
-.workshop-column {
-  float: left;
-  width: 75%;
-  padding: 0 10px;
-}
+
 
 /* Remove extra left and right margins, due to padding in columns */
 .row {margin: 0 -5px;}
@@ -304,6 +299,18 @@
   clear: both;
 }
 
+/* Style the counter cards */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+  padding: 20px;
+  text-align: center;
+  background-color: #f1f1f1;
+  /* justify-content: space-around; */
+  margin-top: 0.2em;
+}
+
+
+/* Responsive columns - one column layout (vertical) on small screens */
 @media screen and (max-width: 600px) {
   .column {
     width: 100%;
@@ -311,7 +318,9 @@
     margin-bottom: 20px;
   }
 }
-
+.flex-container {
+  display: flex;
+}
 .section-wrapper {
     padding : 100px 0;
     }
@@ -320,44 +329,298 @@
 
 <body>
 
-<div class="row">
-  <div class="time-column">
-    <h2>8:00AM - 9:00AM</h2>
+<div class="flex-container">
+  <div class="column">
+    8:00AM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 9:00AM
   </div>
-  <div class="workshop-column">
+  
+  <div class="column">
     <div class="card">
-      <h2>Github 101 - Renana Yacobi</h2>
-      <p><p>If you have never used a code version control system, then this is the workshop for you! We will go over the basics of creating and cloning a repository, creating a branch, committing and pushing code and finalize with creating a pull request. Learn everything you need to know to get started with using Git and GitHub in your next job or in your first Open Source contribution.</p>
-</p>
+      <h4 style="margin-bottom: 2em; margin-top: 1em;">Github 101</h4>
+      
+      <div>
+        <i class="btn btn-light fa fa-dribbble fa-1x" href="#"> <h4 style="margin-bottom: 0.5em; margin-top: -1em; font-size: 1em;">Renana Yacobi</h4> </i>
+      </div>
+      
+      <p>If you have never used a code version control system, then this is the workshop for you! We will go over the basics of creating and cloning a repository, creating a branch, committing and pushing code and finalize with creating a pull request. Learn everything you need to know to get started with using Git and GitHub in your next job or in your first Open Source contribution.</p>
     </div>
   </div>
+  
 </div>
 
-<div class="row">
-  <div class="time-column">
-    <h2>8:00AM - 9:00AM</h2>
+<div class="flex-container">
+  <div class="column">
+    9:30AM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 10:30AM
   </div>
-  <div class="workshop-column">
+  
+  <div class="column">
     <div class="card">
-      <h2>Make your first contribution to Open Source - Neha Giri</h2>
-      <p><p>How do you get started with Open Source? If you’ve never contributed to an open source project before, making your first contribution can be intimidating. Not to mention, it can be difficult to know where to begin. Join us to learn everything you need to know about the Open Source community and how to make your first contribution! Hear stories from women in engineering about their open source involvement and contributions.</p>
-</p>
+      <h4 style="margin-bottom: 2em; margin-top: 1em;">Make your first contribution to Open Source</h4>
+      
+      <div>
+        <i class="btn btn-light fa fa-dribbble fa-1x" href="#"> <h4 style="margin-bottom: 0.5em; margin-top: -1em; font-size: 1em;">Neha Giri</h4> </i>
+      </div>
+      
+      <p>How do you get started with Open Source? If you’ve never contributed to an open source project before, making your first contribution can be intimidating. Not to mention, it can be difficult to know where to begin. Join us to learn everything you need to know about the Open Source community and how to make your first contribution! Hear stories from women in engineering about their open source involvement and contributions.</p>
     </div>
   </div>
+  
+  <div class="column">
+    <div class="card">
+      <h4 style="margin-bottom: 2em; margin-top: 1em;">Contributing to Kubernetes 101</h4>
+      
+      <div>
+        <i class="btn btn-light fa fa-dribbble fa-1x" href="#"> <h4 style="margin-bottom: 0.5em; margin-top: -1em; font-size: 1em;">Nikhita Raghunath</h4> </i>
+      </div>
+      
+      <div>
+        <i class="btn btn-light fa fa-dribbble fa-1x" href="#"> <h4 style="margin-bottom: 0.5em; margin-top: -1em; font-size: 1em;">Divya Mohan</h4> </i>
+      </div>
+      
+      <p>Do you want to contribute to Kubernetes? Not sure how or where to begin? It can be overwhelming! But fear not - you can join the thousands of successful contributors too! In this new contributor workshop, we will explore how the Kubernetes community is structured, discuss the skills the attendees need to get started and learn the best ways to get their first Pull Request accepted. After this talk, contributing to Kubernetes will no longer be intimidating. The attendees will be able to fix any bugs that they encounter in their day job or otherwise.</p>
+    </div>
+  </div>
+  
 </div>
 
-<div class="row">
-  <div class="time-column">
-    <h2>8:00AM - 9:00AM</h2>
+<div class="flex-container">
+  <div class="column">
+    11:00AM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 12:00PM
   </div>
-  <div class="workshop-column">
+  
+  <div class="column">
     <div class="card">
-      <h2>Contributing to Kubernetes 101 - Nikhita Raghunath and Divya Mohan</h2>
-      <p><p>Do you want to contribute to Kubernetes? Not sure how or where to begin? It can be overwhelming! But fear not - you can join the thousands of successful contributors too! In this new contributor workshop, we will explore how the Kubernetes community is structured, discuss the skills the attendees need to get started and learn the best ways to get their first Pull Request accepted. After this talk, contributing to Kubernetes will no longer be intimidating. The attendees will be able to fix any bugs that they encounter in their day job or otherwise.</p>
-</p>
+      <h4 style="margin-bottom: 2em; margin-top: 1em;">Sure, It's Open, But Is It Inclusive?</h4>
+      
+      <div>
+        <i class="btn btn-light fa fa-dribbble fa-1x" href="#"> <h4 style="margin-bottom: 0.5em; margin-top: -1em; font-size: 1em;">Vasundhara Gautam</h4> </i>
+      </div>
+      
+      <p>This workshop invites you to explore how you can create more inclusive open source code, docs and communities, with a focus on language. Many open source projects are still filled with exclusionary language that can have a negative impact on people even while not being used with exclusionary intent. We'll look at some such examples of technical and nontechnical terms with problematic origins and connotations, discuss more inclusive alternatives, and then practise addressing "inclusion debt" in projects. You'll also learn that like tech debt, inclusion debt is also never done because language use is always shifting. Your projects will need multiple perspectives to shift and grow with it!</p>
     </div>
   </div>
+  
 </div>
+
+<div class="flex-container">
+  <div class="column">
+    12:30PM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 1:30PM
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <h4 style="margin-bottom: 2em; margin-top: 1em;">How to influence your company to open source tech</h4>
+      
+      <div>
+        <i class="btn btn-light fa fa-dribbble fa-1x" href="#"> <h4 style="margin-bottom: 0.5em; margin-top: -1em; font-size: 1em;">Ria Bhatia</h4> </i>
+      </div>
+      
+      <p>Open sourcing technology can have strategic impact on a companies goals and trajectory especially within the developer market. The following talk will walk participants through a variety of strategies and reasons for open sourcing technology and give participants frameworks for how to decide what to open source and why.</p>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <h4 style="margin-bottom: 2em; margin-top: 1em;">Everyone can be a quantum open source developer! 💖</h4>
+      
+      <div>
+        <i class="btn btn-light fa fa-dribbble fa-1x" href="#"> <h4 style="margin-bottom: 0.5em; margin-top: -1em; font-size: 1em;">Dr. Sarah Kaiser</h4> </i>
+      </div>
+      
+      <p>Quantum computing is an exciting and growing tech field that has adopted open source languages and platforms to address its unique challenges. Just like learning a new package or toolchain in your favorite language, you to can learn quantum computing via open source project and have an impact on the direction of the field! In this workshop, we will cover what in the heck quantum computing actually is, what are the current challenges that we can address with open source tools, and you will write your first quantum program in Python and Q#! <br /> <br /> <br /> <br /></p>
+    </div>
+  </div>
+  
+</div>
+
+<div class="flex-container">
+  <div class="column">
+    2:00PM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 3:00PM
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <h4 style="margin-bottom: 2em; margin-top: 1em;">Get better at Git - End chaos in your collaboration</h4>
+      
+      <div>
+        <i class="btn btn-light fa fa-dribbble fa-1x" href="#"> <h4 style="margin-bottom: 0.5em; margin-top: -1em; font-size: 1em;">Annu Joshi</h4> </i>
+      </div>
+      
+      <div>
+        <i class="btn btn-light fa fa-dribbble fa-1x" href="#"> <h4 style="margin-bottom: 0.5em; margin-top: -1em; font-size: 1em;">Shubha Rajan</h4> </i>
+      </div>
+      
+      <p>Looking to level up your Git game?<br /> We invite you to our Git party, where we provide you with hands-on examples of real world scenarios where you would use git features to fix common mistakes and restore your git history. We will cover how to handle merge conflicts, how to revert a commit, how to use git rebase to rewrite history, and how to use cherry-pick to keep only the commits you want.<br /> Join us to learn and have fun. <br /> <br /></p>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <h4 style="margin-bottom: 2em; margin-top: 1em;">Github 101</h4>
+      
+      <div>
+        <i class="btn btn-light fa fa-dribbble fa-1x" href="#"> <h4 style="margin-bottom: 0.5em; margin-top: -1em; font-size: 1em;">Renana Yacobi</h4> </i>
+      </div>
+      
+      <p>If you have never used a code version control system, then this is the workshop for you! We will go over the basics of creating and cloning a repository, creating a branch, committing and pushing code and finalize with creating a pull request.<br /> Learn everything you need to know to get started with using Git and GitHub in your next job or in your first Open Source contribution.</p>
+    </div>
+  </div>
+  
+</div>
+
+<div class="flex-container">
+  <div class="column">
+    3:30PM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 4:30PM
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <h4 style="margin-bottom: 2em; margin-top: 1em;">Open Sources Security 101</h4>
+      
+      <div>
+        <i class="btn btn-light fa fa-dribbble fa-1x" href="#"> <h4 style="margin-bottom: 0.5em; margin-top: -1em; font-size: 1em;">Deveeshree Nayak</h4> </i>
+      </div>
+      
+      <p>How do you get started with Open Source? If you’ve never contributed to an open source project before, making your first contribution can be intimidating. Not to mention, it can be difficult to know where to begin. Join us to learn everything you need to know about the Open Source community and how to make your first contribution! Hear stories from women in engineering about their open source involvement and contributions.</p>
+    </div>
+  </div>
+  
+</div>
+
+
+<br />
+<br />
+<h2 align="center">Our Speakers</h2> <br /> 
+
+
+<div class="flex-container">
+  
+  <div class="column">
+  
+    <div class="card">
+      <div class="row">
+          <img src="/open-source-day/assets/images/speakers/drsarah_kaiser.jpeg" alt="drsarah_kaiser.jpeg" style="width:300px;height:300px;" />
+          <h3>Dr. Sarah Kaiser</h3> 
+          <p>Sarah is currently a technical staff member and quantum community lead at Unitary Fund, a non-profit working on building the quantum open source community. She has spent much of her career developing new quantum hardware in the lab, from building satellites to hacking quantum cryptography hardware and VR technology. Communicating what is so exciting about quantum technology is her passion, and loves building new demos, tools, and partnerships to help enable the quantum community to grow. When not at the keyboard she loves kayaking, laser cutting everything (safe), and writing books about engineering for kids and adults alike.</p>
+      </div>
+    </div> 
+  
+  </div>
+  
+</div>
+
+<div class="flex-container">
+  
+  <div class="column">
+  
+    <div class="card">
+      <div class="row">
+          <img src="/open-source-day/assets/images/speakers/Deveeshree_Nayak.jpeg" alt="Deveeshree_Nayak.jpeg" style="width:300px;height:300px;" />
+          <h3>Deveeshree Nayak</h3> 
+          <p>A cybersecurity and IT Professor at the UW Tacoma with a diverse background in the field of cybersecurity (information system, computer engineering, and criminology and criminal justice). Deveeshree is member of the inclusion working group of WiCyS and has been a member of WiCyS since 2014. <br /> She is also a member of Anita Borg Institute, OWASP, IEEE, ACM, etc. She has master’s in IS, CE, and criminology. Deveeshree  Nayak has taught/trained over 5000 underrepresented people in STEM as a volunteer and as a trainer. She is a part of the review and program committee for GHC Security and Privacy, I4CS, SciPy 2019, RESPECT 2020.</p>
+      </div>
+    </div> 
+  
+  </div>
+  
+</div>
+
+<div class="flex-container">
+  
+  <div class="column">
+  
+    <div class="card">
+      <div class="row">
+          <img src="/open-source-day/assets/images/speakers/Ria_Bhatia.jpeg" alt="Ria_Bhatia.jpeg" style="width:300px;height:300px;" />
+          <h3>Ria Bhatia</h3> 
+          <p><br />Ria Bhatia is a Product Manager for Niantic Labs. <br /> She currently works on Core Infra and is excited about building Niantic’s infrastructure stack on open source projects like Envoy and Kubernetes. <br /> She was previously a Program Manager for Microsoft building Open Source projects that extended Kubernetes for developers.<br /> She currently lives in Seattle with her rescue pup Rue. Rue is from Taiwan and loves belly rubs. <br /> <br /> <br /> <br /></p>
+      </div>
+    </div> 
+  
+  </div>
+  
+</div>
+
+<div class="flex-container">
+  
+  <div class="column">
+  
+    <div class="card">
+      <div class="row">
+          <img src="/open-source-day/assets/images/speakers/vasundhara_gautam.jpeg" alt="vasundhara_gautam.jpeg" style="width:300px;height:300px;" />
+          <h3>Vasundhara Gautam</h3> 
+          <p>Vasundhara (xe/they) is a Speech Recognition Engineer at Dialpad working to improve the transcription of keywords, names and numbers. Xe gets excited about code and language in particular, the subtle differences in how people use language fascinates xem. In xyr free time, xe likes to sing, play piano and go birding.<br />Find xem on Twitter at @VasundharaNLP.</p>
+      </div>
+    </div> 
+  
+  </div>
+  
+</div>
+
+<div class="flex-container">
+  
+  <div class="column">
+  
+    <div class="card">
+      <div class="row">
+          <img src="/open-source-day/assets/images/speakers/Neha_Giri.jpeg" alt="Neha_Giri.jpeg" style="width:300px;height:300px;" />
+          <h3>Neha Giri</h3> 
+          <p>Neha Giri is a Software Architect at Intuit. She has about 15 years of experience in the software industry with various organizations including Ericsson and Ciena in India, Sweden and Canada. She is passionate about open source software and has helped first timers contribute to open source at Intuit. She believes in the power of collaboration and has driven many projects across globally dispersed teams. She loves helping team members to upgrade their leadership and technical skills by coaching and personal projects on new technologies. She received her Bachelor of Engineering degree in Computer Science from Delhi University.</p>
+      </div>
+    </div> 
+  
+  </div>
+  
+</div>
+
+<div class="flex-container">
+  
+  <div class="column">
+  
+    <div class="card">
+      <div class="row">
+          <img src="/open-source-day/assets/images/speakers/annu_joshi.png" alt="annu_joshi.png" style="width:300px;height:300px;" />
+          <h3>Annu Joshi</h3> 
+          <p>Annu is a data engineer building analytics solutions at QuantumBlack, a McKinsey company. <br />Her experience involves building distributed data pipelines on complex data systems across diverse problem domains. She’s also been helping with the organization of Grace Hopper Celebration for the last 3 years in various forms. She has a passion for enabling others to learn and grow.<br />You can often find her rambling about the latest books she’s reading or on some rare occasions, dancing to indian classical tunes.</p>
+      </div>
+    </div> 
+  
+  </div>
+  
+</div>
+
+<div class="flex-container">
+  
+  <div class="column">
+  
+    <div class="card">
+      <div class="row">
+          <img src="/open-source-day/assets/images/speakers/shubha_rajan.png" alt="shubha_rajan.png" style="width:300px;height:300px;" />
+          <h3>Shubha Rajan</h3> 
+          <p>Shubha Rajan is a Developer Programs Engineer at Google, where she spends most of her days building sample applications and contributing to Open Source tools which help developers securely and seamlessly connect to databases on Google Cloud. Before joining Google, she spent 3 years developing curriculum for STEM education nonprofits. Shubha is passionate about increasing access to CS education and promoting technical literacy in underserved and underrepresented communities, so that more people can start building the things they’ve dreamed about.</p>
+      </div>
+    </div> 
+  
+  </div>
+  
+</div>
+
+<div class="flex-container">
+  
+  <div class="column">
+  
+    <div class="card">
+      <div class="row">
+          <img src="/open-source-day/assets/images/speakers/Renana_Yacobi.jpeg" alt="Renana_Yacobi.jpeg" style="width:300px;height:300px;" />
+          <h3>Renana Yacobi</h3> 
+          <p>Renana has been working for over 17 years as a server-side software engineer, providing solutions in areas such as data mining, operating systems and image processing, specializing in distributed computation and systems. At Niantic she is focused on making the company’s games infrastructure scalable, secure and reliable. From time to time you can find her presenting or facilitating a workshop to encourage women to enter the world of backend and server engineering, or encourage them to contribute to Open Source.</p>
+      </div>
+    </div> 
+  
+  </div>
+  
+</div>
+
 
 </body>
 
