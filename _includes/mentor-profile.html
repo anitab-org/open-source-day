@@ -1,0 +1,67 @@
+{% assign mentor = page.mentor | default: page.mentors[0] | default: site.mentor %}
+{% assign mentor = site.data.mentors-directory.mentors[mentor] | default: mentor %}
+
+<div itemscope itemtype="https://schema.org/Person">
+  {% if mentor.image %}
+    <div class="author__avatar">
+      {% if mentor.home %}
+        <a href="{{ mentor.home | relative_url }}">
+          <img src="/assets/images/mentors/{{ mentor.image | relative_url }}" alt="{{ mentor.name }}" itemprop="image">
+        </a>
+      {% else %}
+        <img src="/assets/images/mentors/{{ mentor.image | relative_url }}" alt="{{ mentor.name }}" itemprop="image">
+      {% endif %}
+    </div>
+  {% endif %}
+
+  <div class="author__content">
+    {% if mentor.home %}
+      <a href="{{ mentor.home | relative_url }}"><h3 class="author__name" itemprop="name">{{ mentor.name }}</h3></a>
+    {% else %}
+      <h3 class="author__name" itemprop="name">{{ mentor.name }}</h3>
+    {% endif %}
+    {% if mentor.ask-me %}
+      <div class="author__bio" itemprop="description">
+        {{ mentor.ask-me | markdownify }}
+      </div>
+    {% endif %}
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
+    <ul class="author__urls social-icons">
+      {% if mentor.slack %}
+        <li>
+          <a href="{{ mentor.slack }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+            <i class="fab fa-fw fa-slack" aria-hidden="true"></i><span class="label">Slack</span>
+          </a>
+        </li>
+      {% endif %}
+
+      {% if mentor.twitter %}
+        <li>
+          <a href="{{ mentor.twitter }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+            <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i><span class="label">Twitter</span>
+          </a>
+        </li>
+      {% endif %}
+
+      {% if mentor.linkedin %}
+        <li>
+          <a href="{{ mentor.linkedin }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+            <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span class="label">LinkedIn</span>
+          </a>
+        </li>
+      {% endif %}
+
+      {% if mentor.github %}
+        <li>
+          <a href="{{ mentor.github }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+            <i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span>
+          </a>
+        </li>
+      {% endif %}
+
+    </ul>
+  </div>
+</div>
