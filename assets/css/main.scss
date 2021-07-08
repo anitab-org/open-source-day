@@ -6,3 +6,13 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.mentor-details {
+    background: linear-gradient(59deg, #74bcf0 0%, #d4dff7 64%);
+    border-radius: 10px;
+    padding: 10px 80px;
+}
+
+.author__urls {
+    display: flex;
+}

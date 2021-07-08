@@ -1,7 +1,7 @@
 {% assign mentor = page.mentor | default: page.mentors[0] | default: site.mentor %}
 {% assign mentor = site.data.mentors-directory.mentors[mentor] | default: mentor %}
 
-<div itemscope itemtype="https://schema.org/Person">
+<div itemscope itemtype="https://schema.org/Person" class="mentor-details">
   {% if mentor.image %}
     <div class="author__avatar">
       {% if mentor.home %}
