@@ -14,5 +14,19 @@
 }
 
 .author__urls {
-    display: flex;
+  display: flex;
+}
+
+.author__avatar {
+  img {
+    max-width: 180px;
+  }
+}
+
+.mentor-details {
+  display: flex;
+}
+
+.mentor-details-wrapper {
+  padding: 10px 60px;
 }
