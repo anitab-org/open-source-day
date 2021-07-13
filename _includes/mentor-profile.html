@@ -3,7 +3,7 @@
 
 <div itemscope itemtype="https://schema.org/Person" class="mentor-details">
   {% if mentor.image %}
-    <div class="author__avatar">
+    <div class="mentor__avatar">
       {% if mentor.home %}
         <a href="{{ mentor.home | relative_url }}">
           <img src="/assets/images/mentors/{{ mentor.image | relative_url }}" alt="{{ mentor.name }}" itemprop="image">
@@ -15,22 +15,22 @@
   {% endif %}
 
 <div class="mentor-details-wrapper">
-  <div class="author__content">
+  <div class="mentor__content">
     {% if mentor.home %}
-      <a href="{{ mentor.home | relative_url }}"><h3 class="author__name" itemprop="name">{{ mentor.name }}</h3></a>
+      <a href="{{ mentor.home | relative_url }}"><h3 class="mentor__name" itemprop="name">{{ mentor.name }}</h3></a>
     {% else %}
-      <h3 class="author__name" itemprop="name">{{ mentor.name }}</h3>
+      <h3 class="mentor__name" itemprop="name">{{ mentor.name }}</h3>
     {% endif %}
     {% if mentor.ask-me %}
-      <div class="author__bio" itemprop="description">
+      <h4 style="font-weight: bold;font-style: italic;color: #603078;">Ask me about...</h4>
+      <div class="mentor__bio" itemprop="description">
         {{ mentor.ask-me | markdownify }}
       </div>
     {% endif %}
   </div>
 
-  <div class="author__urls-wrapper">
-    <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
-    <ul class="author__urls social-icons">
+  <div class="mentor__urls-wrapper">
+    <ul class="mentor__urls social-icons">
       {% if mentor.slack %}
         <li>
           <a href="{{ mentor.slack }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
