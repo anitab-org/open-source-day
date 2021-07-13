@@ -16,14 +16,14 @@
       linkedin: https://www.linkedin.com/in/yunikabajracharya/
       twitter: https://twitter.com/YBajracharya_
       slack: https://opensourceday.slack.com/team/U026W6WGTT6
-      ask-me: Open Source
+      ask-me:
       image: yunika-bajracharya.jpg
     - name: Divya Goswami
       github: https://github.com/rachejazz
       linkedin: https://www.linkedin.com/in/rachejazz
       twitter: https://twitter.com/rachejazz
       slack:
-      ask-me: Open Source
+      ask-me:
       image: divya-goswami.jpg
 - name: Backdrop CMS
   link: 
@@ -33,14 +33,14 @@
       linkedin: https://www.linkedin.com/in/padminiraicomputerscience/
       twitter:
       slack:
-      ask-me: Open Source
+      ask-me:
       image: padmini-rai.jpg
     - name: Nidhi Zare
       github: https://github.com/nzare
       linkedin: https://www.linkedin.com/in/nidhizare
       twitter:
       slack: https://opensourceday.slack.com/team/U026W6WL3U4
-      ask-me: Open Source
+      ask-me:
       image: nidhi-zare.png
 - name: Ceph
   link: 
@@ -50,7 +50,7 @@
       linkedin:
       twitter:
       slack:
-      ask-me: Open Source
+      ask-me:
       image: techie.png
     - name: Girjesh Rajoria
       github: https://github.com/grajoria
@@ -74,7 +74,7 @@
       linkedin: https://www.linkedin.com/in/madhurimachakraborty93/
       twitter: https://twitter.com/FriendingNimmo
       slack:
-      ask-me: Open Source
+      ask-me:
       image: nimmo.jpg
 - name: Greenpeace Planet 4
   link: 
@@ -98,7 +98,7 @@
       linkedin: https://www.linkedin.com/in/aliya-rahmani-3a45431b5/
       twitter: https://twitter.com/aliyarahmani786
       slack: 
-      ask-me: Open Source
+      ask-me:
       image: aliya-rahmani.png
     - name: Alice Kim
       github: https://github.com/yehee
@@ -115,14 +115,14 @@
       linkedin: https://www.linkedin.com/in/archanaserver/
       twitter: https://twitter.com/archanaserver
       slack: https://opensourceday.slack.com/team/U026U53SK6C
-      ask-me: Open Source
+      ask-me:
       image: archana-kumari.png
     - name: Rakshitha
       github: https://github.com/rakshitharj
       linkedin: https://www.linkedin.com/in/rakshitha-jayarame-gowda/
       twitter: https://twitter.com/rakshitha_r_j
       slack: 
-      ask-me: Open Source
+      ask-me:
       image: rakshitha.jpeg
 - name: OpenStreetMap
   link: 
@@ -146,7 +146,7 @@
       linkedin: https://www.linkedin.com/in/prachi94/
       twitter:
       slack:
-      ask-me: Open Source
+      ask-me:
       image: prachi.png
 - name: Visual Studio Code
   link: 
