@@ -6,3 +6,139 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.mentor-details {
+    background: linear-gradient(59deg, #A8A8D8 0%, #D8D8F0 64%);
+    border-radius: 10px;
+    padding: 10px 20px;
+    display: flex;
+}
+
+.mentor-details .mentor-details-wrapper {
+  padding: 10px 20px;
+}
+
+@media (max-width: 800px) {
+  .mentor-details {
+    flex-direction: column;
+  }
+}
+
+.mentor-details .mentor__avatar {
+  display: table-cell;
+  vertical-align: top;
+
+  @include breakpoint($large) {
+    display: block;
+    width: auto;
+    height: auto;
+  }
+
+  img {
+    max-width: 180px;
+    border-radius: 50%;
+
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid $border-color;
+    }
+  }
+}
+
+.mentor-details .mentor__content {
+  display: table-cell;
+  vertical-align: top;
+  padding-left: 15px;
+  padding-right: 25px;
+  line-height: 1;
+
+  @include breakpoint($large) {
+    display: block;
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+}
+
+.mentor__name {
+  margin: 0;
+
+  @include breakpoint($large) {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}
+
+.mentor__bio {
+  margin: 0;
+
+  @include breakpoint($large) {
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+}
+
+.mentor-details .mentor__urls-wrapper {
+  position: relative;
+  display: table-cell;
+  vertical-align: middle;
+  font-family: $sans-serif;
+  z-index: 20;
+  cursor: pointer;
+
+  li:last-child {
+    a {
+      margin-bottom: 0;
+    }
+  }
+
+  .mentor__urls {
+    span.label {
+      padding-left: 5px;
+    }
+  }
+
+  @include breakpoint($large) {
+    display: block;
+  }
+}
+
+.mentor-details .mentor__urls {
+  display: block;
+  position: relative;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  box-shadow: none;
+
+  ul {
+    padding: 10px;
+    list-style-type: none;
+  }
+
+  li {
+    display: inline;
+    white-space: nowrap;
+  }
+
+  a {
+    display: inline-block;
+    margin-bottom: 5px;
+    padding-right: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: inherit;
+    font-size: $type-size-5;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}

@@ -1,0 +1,170 @@
+- name: Augur
+  link: 
+  mentors:
+    - name: Srishti Guleria
+      github: https://github.com/sg7801
+      linkedin: https://www.linkedin.com/in/srishti-guleria-5a790219a
+      twitter: https://www.twitter.com/srishti_guleria
+      slack: https://opensourceday.slack.com/team/U026H8FRASJ
+      ask-me: Open Source
+      image: srishti-guleria.jpg
+- name: Awesome Portfolio Websites
+  link: 
+  mentors:
+    - name: Yunika Bajracharya
+      github: https://github.com/Yunika-Bajracharya
+      linkedin: https://www.linkedin.com/in/yunikabajracharya/
+      twitter: https://twitter.com/YBajracharya_
+      slack: https://opensourceday.slack.com/team/U026W6WGTT6
+      ask-me:
+      image: yunika-bajracharya.jpg
+    - name: Divya Goswami
+      github: https://github.com/rachejazz
+      linkedin: https://www.linkedin.com/in/rachejazz
+      twitter: https://twitter.com/rachejazz
+      slack:
+      ask-me:
+      image: divya-goswami.jpg
+- name: Backdrop CMS
+  link: 
+  mentors:
+    - name: Padmini Rai
+      github: https://github.com/PadminiRai/
+      linkedin: https://www.linkedin.com/in/padminiraicomputerscience/
+      twitter:
+      slack:
+      ask-me:
+      image: padmini-rai.jpg
+    - name: Nidhi Zare
+      github: https://github.com/nzare
+      linkedin: https://www.linkedin.com/in/nidhizare
+      twitter:
+      slack: https://opensourceday.slack.com/team/U026W6WL3U4
+      ask-me:
+      image: nidhi-zare.png
+- name: Ceph
+  link: 
+  mentors:
+    - name: varsha
+      github: https://github.com/varshar16
+      linkedin:
+      twitter:
+      slack:
+      ask-me:
+      image: techie.png
+    - name: Girjesh Rajoria
+      github: https://github.com/grajoria
+      linkedin: https://www.linkedin.com/in/GirjeshRajoria
+      twitter: https://twitter.com/GirjeshRajoria
+      slack: 
+      ask-me: Ceph, s3select, rgw
+      image: rajoria-girjesh.png
+- name: CircuitVerse
+  link: 
+  mentors:
+    - name: Garima Singh
+      github: https://www.github.com/garimasingh128
+      linkedin: https://www.linkedin.com/in/garimasinghnitp
+      twitter: https://twitter.com/garingh128
+      slack: https://opensourceday.slack.com/team/U026U541XEU
+      ask-me: Open source, Programming, Women in Tech, Career opportunities, Internship experiences and life in general.
+      image: garima-singh.png
+    - name: Nimmo
+      github: https://github.com/MadhuNimmo
+      linkedin: https://www.linkedin.com/in/madhurimachakraborty93/
+      twitter: https://twitter.com/FriendingNimmo
+      slack:
+      ask-me:
+      image: nimmo.jpg
+- name: Greenpeace Planet 4
+  link: 
+  mentors:
+    - name: Iris Guo
+      github:
+      linkedin: https://www.linkedin.com/in/iris-guo
+      twitter: https://twitter.com/IrisGuoo
+      slack: https://opensourceday.slack.com/team/U026U53U2MN
+      ask-me: Climate Change, Food Sustainability, Product Management, Ideation & Brainstorming, Problem Solving, Career Directions, Working at Tech Companies
+      image: iris-guo.png
+    - name: Kriti Singh
+      github: https://github.com/kritisingh1
+      linkedin: https://www.linkedin.com/in/kriti-singh-9b5bb512b/
+      twitter: https://twitter.com/kritisingh1ks
+      slack: https://opensourceday.slack.com/team/U026H49QA2D
+      ask-me: Git, GitHub, Open Source Development, JavaScript, ReactJS, NodeJS, Shell Scripting, Python, Java
+      image: kriti-singh.jpeg
+    - name: Aliya Rahmani
+      github: https://github.com/aliya-rahmani
+      linkedin: https://www.linkedin.com/in/aliya-rahmani-3a45431b5/
+      twitter: https://twitter.com/aliyarahmani786
+      slack: 
+      ask-me:
+      image: aliya-rahmani.png
+    - name: Alice Kim
+      github: https://github.com/yehee
+      linkedin: https://www.linkedin.com/in/yehee
+      twitter:
+      slack:
+      ask-me: Git, web development, and open source!
+      image: alice-kim.png
+- name: Open Stack
+  link: 
+  mentors:
+    - name: Archana Kumari
+      github: https://github.com/archanaserver
+      linkedin: https://www.linkedin.com/in/archanaserver/
+      twitter: https://twitter.com/archanaserver
+      slack: https://opensourceday.slack.com/team/U026U53SK6C
+      ask-me:
+      image: archana-kumari.png
+    - name: Rakshitha
+      github: https://github.com/rakshitharj
+      linkedin: https://www.linkedin.com/in/rakshitha-jayarame-gowda/
+      twitter: https://twitter.com/rakshitha_r_j
+      slack: 
+      ask-me:
+      image: rakshitha.jpeg
+- name: OpenStreetMap
+  link: 
+  mentors:
+    - name: Pragya Chauhan
+      github: https://github.com/pragya-chauhan
+      linkedin: https://www.linkedin.com/in/pragyachauhan/
+      twitter:
+      slack:
+      ask-me: C++, Microservices, GitHub, Data Structures and Algorithms
+      image: pragya-chauhan.jpg
+    - name: Anindita
+      github:
+      linkedin: https://www.linkedin.com/in/anath2110
+      twitter:
+      slack:
+      ask-me: My Research or something related to OSD project
+      image: techie.png
+    - name: Prachi
+      github:
+      linkedin: https://www.linkedin.com/in/prachi94/
+      twitter:
+      slack:
+      ask-me:
+      image: prachi.png
+- name: Visual Studio Code
+  link: 
+  mentors:
+    - name: Kajol Kumari
+      github: https://github.com/Kajol-Kumari
+      linkedin: https://www.linkedin.com/in/kajol-kumari-73245b166/
+      twitter: https://twitter.com/_Kajol_singh_
+      slack: https://opensourceday.slack.com/team/U026W6WJK3N
+      ask-me: Typescript, JavaScript, Angular, Node, Git, Django, React, Docker
+      image: kajol-kumari.jpg
+- name: Wildfly Elytron
+  link: 
+  mentors:
+    - name: Sonia Zaldana Calles
+      github: https://github.com/SoniaZaldana
+      linkedin: https://www.linkedin.com/in/soniazaldana/
+      twitter: https://twitter.com/SoniaDZaldana
+      slack: https://opensourceday.slack.com/team/U026W6WEL3W
+      ask-me: becoming a software engineering intern!
+      image: sonia-zc.png
