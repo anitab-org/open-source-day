@@ -14,6 +14,7 @@
     </div>
   {% endif %}
 
+<div class="mentor-details-wrapper">
   <div class="author__content">
     {% if mentor.home %}
       <a href="{{ mentor.home | relative_url }}"><h3 class="author__name" itemprop="name">{{ mentor.name }}</h3></a>
@@ -63,5 +64,6 @@
       {% endif %}
 
     </ul>
+  </div>
   </div>
 </div>
