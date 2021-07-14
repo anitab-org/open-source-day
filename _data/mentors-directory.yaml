@@ -114,8 +114,11 @@
       ask-me: JavaScript, Python, Git, GitHub
       image: nimmo.jpg
     - name: Ritika Dhiman
+      github: https://github.com/ritika99
       linkedin: https://www.linkedin.com/in/ritikadhiman/
-      ask-me: Ask me about Git, Github, JavaScript, React, Python, C and HTML/CSS. Following contribution guidelines, good code style, best practices and proper documentation is equally important. I'll help you create your first PR towards open source contribution.
+      twitter: https://twitter.com/ritikadhiman18
+      slack: https://opensourceday.slack.com/team/U026X8CBPT9
+      ask-me: Git, Github, JavaScript, React, Python, C and HTML/CSS. Contribution guidelines, good code style, best practices and proper documentation. 
       image: ritika_dhiman.jpeg
 - name: Eclipse AQAvit
   link: 
