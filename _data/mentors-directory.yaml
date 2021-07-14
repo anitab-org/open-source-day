@@ -1,3 +1,13 @@
+- name: Apache Sharding Sphere
+  link: 
+  mentors:
+    - name: Namita Devadas
+      github: https://github.com/namitad
+      linkedin: https://www.linkedin.com/in/namita-devadas-289279141
+      twitter: https://twitter.com/DevadasNamita
+    - name: strongduanmu
+      github: https://github.com/strongduanmu
+    - name: RaigorJiang
 - name: Augur
   link: 
   mentors:
@@ -25,6 +35,10 @@
       slack:
       ask-me:
       image: divya-goswami.jpg
+    - name: Supritha Ravishankar
+      github: https://github.com/supzi-del
+      twitter: https://twitter.com/SuprithaRavish1
+      image: supritha_ravishankar.jpg
 - name: Backdrop CMS
   link: 
   mentors:
@@ -42,6 +56,10 @@
       slack: https://opensourceday.slack.com/team/U026W6WL3U4
       ask-me:
       image: nidhi-zare.png
+    - name: Sruthi 
+      github: https://github.com/SruthiSathya
+      linkedin: https://www.linkedin.com/in/sruthi1996/
+      ask-me: BackdropCMS, Git, Github
 - name: Ceph
   link: 
   mentors:
@@ -59,6 +77,25 @@
       slack: 
       ask-me: Ceph, s3select, rgw
       image: rajoria-girjesh.png
+    - name: Kriti Singh
+      github: https://github.com/kritisingh1
+      linkedin: https://www.linkedin.com/in/kriti-singh-9b5bb512b/
+      twitter: https://twitter.com/kritisingh1ks
+      slack: https://opensourceday.slack.com/team/U026H49QA2D
+      ask-me: Git, GitHub, Open Source Development, JavaScript, ReactJS, NodeJS, Shell Scripting, Python, Java
+      image: kriti-singh.jpeg
+- name: Choose Your Own Adventure
+  link: 
+  mentors:
+    - name: Yang Zhou
+      linkedin: https://www.linkedin.com/in/yang-zhou-julia/
+      image: yang_zhou.jpg
+    - name: Samantha Monteiro
+      github: https://github.com/samanthakem
+      linkedin: https://www.linkedin.com/in/samanthakem/
+      twitter: https://twitter.com/samanthakem_
+      image: samantha_monteiro.jpg
+    - name: Sooji
 - name: CircuitVerse
   link: 
   mentors:
@@ -76,30 +113,20 @@
       slack:
       ask-me:
       image: nimmo.jpg
-- name: Greenpeace Planet 4
+    - name: Ritika Dhiman
+      linkedin: https://www.linkedin.com/in/ritikadhiman/
+      ask-me: Ask me about Git, Github, JavaScript, React, Python, C and HTML/CSS. Following contribution guidelines, good code style, best practices and proper documentation is equally important. I'll help you create your first PR towards open source contribution.
+      image: ritika_dhiman.jpeg
+- name: Eclipse AQAvit
   link: 
   mentors:
-    - name: Iris Guo
-      github:
-      linkedin: https://www.linkedin.com/in/iris-guo
-      twitter: https://twitter.com/IrisGuoo
-      slack: https://opensourceday.slack.com/team/U026U53U2MN
-      ask-me: Climate Change, Food Sustainability, Product Management, Ideation & Brainstorming, Problem Solving, Career Directions, Working at Tech Companies
-      image: iris-guo.png
-    - name: Kriti Singh
-      github: https://github.com/kritisingh1
-      linkedin: https://www.linkedin.com/in/kriti-singh-9b5bb512b/
-      twitter: https://twitter.com/kritisingh1ks
-      slack: https://opensourceday.slack.com/team/U026H49QA2D
-      ask-me: Git, GitHub, Open Source Development, JavaScript, ReactJS, NodeJS, Shell Scripting, Python, Java
-      image: kriti-singh.jpeg
-    - name: Aliya Rahmani
-      github: https://github.com/aliya-rahmani
-      linkedin: https://www.linkedin.com/in/aliya-rahmani-3a45431b5/
-      twitter: https://twitter.com/aliyarahmani786
-      slack: 
-      ask-me:
-      image: aliya-rahmani.png
+    - name: Sayani Mallick
+      github: https://github.com/SAY-droid427
+      linkedin: https://www.linkedin.com/in/sayani-mallick-80825018b
+      image: sayani_mallick.jpeg
+- name: Material-UI
+  link: 
+  mentors:
     - name: Alice Kim
       github: https://github.com/yehee
       linkedin: https://www.linkedin.com/in/yehee
@@ -107,6 +134,17 @@
       slack:
       ask-me: Git, web development, and open source!
       image: alice-kim.png
+    - name: Victor Casas
+      github: https://github.com/vicasas
+      linkedin: https://www.linkedin.com/in/vicasas/
+      ask-me: Frontend, backend, development best practices and much more!.
+      image: victor_casas.jpg
+    - name: Harshita Kanal
+      github: https://github.com/Harshita-Kanal
+      linkedin: https://www.linkedin.com/in/harshita-kanal-400563166/
+      twitter: https://twitter.com/harshita_kanal
+      ask-me: Open Source, JavaScript, JavaScript Frameworks, React.js, Web Technologies
+      image: harshita_kanal.jpg
 - name: Open Stack
   link: 
   mentors:
@@ -124,6 +162,18 @@
       slack: 
       ask-me:
       image: rakshitha.jpeg
+    - name: Goutham Pacha Ravi
+      github: http://github.com/gouthampacha
+      linkedin: https://www.linkedin.com/in/gouthampacha
+      twitter: https://twitter.com/gpacharavi
+      ask-me: OpenStack, Manila, Shared File Systems
+      image: goutham_pacha_ravi.jpg
+    - name: HeroicHitesh
+      github: https://github.com/HeroicHitesh
+      linkedin: https://www.linkedin.com/in/heroichitesh/
+      twitter: https://twitter.com/HeroicHitesh
+      ask-me: How to start contributing to Open Stack
+      image: heroic_hitesh.jpeg
 - name: OpenStreetMap
   link: 
   mentors:
@@ -135,19 +185,33 @@
       ask-me: C++, Microservices, GitHub, Data Structures and Algorithms
       image: pragya-chauhan.jpg
     - name: Anindita
-      github:
+      github: https://github.com/anath2110
       linkedin: https://www.linkedin.com/in/anath2110
       twitter:
       slack:
       ask-me: My Research or something related to OSD project
       image: techie.png
     - name: Prachi
-      github:
+      github: 
       linkedin: https://www.linkedin.com/in/prachi94/
       twitter:
       slack:
       ask-me:
       image: prachi.png
+- name: pgRouting
+  link: 
+  mentors:
+    - name: Ruhi Elizabeth Thomas
+      github: https://github.com/stratospher
+      linkedin: https://www.linkedin.com/in/ruhi-thomas-6046501a0/
+      twitter: https://twitter.com/codebyru
+      ask-me: Open source, programming, web development and blockchain!
+      image: ruhi_elizabeth_thomas.jpg
+    - name: Kushal Kothari
+      github: https://github.com/Kushal-kothari
+      linkedin: https://www.linkedin.com/in/kushal-kothari-/
+      twitter: https://twitter.com/Kushal_kothari_
+      image: kushal_kothari.jpg
 - name: Visual Studio Code
   link: 
   mentors:
@@ -158,6 +222,11 @@
       slack: https://opensourceday.slack.com/team/U026W6WJK3N
       ask-me: Typescript, JavaScript, Angular, Node, Git, Django, React, Docker
       image: kajol-kumari.jpg
+    - name: Shraddha Shaligram
+      github: https://github.com/Shraddha2104
+      linkedin: https://www.linkedin.com/in/shraddha2104/
+      ask-me: Feel free to ask me anything and everything :) There are no stupid questions!
+      image: shraddha_shaligram.jpeg
 - name: Wildfly Elytron
   link: 
   mentors:
@@ -168,3 +237,8 @@
       slack: https://opensourceday.slack.com/team/U026W6WEL3W
       ask-me: becoming a software engineering intern!
       image: sonia-zc.png
+    - name: Ashpan
+      github: https://github.com/ashpan
+      twitter: https://twitter.com/ashpanr
+      ask-me: Applying for Internships
+      image: ashpan.png
