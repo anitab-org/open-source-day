@@ -6,10 +6,10 @@
     <div class="mentor__avatar">
       {% if mentor.home %}
         <a href="{{ mentor.home | relative_url }}">
-          <img src="/open-source-day/assets/images/mentors/{{ mentor.image | relative_url }}" alt="{{ mentor.name }}" itemprop="image">
+          <img src="/open-source-day/assets/images/mentors/{{ mentor.image }}" alt="{{ mentor.name }}" itemprop="image">
         </a>
       {% else %}
-        <img src="/open-source-day/assets/images/mentors/{{ mentor.image | relative_url }}" alt="{{ mentor.name }}" itemprop="image">
+        <img src="/open-source-day/assets/images/mentors/{{ mentor.image }}" alt="{{ mentor.name }}" itemprop="image">
       {% endif %}
     </div>
   {% endif %}
