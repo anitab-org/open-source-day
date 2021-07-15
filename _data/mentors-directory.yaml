@@ -80,6 +80,7 @@
       twitter: https://twitter.com/_himanshu_325
       slack: https://opensourceday.slack.com/team/U027JVC7M2P
       ask-me: I 💚 open-source
+      image: himanshu.png
 - name: Ceph
   link: 
   mentors:
@@ -123,11 +124,14 @@
       github: https://github.com/reubenae
       linkedin: https://www.linkedin.com/in/reuben-evans-8303a77a/
       slack: https://opensourceday.slack.com/team/U028Q5FNEU8
+      image: reuben_evans.jpg
     - name: Evangelina Gamez
       slack: https://opensourceday.slack.com/team/U027TJJC77U
+      image: evangelina_gamez.png
     - name: Maria Uyeda
       linkedin: https://www.linkedin.com/in/maria-uyeda/
       slack: https://opensourceday.slack.com/team/U027X5GPEBY
+      image: maria_uyeda.jpeg
 - name: CircuitVerse
   link: 
   mentors:
@@ -220,9 +224,11 @@
       twitter: https://twitter.com/tammmri
       slack: https://opensourceday.slack.com/team/U02847SHFRA
       ask-me: Contributing to OpenStack
+      image: maari_tamm.jpeg
     - name: Ashley Rodriguez
       linkedin: https://www.linkedin.com/in/ashley-r-45a426126/
       slack: https://opensourceday.slack.com/team/U027Y1M3W74
+      image: ashley_rodriguez.jpeg
 - name: OpenStreetMap
   link: 
   mentors:
@@ -276,6 +282,7 @@
     - name: Kritika Bansal
       linkedin: https://www.linkedin.com/in/kritika-bansal-11a734173/
       slack: https://opensourceday.slack.com/team/U027HSUN0BH
+      image: kritika_bansal.jpg
 - name: Visual Studio Code
   link: 
   mentors:
