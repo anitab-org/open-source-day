@@ -70,7 +70,6 @@ On the day of OSD:
 * Engage with participants to help them find an issue to work on, find a solution to their selected issue, and submit a merge request
 
 ### Mentors benefits
-OSD mentors that will participate in both OSD Summer 2021, that will take place on July 15th from 9AM-5PM PDT, 
-and OSD vGHC2021, that will take place on the week of September 27th, will be eligible to receive a free vGHC 2021 ticket.
+OSD mentors that will participate in OSD vGHC2021, that will take place on the week of September 27th, will be eligible to receive a free vGHC 2021 ticket.
 
 [Click here to apply!](https://airtable.com/shrREw8EXQfmSA4Uu){: .btn .btn--primary}
