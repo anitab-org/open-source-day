@@ -5,9 +5,12 @@
       github: https://github.com/namitad
       linkedin: https://www.linkedin.com/in/namita-devadas-289279141
       twitter: https://twitter.com/DevadasNamita
+      slack: https://opensourceday.slack.com/team/U026X8CDF47
     - name: strongduanmu
       github: https://github.com/strongduanmu
+      slack: https://opensourceday.slack.com/team/U027QKKUCLR
     - name: RaigorJiang
+      slack: https://opensourceday.slack.com/team/U026X8C7RRV
 - name: Augur
   link: 
   mentors:
@@ -39,12 +42,13 @@
       github: https://github.com/rachejazz
       linkedin: https://www.linkedin.com/in/rachejazz
       twitter: https://twitter.com/rachejazz
-      slack:
+      slack: https://opensourceday.slack.com/team/U026X8C46KH
       ask-me:
       image: divya-goswami.jpg
     - name: Supritha Ravishankar
       github: https://github.com/supzi-del
       twitter: https://twitter.com/SuprithaRavish1
+      slack: https://opensourceday.slack.com/team/U02862C866M
       image: supritha_ravishankar.jpg
 - name: Backdrop CMS
   link: 
@@ -53,7 +57,7 @@
       github: https://github.com/PadminiRai/
       linkedin: https://www.linkedin.com/in/padminiraicomputerscience/
       twitter:
-      slack:
+      slack: https://opensourceday.slack.com/team/U028N9M5DJ4
       ask-me:
       image: padmini-rai.jpg
     - name: Nidhi Zare
@@ -66,6 +70,7 @@
     - name: Sruthi 
       github: https://github.com/SruthiSathya
       linkedin: https://www.linkedin.com/in/sruthi1996/
+      slack: https://opensourceday.slack.com/team/U026U540DSL
       ask-me: BackdropCMS, Git, Github
 - name: Ceph
   link: 
@@ -74,14 +79,14 @@
       github: https://github.com/varshar16
       linkedin:
       twitter:
-      slack:
+      slack: https://opensourceday.slack.com/team/U026D0S5PHR
       ask-me:
       image: techie.png
     - name: Girjesh Rajoria
       github: https://github.com/grajoria
       linkedin: https://www.linkedin.com/in/GirjeshRajoria
       twitter: https://twitter.com/GirjeshRajoria
-      slack: 
+      slack: https://opensourceday.slack.com/team/U025YL01PTR
       ask-me: Ceph, s3select, rgw
       image: rajoria-girjesh.png
     - name: Kriti Singh
@@ -96,13 +101,16 @@
   mentors:
     - name: Yang Zhou
       linkedin: https://www.linkedin.com/in/yang-zhou-julia/
+      slack: https://opensourceday.slack.com/team/U027TR0ER4K
       image: yang_zhou.jpg
     - name: Samantha Monteiro
       github: https://github.com/samanthakem
       linkedin: https://www.linkedin.com/in/samanthakem/
       twitter: https://twitter.com/samanthakem_
+      slack: https://opensourceday.slack.com/team/U027J2D0A4F
       image: samantha_monteiro.jpg
     - name: Sooji
+      slack: https://opensourceday.slack.com/team/U027ZNX7EUU
 - name: CircuitVerse
   link: 
   mentors:
@@ -133,6 +141,7 @@
     - name: Sayani Mallick
       github: https://github.com/SAY-droid427
       linkedin: https://www.linkedin.com/in/sayani-mallick-80825018b
+      slack: https://opensourceday.slack.com/team/U026X8C62NT
       image: sayani_mallick.jpeg
 - name: Material-UI
   link: 
@@ -141,19 +150,21 @@
       github: https://github.com/yehee
       linkedin: https://www.linkedin.com/in/yehee
       twitter:
-      slack:
+      slack: https://opensourceday.slack.com/team/U027YJQLELA
       ask-me: Git, web development, and open source!
       image: alice-kim.png
     - name: Victor Casas
       github: https://github.com/vicasas
       linkedin: https://www.linkedin.com/in/vicasas/
       ask-me: Frontend, backend, development best practices and much more!.
+      slack: https://opensourceday.slack.com/team/U027MJ3J99T
       image: victor_casas.jpg
     - name: Harshita Kanal
       github: https://github.com/Harshita-Kanal
       linkedin: https://www.linkedin.com/in/harshita-kanal-400563166/
       twitter: https://twitter.com/harshita_kanal
       ask-me: Open Source, JavaScript, JavaScript Frameworks, React.js, Web Technologies
+      slack: https://opensourceday.slack.com/team/U026X8C25L7
       image: harshita_kanal.jpg
 - name: Open Stack
   link: 
@@ -169,7 +180,7 @@
       github: https://github.com/rakshitharj
       linkedin: https://www.linkedin.com/in/rakshitha-jayarame-gowda/
       twitter: https://twitter.com/rakshitha_r_j
-      slack: 
+      slack: https://opensourceday.slack.com/team/U026U53SK6C
       ask-me:
       image: rakshitha.jpeg
     - name: Goutham Pacha Ravi
@@ -177,12 +188,14 @@
       linkedin: https://www.linkedin.com/in/gouthampacha
       twitter: https://twitter.com/gpacharavi
       ask-me: OpenStack, Manila, Shared File Systems
+      slack: https://opensourceday.slack.com/team/U027R90RJQN
       image: goutham_pacha_ravi.jpg
     - name: HeroicHitesh
       github: https://github.com/HeroicHitesh
       linkedin: https://www.linkedin.com/in/heroichitesh/
       twitter: https://twitter.com/HeroicHitesh
       ask-me: How to start contributing to Open Stack
+      slack: https://opensourceday.slack.com/team/U027BMQLF7Z
       image: heroic_hitesh.jpeg
 - name: OpenStreetMap
   link: 
@@ -191,21 +204,21 @@
       github: https://github.com/pragya-chauhan
       linkedin: https://www.linkedin.com/in/pragyachauhan/
       twitter:
-      slack:
+      slack: https://opensourceday.slack.com/team/U027QKL2GL9
       ask-me: C++, Microservices, GitHub, Data Structures and Algorithms
       image: pragya-chauhan.jpg
     - name: Anindita
       github: https://github.com/anath2110
       linkedin: https://www.linkedin.com/in/anath2110
       twitter:
-      slack:
+      slack: https://opensourceday.slack.com/team/U026X8C9WA3
       ask-me: My Research or something related to OSD project
       image: techie.png
     - name: Prachi
       github: 
       linkedin: https://www.linkedin.com/in/prachi94/
       twitter:
-      slack:
+      slack: https://opensourceday.slack.com/team/U026H8FT806
       ask-me:
       image: prachi.png
 - name: OpenSUSE
@@ -216,6 +229,7 @@
       linkedin: https://www.linkedin.com/in/aliya-rahmani-3a45431b5/
       twitter: https://twitter.com/aliyarahmani786
       ask-me: I'm an open source enthusiast and a passionate developer. Currently an undergraduate @MANIT Bhopal. I love to write and engage with new people.
+      slack: https://opensourceday.slack.com/team/U027C07P3NW
       image: aliya_rahmani.jpg
 - name: pgRouting
   link: 
@@ -225,11 +239,13 @@
       linkedin: https://www.linkedin.com/in/ruhi-thomas-6046501a0/
       twitter: https://twitter.com/codebyru
       ask-me: Open source, programming, web development and blockchain!
+      slack: https://opensourceday.slack.com/team/U027C07M126
       image: ruhi_elizabeth_thomas.jpg
     - name: Kushal Kothari
       github: https://github.com/Kushal-kothari
       linkedin: https://www.linkedin.com/in/kushal-kothari-/
       twitter: https://twitter.com/Kushal_kothari_
+      slack: https://opensourceday.slack.com/team/U027YJQCJ6N
       image: kushal_kothari.jpg
 - name: Visual Studio Code
   link: 
@@ -245,6 +261,7 @@
       github: https://github.com/Shraddha2104
       linkedin: https://www.linkedin.com/in/shraddha2104/
       ask-me: Feel free to ask me anything and everything :) There are no stupid questions!
+      slack: https://opensourceday.slack.com/team/U026X8CFK2B
       image: shraddha_shaligram.jpeg
 - name: WildFly Elytron
   link: 

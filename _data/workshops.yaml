@@ -78,7 +78,7 @@
   end: 4:30PM
   workshops:
     - title: Open Sources Security 101
-      description: How do you get started with Open Source? If you’ve never contributed to an open source project before, making your first contribution can be intimidating. Not to mention, it can be difficult to know where to begin. Join us to learn everything you need to know about the Open Source community and how to make your first contribution! Hear stories from women in engineering about their open source involvement and contributions.
+      description: "In the present time software industry is facing tremendous Cyber-attacks and it is vital to counter those attacks. In this talk, I will be covering basics of developing a secure software and best practices that geared towards Devops, Developers, Software engineers, Web developers, and others who are interested in learning about open source security. This talk focuses on best practices on developing secure software with limited resources. This talk is open to everyone who is interested in learning about Open Source Security.<br><br>Key take aways from the workshop: <li> Learning about the Fundamental of Risk Management,CIA triad</li> <li> Best Practices of secure design principle</li> <li> Open Sources Security Tools</li>"
       speakers: 
         - name: Deveeshree Nayak
           picture: deveeshree_nayak.jpeg
