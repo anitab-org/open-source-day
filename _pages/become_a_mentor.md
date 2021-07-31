@@ -45,14 +45,6 @@ Follow this guide to find good first issue, and open a pull request that resolve
 
 Paste a link to the pull request in your application!
 
-### Where can I find the list of projects?
-
-Mentors application is opened for the following projects:
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrpbjtqjLPQYmyqv?backgroundColor=orange&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
-
-Follow the instructions in the contribution guide of each project to setup your environment, find issues and submit pull request.
-
 ### What am I committing to do?
 Before OSD:
 * Participate in an online training (~1hr)
@@ -69,7 +61,5 @@ On the day of OSD:
 * Ensure that the Code of Conduct is maintained and the OSD environment is kept safe and fun
 * Engage with participants to help them find an issue to work on, find a solution to their selected issue, and submit a merge request
 
-### Mentors benefits
-OSD mentors that will participate in OSD vGHC2021, that will take place on the week of September 27th, will be eligible to receive a free vGHC 2021 ticket.
-
-[Click here to apply!](https://airtable.com/shrREw8EXQfmSA4Uu){: .btn .btn--primary}
+### Mentors Application for OSD vGHC
+More details coming soon...
