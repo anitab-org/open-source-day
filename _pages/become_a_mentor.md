@@ -19,10 +19,11 @@ mentors that will walk the attendees through finding a project and an issue, exp
 the contribution requirements of the project, working on a solution, and then going through 
 the code review process to close the issue.
 
-### When can I apply to be a mentor? 
-We are currently in the process of signing up projects to participate in OSD. Whenever a 
-project is added, the application for that project is opened. Register above to get 
-informed when new projects are added.
+### Mentors Application for OSD vGHC
+<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrnir4qiMZ25yZ0S?backgroundColor=orange" frameborder="0" onmousewheel="" width="100%" height="2206" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+### Which OSD projects can I join as a mentor
+<iframe class="airtable-embed" src="https://airtable.com/embed/shr9UUiGjdoPt8UNi?backgroundColor=orange&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ### When will I know if I was accepted? 
 We will review applications every Monday and Thursday at 5PM PDT. 
@@ -60,6 +61,3 @@ On the day of OSD:
 * Answer questions in your assigned project OSD Slack channel
 * Ensure that the Code of Conduct is maintained and the OSD environment is kept safe and fun
 * Engage with participants to help them find an issue to work on, find a solution to their selected issue, and submit a merge request
-
-### Mentors Application for OSD vGHC
-More details coming soon...
