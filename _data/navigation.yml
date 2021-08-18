@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "OSD Summer 2021"
+  - title: "OSD @ GHC 2021"
     url: /upcoming/
   - title: "Become a Mentor"
     url: /become_a_mentor/ 
@@ -10,7 +10,7 @@ main:
   #   url: /sitemap/
 
 osd2021july:
-  - title: Open Source Day Summer
+  - title: Open Source Day @ GHC
     children:
       - title: "Register"
         url: /upcoming/#register
@@ -19,18 +19,18 @@ osd2021july:
   - title: Contribution Track
     children:
       - title: "Partner Projects"
-        url: /open-source-day-2021-summer-contribution/#
+        url: /open-source-day-2021-GHC-contribution/#
       - title: "Choose your own Adventure:"
-        url: /open-source-day-2021-summer-contribution/#
+        url: /open-source-day-2021-GHC-contribution/#
       - title: "&nbsp;&nbsp;&nbsp;&nbsp;- Women Maintainers"
-        url: /open-source-day-2021-summer-contribution/#  
+        url: /open-source-day-2021-GHC-contribution/#women-maintainers  
       - title: "&nbsp;&nbsp;&nbsp;&nbsp;- OSS Community"
-        url: /open-source-day-2021-summer-contribution/#
+        url: /open-source-day-2021-GHC-contribution/#open-source-community
   - title: Learning Track
     children:
       - title: "Hands on Workshops"
-        url: /open-source-day-2021-summer-learning/
+        url: /open-source-day-2021-GHC-learning/
   - title: Mentors
     children:
       - title: "Get to know your Mentors"
-        url: /open-source-day-2021-summer-mentors/
+        url: /open-source-day-2021-GHC-mentors/

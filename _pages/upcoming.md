@@ -1,19 +1,19 @@
 ---
-title: "Open Source Day Summer - July 15th 2021"
+title: "Open Source Day @ GHC - Oct 1st 2021"
 permalink: /upcoming/
 classes: wide
 sidebar:
   nav: "osd2021july"
 ---
-## Join us for OSD Summer! 
+## Join us for OSD @ GHC! 
 
-[Register Now!](https://opensourceday.anitab.org/){: .btn .btn--primary}
+[Register Now!](https://ghc.anitab.org/attend/registration/){: .btn .btn--primary}
 
 ## Overview
 
 Open Source Day (OSD) is an all-day hackathon (including workshops), in which participants of all skill levels learn about Open Source while contributing to projects designed to solve real world problems. The hackathon is happening during the summer of 2021 for the first time ever! 
 
-This free event is your opportunity to level up your skills and join the open source community. **Join a project on the Contribution Track and as many workshops as you want from the Learning track**.
+This event is your opportunity to level up your skills and join the open source community. **Join a project on the Contribution Track and as many workshops as you want from the Learning track**.
 
 On the **Contribution Track**, you will contribute code to our partner open source software (OSS) projects. You will work in groups, where you’ll have opportunities to learn from one another, as well as from experienced mentors, there to guide and help you make your OSS contribution. Additionally, we have a "Choose your own adventure" option, where you have the opportunity to contribute code to projects led by women maintainers or to just any project in the OSS community.
 
