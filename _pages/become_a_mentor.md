@@ -23,64 +23,7 @@ OSD vGHC participating projects list can be viewed [here](https://airtable.com/s
 
 # Application process
 
-OSD mentors are required to have vGHC ticket to join the event.  As a result the application process was
-split to several options:
-
-**Option 1: No sweat application**
-
-All you have to do in this case is apply and tell us your experience and why you are interested in 
-supporting OSD as a mentor.
-
-**Options 2-3**
-
-In these applications, applicants will be required to first become contributors of an OSD featured project by submitting
-a pull request. Existing contributors are welcomed to enter a link to an old PR, no need to create a new one
-for the application process.
-
-Projects that are in need of mentors are listed [here](https://airtable.com/shrpbjtqjLPQYmyqv).
-
-### Option 1: No sweat application
-
-You should apply under this category if...
-- You already registered for vGHC and... 
-- You are interested in joining OSD as a mentor and...
-- You don't have a preferred project or the time to become a contributor of an OSD featured project.
-
-Or if...
-- You are not interested in attending vGHC but... 
-- You are interested in joining OSD as a mentor and...
-- You don't have a preferred project or the time to become a contributor of an OSD featured project.
-
-[Click here to apply!](https://airtable.com/shrnir4qiMZ25yZ0S){: .btn .btn--primary}
-
-### Option 2: Potential mentors that are interested in attending OSD and require a vGHC registration
-
-OSD will award vGHC complementary registration to **accepted mentors** that will...:
-- Participate in an online training (~1hr)
-- Answer participants questions in OSD Slack workspace up to 2 weeks before the event
-- Assist participants during our virtual setup party
-- Help participants find an issue to work on, find a solution to their selected issue, and submit a merge request
-
-Please note that by applying to receive vGHC complementary registration you confirm that in addition to the above you will:
-- Participate in OSD that will take place on **October 1st between 8:00AM to 5:00PM PDT timezone (Pacific Daylight Time)**
-- Will be available to answer participants questions on Zoom and Slack through the day
-
-[Click here to apply!](https://airtable.com/shrTem4d8zbPpr2Xn){: .btn .btn--primary}
-
-### Option 3: Other
-
-You should apply under this category if...
-
-- You already registered for vGHC and... 
-- You are interested in joining OSD as a mentor and...
-- You would like to contribute to a specific project.
-
-Or if...
-- You are not interested in attending vGHC but... 
-- You are interested in joining OSD as a mentor and...
-- You would like to contribute to a specific project.
-
-[Click here to apply!](https://airtable.com/shrTem4d8zbPpr2Xn){: .btn .btn--primary}
+Applications for vGHC OSD 2021 are currently closed.
 
 # Frequently asked questions
 
