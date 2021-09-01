@@ -6,12 +6,15 @@ sidebar:
   nav: "osd2021july"
 ---
 
-OSD Mentors work with one of our partner projects to help participants contribute to their open source projects. Mentors are selected primarily based on project needs and should plan to attend the entirety of OSD.
+<h3>Thank you OSD Summer mentors for supporting OSD community in a remarkable event!</h3>
+
+OSD Mentors work with one of our partner projects to help participants contribute to their open source projects.
 
 <ul>
-{% for project in site.data.mentors-directory %}
+{% for project_hash in site.data.projects %}
   <li>
-    <h3>{{ project.name }}</h3>
+  {% assign project = project_hash[1] %}
+  <h3>{{ project.name }}</h3>
   {% for mentor in project.mentors %}
     <ul>
       {% include mentor-profile.html mentor="mentor" %}

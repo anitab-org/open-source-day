@@ -1,0 +1,42 @@
+name: Open Stack
+link: https://opendev.org/openstack
+mentors:
+  - name: Archana Kumari
+    github: https://github.com/archanaserver
+    linkedin: https://www.linkedin.com/in/archanaserver/
+    twitter: https://twitter.com/archanaserver
+    slack: https://opensourceday.slack.com/team/U026U53SK6C
+    ask-me:
+    image: archana-kumari.png
+  - name: Rakshitha
+    github: https://github.com/rakshitharj
+    linkedin: https://www.linkedin.com/in/rakshitha-jayarame-gowda/
+    twitter: https://twitter.com/rakshitha_r_j
+    slack: https://opensourceday.slack.com/team/U026U53SK6C
+    ask-me:
+    image: rakshitha.jpeg
+  - name: Goutham Pacha Ravi
+    github: http://github.com/gouthampacha
+    linkedin: https://www.linkedin.com/in/gouthampacha
+    twitter: https://twitter.com/gpacharavi
+    ask-me: OpenStack, Manila, Shared File Systems
+    slack: https://opensourceday.slack.com/team/U027R90RJQN
+    image: goutham_pacha_ravi.jpg
+  - name: HeroicHitesh
+    github: https://github.com/HeroicHitesh
+    linkedin: https://www.linkedin.com/in/heroichitesh/
+    twitter: https://twitter.com/HeroicHitesh
+    ask-me: How to start contributing to Open Stack
+    slack: https://opensourceday.slack.com/team/U027BMQLF7Z
+    image: heroic_hitesh.jpeg
+  - name: Maari
+    github: https://github.com/mrtmm
+    linkedin: https://www.linkedin.com/in/maari-tamm-9a2017172/
+    twitter: https://twitter.com/tammmri
+    slack: https://opensourceday.slack.com/team/U02847SHFRA
+    ask-me: Contributing to OpenStack
+    image: maari_tamm.jpeg
+  - name: Ashley Rodriguez
+    linkedin: https://www.linkedin.com/in/ashley-r-45a426126/
+    slack: https://opensourceday.slack.com/team/U027Y1M3W74
+    image: ashley_rodriguez.jpeg
