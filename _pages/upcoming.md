@@ -7,11 +7,11 @@ sidebar:
 ---
 ## Join us for OSD @ GHC! 
 
-[Register Now!](https://ghc.anitab.org/attend/registration/){: .btn .btn--primary}
+Please find the OSD sessions on the [Grace Hopper Celebration Agenda](https://ghc.anitab.org/attend/vghc-21-agenda/). Filter by session type "OSD".
 
 ## Overview
 
-Open Source Day (OSD) is an all-day hackathon (including workshops), in which participants of all skill levels learn about Open Source while contributing to projects designed to solve real world problems. The hackathon is happening during the summer of 2021 for the first time ever! 
+Open Source Day (OSD) is an all-day hackathon (including workshops), in which participants of all skill levels learn about Open Source while contributing to projects designed to solve real world problems. The hackathon is happening during the Grace Hopper Celebration!
 
 This event is your opportunity to level up your skills and join the open source community. **Join a project on the Contribution Track and as many workshops as you want from the Learning track**.
 
