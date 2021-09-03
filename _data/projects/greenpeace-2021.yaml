@@ -1,10 +1,9 @@
 name: Greenpeace
 link: https://github.com/greenpeace
 mentors:
-  - name:
-    github: 
-    linkedin: 
-    twitter: 
-    slack: 
-    ask-me:
-    image: 
+  - name: Alice Kim
+    github: https://github.com/yehee
+    linkedin: https://www.linkedin.com/in/yehee
+    slack: https://opensourceday-ghc2021.slack.com/team/U02D9DBUURJ
+    ask-me: Python, Git, Web Development, Open Source.
+    image: alice-kim.png
