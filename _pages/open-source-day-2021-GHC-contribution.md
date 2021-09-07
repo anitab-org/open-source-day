@@ -75,16 +75,6 @@ Additionally, we have a "Choose your own adventure" option, where you have the o
 - [GitHub Issues](https://github.com/orgs/CircuitVerse/projects/7)
 - [Code of Conduct](https://github.com/CircuitVerse/CircuitVerse/blob/master/code-of-conduct.md)
 
-#### [CurrikiStudio](https://github.com/ActiveLearningStudio)
-
-| Description | Maintainer(s) |
-| ----------- | ------------- |
-| | |
-
-- Link to Setup Guide:
-- Link to GitHub Issues:
-- Link to Code of Conduct:
-
 #### [Eclipse AQAvit](https://projects.eclipse.org/projects/adoptium.aqavit/developer)
 
 | Description | Maintainer(s) |
@@ -99,20 +89,11 @@ Additionally, we have a "Choose your own adventure" option, where you have the o
 
 | Description | Maintainer(s) |
 | ----------- | ------------- |
-| | |
+| FireFly is a multiparty system for enterprise data flows, powered by blockchain. It solves all of the layers of complexity that sit between the low level blockchain and high level business processes and user interfaces. FireFly enables developers to build blockchain apps for enterprise radically faster by allowing them to focus on business logic instead of infrastructure. | [Nicko Guyer](https://github.com/nguyer), [Anastasia Lalamentik](https://github.com/lanasta), and [Linlu Liu](https://github.com/lil131) |
 
-- [Setup Guide](https://labs.hyperledger.org/firefly/contributors/contributors.html)
-- Link to GitHub Issues:
+- [Contributors Guide](https://labs.hyperledger.org/firefly/contributors/contributors.html) [Setup Guide](https://labs.hyperledger.org/firefly/contributors/dev_environment_setup.html)
+- [GitHub Issues](https://github.com/hyperledger-labs/firefly/issues)
 - [Code of Conduct](https://github.com/hyperledger-labs/firefly/blob/main/CODE_OF_CONDUCT.md)
-
-#### [Firetable](https://github.com/FiretableProject/firetable)
-
-| Description | Maintainer(s) |
-| ----------- | ------------- |
-| | |
-
-- [Setup Guide](https://github.com/FiretableProject/firetable/wiki/Getting-Started)
-- [GitHub Issues](https://github.com/FiretableProject/firetable/issues)
 
 #### [Greenpeace Planet 4](https://github.com/greenpeace)
 
@@ -128,20 +109,40 @@ Additionally, we have a "Choose your own adventure" option, where you have the o
 
 | Description | Maintainer(s) |
 | ----------- | ------------- |
-| | |
+| Hyperledger is an open source community focused on developing a suite of stable frameworks, tools and libraries for enterprise-grade blockchain deployments. It serves as a neutral home for various distributed ledger frameworks including Hyperledger Besu, Hyperledger Cactus, and Hyperledger Indy. | |
 
-- Link to Setup Guide:
-- Link to GitHub Issues:
+| [Hyperledger Besu](https://github.com/hyperledger/besu): Hyperledger Besu is an Ethereum client designed to be enterprise-friendly for both public and private permissioned network use cases. It can also be ran on test networks such as Rinkeby, Ropsten, and Görli. Hyperledger Besu includes several consensus algorithms including PoW, and PoA (IBFT, IBFT 2.0, Etherhash, and Clique). Its comprehensive permissioning schemes are designed specifically for use in a consortium environment. | [Grace Hartley](http://github.com/gmhartley53), and [Justin Florentine](http://github.com/jFlo) |
+
+| [Hyperledger Indy](https://github.com/hyperledger/indy-sdk): Distributed ledger software. Hyperledger Indy provides tools, libraries, and reusable components for providing digital identities rooted on blockchains or other distributed ledgers so that they are interoperable across administrative domains, applications, and any other silo. Indy is interoperable with other blockchains or can be used standalone powering the decentralization of identity. | [Renata Toktar](https://github.com/Toktar) |
+
+| [Hyperledger Cactus](https://github.com/hyperledger/cactus): Hyperledger Cactus is a plugin based framework which aims to provide developers with an abstraction over protocol specific implementations, and enabling interoperability. This enables solutions to more easily adapt to new protocols, and make transactions involving multiple public and/or permissioned ledgers. | [Peter Somogyvar](https://github.com/petermetz/), and [Tracy Kuhrt](https://github.com/tkuhrt/) |
+
+- Setup instructions: [Hyperledger Besu](https://wiki.hyperledger.org/display/BESU/How+to+Contribute)
+[Hyperledger Indy](https://github.com/hyperledger/indy-node#how-to-install-a-test-network)
+[Hyperledger Cactus](https://github.com/hyperledger/cactus/blob/main/CONTRIBUTING.md)
+- GitHub Issues:
+[Hyperledger Besu](https://github.com/hyperledger/besu/labels/good%20first%20issue)
+[Hyperledger Indy](https://github.com/hyperledger/indy-sdk/issues)
+[Hyperledger Cactus](https://github.com/hyperledger/cactus/issues?q=is%3Aopen+is%3Aissue+label%3Agood-first-issue)
 - [Code of Conduct](https://wiki.hyperledger.org/display/HYP/Hyperledger+Code+of+Conduct)
+
+#### [#OPENEDUCATION](https://github.com/ActiveLearningStudio)
+
+| Description | Maintainer(s) |
+| ----------- | ------------- |
+| Project #OPENEDUCATION is an ambitious joint effort between Curriki and Red Hat's Team 19 project. The project leverages open source technology developed by the non-profit edtech Curriki to enable the authoring, distribution and delivery of interactive open educational resources (OER) across the globe. | Shikha Dawar, Leonardo Cunha, and Waqar Muneer |
+
+- [Setup Guide](https://github.com/ActiveLearningStudio/ActiveLearningStudio-docker-containers) 
+- [GitHub Issues](https://github.com/orgs/ActiveLearningStudio/projects/3)
 
 #### [Openstack](https://opendev.org/openstack)
 
 | Description | Maintainer(s) |
 | ----------- | ------------- |
-| OpenStack is a cloud operating system that controls large pools of compute, storage, and networking resources throughout a datacenter, all managed through a dashboard that gives administrators control while empowering their users to provision resources through a web interface. | Amy Marrich |
+| OpenStack is a cloud operating system that controls large pools of compute, storage, and networking resources throughout a datacenter, all managed through a dashboard that gives administrators control while empowering their users to provision resources through a web interface. | Amy Marrich, Victoria Martinez de la Cruz, Kendall Nelson |
 
 - [Setup Guide](https://docs.openstack.org/contributors/code-and-documentation/index.html)
-- Link to GitHub Issues:
+- [Issues](https://etherpad.opendev.org/p/ghc-osd-2021)
 - [Code of Conduct](https://www.openstack.org/legal/community-code-of-conduct/)
 
 #### [OpenStreetMap](https://www.openstreetmap.org)
@@ -158,7 +159,7 @@ Additionally, we have a "Choose your own adventure" option, where you have the o
 
 | Description | Maintainer(s) |
 | ----------- | ------------- |
-| During this session, you will contribute to openSUSE, a Linux based open-source project which provides Linux distributions as the rolling release openSUSE Tumbleweed, the stable release openSUSE Leap and for Kubernetes openSUSE Kubic. Additionally, there are multiple sub-projects with expanding software. The openSUSE project supports the hardware architectures x86, arm, PowerPC and the mainframe architecture s390x (IBM Z). Participants in this Open Source Day project will learn about multiple ways of openSUSE contributions and how to become an openSUSE Member. In addition, they receive an insight how to enable application software as Container Images or packages. Do you want to help make a contribution? Then go to an openSUSE Mentor and you will be allowed to receive your first openSUSE experience on a mainframe with the name LinuxONE (outside of your pc hardware experience). We support you during your first steps with contributions to Linux. We are open for all questions, too. | [Berthold Gunreben](https://github.com/azouhr) and [Sarah Julia Kriesch](https://github.com/skriesch) |
+| During this session, you will contribute to openSUSE, a Linux based open-source project which provides Linux distributions as the rolling release openSUSE Tumbleweed, the stable release openSUSE Leap and for Kubernetes openSUSE Kubic. Additionally, there are multiple sub-projects with expanding software. The openSUSE project supports the hardware architectures x86, arm, PowerPC and the mainframe architecture s390x (IBM Z). Participants in this Open Source Day project will learn about multiple ways of openSUSE contributions and how to become an openSUSE Member. In addition, they receive an insight how to enable application software as Container Images or packages. Do you want to help make a contribution? Then go to an openSUSE Mentor and you will be allowed to receive your first openSUSE experience on a mainframe with the name LinuxONE (outside of your pc hardware experience). We support you during your first steps with contributions to Linux. We are open for all questions, too. | [Sarah Julia Kriesch](https://github.com/skriesch), and [Christian Boltz](https://github.com/cboltz) |
 
 - [Setup Guide](https://en.opensuse.org/ZSystems/Good_First_Issues)
 - [Issues](https://en.opensuse.org/ZSystems/Good_First_Issues)
@@ -178,11 +179,20 @@ Additionally, we have a "Choose your own adventure" option, where you have the o
 
 | Description | Maintainer(s) |
 | ----------- | ------------- |
-| | |
+| qAIRaMap Open Source is a project developed with the mentorship of UNICEF that is based in two repositories. It’s a real-time website for monitoring air quality and it consists of the following features: Real-time data from qHAWAX modules, Andean drones and mobile qHAWAX modules on electric vehicles; downloading of historic data; and visualization of results in Google Maps. | [Gerson Montesinos](https://github.com/GersonMontesinos), and [Sabrina Campos](https://github.com/SabCampos) |
 
-- [Setup Guide](https://qaira.github.io/docs/)
-- Link to GitHub Issues:
-- [Code of Conduct](https://qaira.github.io/docs/doc1)
+- [Setup Guide](https://github.com/qAIRa/qAIRaMap-OpenSource/blob/master/README.md)
+- [GitHub Issues](https://github.com/qAIRa/qAIRaMap-OpenSource/issues)
+- [Code of Conduct](https://github.com/qAIRa/qAIRaMapAPI-OpenSource/blob/master/CODE_OF_CONDUCT.md)
+
+#### [Rowy](https://github.com/FiretableProject/firetable)
+
+| Description | Maintainer(s) |
+| ----------- | ------------- |
+| Rowy is an open-source and extendable spreadsheet for your database. With Rowy, non-technical team members can access Google Firestore data with a permission-controlled intuitive spreadsheet-like UI while developers can build fast on the GCP stack (manage their data models, create and deploy cloud functions and unlock the full power of Google Firestore). | [Harini Janakiraman](https://github.com/harinij), and [Shams Mosowi](https://github.com/shamsmosowi) |
+
+- [Setup Guide](https://github.com/FiretableProject/firetable/wiki/Getting-Started)
+- [GitHub Issues](https://github.com/FiretableProject/firetable/issues)
 
 #### [WildFly Elytron](https://github.com/wildfly-security/wildfly-elytron)
 
@@ -212,7 +222,7 @@ Additionally, we have a "Choose your own adventure" option, where you have the o
 
 | Description | Maintainer(s) |
 | ----------- | ------------- |
-| Akri exposes IoT devices (such as IP cameras and USB devices) as resources in a Kubernetes cluster. Akri continually detects nodes that have access to these devices and schedules workloads based on them. A user simply installs Akri to their cluster, and the work of discovering, using, and monitoring the availability of the devices is abstracted away. Simply put: you name it, Akri finds it, you use it. | [Kate Goldenring](https://github.com/kate-goldenring) |
+| Akri exposes IoT devices (such as IP cameras and USB devices) as resources in a Kubernetes cluster. Akri continually detects nodes that have access to these devices and schedules workloads based on them. A user simply installs Akri to their cluster, and the work of discovering, using, and monitoring the availability of the devices is abstracted away. Simply put: you name it, Akri finds it, you use it. | [Kate Goldenring](https://github.com/kate-goldenring), [Roaa Sakr](https://github.com/romoh) |
 
 - [Setup Guide](https://github.com/deislabs/akri/blob/main/docs/contributing.md) [Development](https://github.com/deislabs/akri/blob/main/docs/development.md)
 - [GitHub Issues](https://github.com/deislabs/akri/issues)
@@ -225,7 +235,7 @@ Additionally, we have a "Choose your own adventure" option, where you have the o
 | Common XText Expression Language (CXEL) is an Xtext based DSL and a java runtime engine for expressions and commonly used functions for data transformations. | [Humaira Patel](https://github.com/patelhumaira21) and [Ishani Doshi](https://github.com/ishanidoshi) |
 
 - [Setup Guide](https://github.com/intuit/common-xtext-expression-language#setting-up-the-project) [Contributing](https://github.com/intuit/common-xtext-expression-language/blob/master/CONTRIBUTING.md)
-- Link to GitHub Issues
+- [GitHub Issues](https://github.com/intuit/common-xtext-expression-language/issues)
 - [Code of Conduct](https://github.com/intuit/common-xtext-expression-language/blob/master/.github/CODE_OF_CONDUCT.md)
 
 #### [Spring Boot](https://github.com/spring-projects/spring-boot)
@@ -287,6 +297,16 @@ Additionally, we have a "Choose your own adventure" option, where you have the o
 - [Setup Guide](https://github.com/intuit/user-data-for-fraud-prevention#contributing)
 - [GitHub Issues](https://github.com/intuit/user-data-for-fraud-prevention/issues?q=is%3Aissue+is%3Aopen+label%3AGraceHopperOSD)
 - [Code of Conduct](https://github.com/intuit/user-data-for-fraud-prevention/blob/master/.github/CODE_OF_CONDUCT.md)
+
+#### [Visual Studio Code - Python](https://github.com/microsoft/vscode-python)
+
+| Description | Maintainer(s) |
+| ----------- | ------------- |
+| A Visual Studio Code extension with rich support for the Python language (for all actively supported versions of the language >= 3.6), including features such as IntelliSense, linting, debugging, code navigation, code formatting, refactoring, variable explorer, test explorer, and more! | [Luciana Abud](https://github.com/luabud), and [Joyce Er](https://github.com/joyceerhl) |
+
+- [Setup Guide](https://github.com/microsoft/vscode-python/wiki/Coding#building)
+- [GitHub Issues](https://github.com/microsoft/vscode-python/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+- [Code of Conduct](https://github.com/microsoft/vscode-python/blob/main/CODE_OF_CONDUCT.md)
 
 
 ### Open Source Community
