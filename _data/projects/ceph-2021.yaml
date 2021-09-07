@@ -1,0 +1,24 @@
+name: Ceph
+link: https://github.com/ceph/ceph
+mentors:
+  - name: varsha
+    github: https://github.com/varshar16
+    linkedin:
+    twitter:
+    slack: https://opensourceday.slack.com/team/U026D0S5PHR
+    ask-me:
+    image: techie.png
+  - name: Girjesh Rajoria
+    github: https://github.com/grajoria
+    linkedin: https://www.linkedin.com/in/GirjeshRajoria
+    twitter: https://twitter.com/GirjeshRajoria
+    slack: https://opensourceday.slack.com/team/U025YL01PTR
+    ask-me: Ceph, s3select, rgw
+    image: rajoria-girjesh.png
+  - name: Kriti Singh
+    github: https://github.com/kritisingh1
+    linkedin: https://www.linkedin.com/in/kriti-singh-9b5bb512b/
+    twitter: https://twitter.com/kritisingh1ks
+    slack: https://opensourceday.slack.com/team/U026H49QA2D
+    ask-me: Git, GitHub, Open Source Development, JavaScript, ReactJS, NodeJS, Shell Scripting, Python, Java
+    image: kriti-singh.jpeg
