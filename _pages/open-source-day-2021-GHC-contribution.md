@@ -110,11 +110,8 @@ Additionally, we have a "Choose your own adventure" option, where you have the o
 | Description | Maintainer(s) |
 | ----------- | ------------- |
 | Hyperledger is an open source community focused on developing a suite of stable frameworks, tools and libraries for enterprise-grade blockchain deployments. It serves as a neutral home for various distributed ledger frameworks including Hyperledger Besu, Hyperledger Cactus, and Hyperledger Indy. | |
-
 | [Hyperledger Besu](https://github.com/hyperledger/besu): Hyperledger Besu is an Ethereum client designed to be enterprise-friendly for both public and private permissioned network use cases. It can also be ran on test networks such as Rinkeby, Ropsten, and Görli. Hyperledger Besu includes several consensus algorithms including PoW, and PoA (IBFT, IBFT 2.0, Etherhash, and Clique). Its comprehensive permissioning schemes are designed specifically for use in a consortium environment. | [Grace Hartley](http://github.com/gmhartley53), and [Justin Florentine](http://github.com/jFlo) |
-
 | [Hyperledger Indy](https://github.com/hyperledger/indy-sdk): Distributed ledger software. Hyperledger Indy provides tools, libraries, and reusable components for providing digital identities rooted on blockchains or other distributed ledgers so that they are interoperable across administrative domains, applications, and any other silo. Indy is interoperable with other blockchains or can be used standalone powering the decentralization of identity. | [Renata Toktar](https://github.com/Toktar) |
-
 | [Hyperledger Cactus](https://github.com/hyperledger/cactus): Hyperledger Cactus is a plugin based framework which aims to provide developers with an abstraction over protocol specific implementations, and enabling interoperability. This enables solutions to more easily adapt to new protocols, and make transactions involving multiple public and/or permissioned ledgers. | [Peter Somogyvar](https://github.com/petermetz/), and [Tracy Kuhrt](https://github.com/tkuhrt/) |
 
 - Setup instructions: [Hyperledger Besu](https://wiki.hyperledger.org/display/BESU/How+to+Contribute)
