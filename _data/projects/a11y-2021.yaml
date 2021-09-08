@@ -1,9 +1,16 @@
 name: A11y
 mentors:
-  - name:Lovleen Pabla
-    github:https://github.com/lovleensaini
-    linkedin:https://www.linkedin.com/in/lovleen-pabla-8971a6a9
+  - name: Lovleen Pabla
+    github: https://github.com/lovleensaini
+    linkedin: https://www.linkedin.com/in/lovleen-pabla-8971a6a9
     twitter: 
-    slack:https://opensourceday-ghc2021.slack.com
-    ask-me:Accessibility Questions
+    slack: https://opensourceday-ghc2021.slack.com
+    ask-me: Accessibility Questions
     image: Lovleen_Pabla.jpeg
+  - name: Lalitha Nandanavanam  
+    github: https://github.com/lalitha7nsg 
+    linkedin: https://www.linkedin.com/in/lalitha-n
+    twitter: 
+    slack: https://opensourceday-ghc2021.slack.com
+    ask-me: Accessibility Questions
+    image: Lalitha_Nandanavanam.jpg
