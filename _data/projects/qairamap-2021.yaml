@@ -1,10 +1,9 @@
 name: qAIRaMap
 link: https://qaira.github.io/
 mentors:
-  - name:
-    github: 
-    linkedin: 
-    twitter: 
-    slack: 
-    ask-me:
-    image: 
+  - name: Supriya Kommireddy
+    github: https://github.com/khssupriya
+    linkedin: https://www.linkedin.com/in/khssupriya
+    slack: https://opensourceday.slack.com/team/U02ER199BA8
+    ask-me: Git, HTML, CSS, Javascript, Unit Tests
+    image: khssupriya.jpeg
