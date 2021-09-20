@@ -1,0 +1,17 @@
+version: "3.6"
+
+services:
+  jekyll:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    ports:
+      - 4000:4000
+    volumes:
+      - ..:/usr/src/app
+    stdin_open: true
+    tty: true
+    command: |
+      bash -c "
+        bundle exec jekyll serve --incremental -H 0.0.0.0 -t
+      "

@@ -21,6 +21,16 @@ git commit -m "<your message>"
 
 - Push your changes to a PR
 
+## Container Based Build/Setup
+
+Run the following command from your terminal
+
+```shell
+docker-compose -f docker/docker-compose.yaml up --build
+```
+
+You may access the page, locally generated at
+[http://localhost:4000](http://localhost:4000) from your browser.
 
 ## Contributing
 
