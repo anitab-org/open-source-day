@@ -19,7 +19,7 @@ Additionally, we have a "Choose your own adventure" option, where you have the o
 
 | Description | Maintainer(s) |
 | ----------- | ------------- |
-| A11y track is a new OSD initiative to make open source projects more accessible for contributors and users by breaking down language barriers and reducing the number of accessibility violations in applications and tooling. <br/><br/> A11y project participants will: <br/><br/> - Use WCAG and ATAG standards to fix accessibility, localization and internationalization bugs <br/> - Test using assistive technology or auditing tools (such as AXE) to find accessibility violations within the project <br/> - Add onboarding support for additional languages | |
+| A11y track is a new OSD initiative to make open source projects more accessible for contributors and users by breaking down language barriers and reducing the number of accessibility violations in applications and tooling. <br/><br/> A11y project participants will: <br/><br/> - Use WCAG and ATAG standards to fix accessibility, localization and internationalization bugs <br/> - Test using assistive technology or auditing tools (such as AXE) to find accessibility violations within the project <br/> - Add onboarding support for additional languages | Renana Yacobi and Connie Nguyen |
 
 - Link to Setup Guide:
 - Link to GitHub Issues:
@@ -89,7 +89,7 @@ Additionally, we have a "Choose your own adventure" option, where you have the o
 
 | Description | Maintainer(s) |
 | ----------- | ------------- |
-| FireFly is a multiparty system for enterprise data flows, powered by blockchain. It solves all of the layers of complexity that sit between the low level blockchain and high level business processes and user interfaces. FireFly enables developers to build blockchain apps for enterprise radically faster by allowing them to focus on business logic instead of infrastructure. | [Nicko Guyer](https://github.com/nguyer), [Anastasia Lalamentik](https://github.com/lanasta), and [Linlu Liu](https://github.com/lil131) |
+| FireFly, a Hyperledger Lab, is a multiparty system for enterprise data flows, powered by blockchain. It solves all of the layers of complexity that sit between the low level blockchain and high level business processes and user interfaces. FireFly enables developers to build blockchain apps for enterprise radically faster by allowing them to focus on business logic instead of infrastructure. | [Nicko Guyer](https://github.com/nguyer), [Anastasia Lalamentik](https://github.com/lanasta), and [Linlu Liu](https://github.com/lil131) |
 
 - [Contributors Guide](https://labs.hyperledger.org/firefly/contributors/contributors.html) [Setup Guide](https://labs.hyperledger.org/firefly/contributors/dev_environment_setup.html)
 - [GitHub Issues](https://github.com/hyperledger-labs/firefly/issues)
@@ -242,7 +242,7 @@ Additionally, we have a "Choose your own adventure" option, where you have the o
 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. It takes an opinionated view of the Spring platform so that new and existing users can quickly get to the bits they need. | [Madhura Bhave](https://github.com/mbhave) |
 
 - [Setup Guide](https://github.com/spring-projects/spring-boot/blob/main/CONTRIBUTING.adoc)
-- [GitHub Issues](https://github.com/spring-projects/spring-boot/issues?q=is%3Aopen+is%3Aissue+label%3A%22status%3A+reserved-for-conference-event%22)
+- [GitHub Issues](https://github.com/spring-projects/spring-boot/issues?q=is%3Aopen+is%3Aissue+label%3A%22status%3A+first-timers-only%22)
 - [Code of Conduct](https://github.com/spring-projects/spring-boot/blob/main/CODE_OF_CONDUCT.adoc)
 
 #### [Spring Cloud](https://github.com/spring-cloud)
@@ -269,7 +269,7 @@ Additionally, we have a "Choose your own adventure" option, where you have the o
 
 | Description | Maintainer(s) |
 | ----------- | ------------- |
-| Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and Dockerfiles. The SBoM that Tern generates will give you a layer-by-layer view of what's inside your container in a variety of formats including human-readable, JSON, HTML, SPDX and more. | [Rose Judge](https://github.com/rnjudge) and [Nisha Kumar](https://github.com/nishakm) |
+| Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and Dockerfiles. The SBoM that Tern generates will give you a layer-by-layer view of what's inside your container in a variety of formats including human-readable, JSON, HTML, SPDX and more. | [Rose Judge](https://github.com/rnjudge), [Nisha Kumar](https://github.com/nishakm), and [Tracy Holmes](https://github.com/tracypholmes) |
 
 - [Setup Guide](https://github.com/tern-tools/tern/blob/main/CONTRIBUTING.md)
 - [GitHub Issues](https://github.com/tern-tools/tern/issues?q=is%3Aissue+is%3Aopen+label%3A%22GH+Open+Source+Day%22)
