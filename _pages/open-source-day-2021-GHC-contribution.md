@@ -82,18 +82,8 @@ Additionally, we have a "Choose your own adventure" option, where you have the o
 | AQAvit is the quality and runtime branding evaluation project for Java SE runtimes and associated technology.  During a release it takes a functionally complete Java runtime and ensures that all the additional qualities are present that make it suitable for production use.  These quality criteria include good performance, exceptional security, resilience and endurance, and the ability to pass a wide variety of application test suites.  In addition to verifying that functionally complete runtimes are release ready, the AQA tests may also serve to verify new functionality during runtime development. | [Shelley Lambert](https://github.com/smlambert), [Lan Xia](https://github.com/llxia), and [Sophia Guo](https://github.com/sophia-guo) |
 
 - [Setup Guide](https://github.com/adoptium/aqa-tests/blob/master/Contributing.md) [README](https://github.com/adoptium/aqa-tests/blob/master/README.md)
-- [GitHub Issues](https://github.com/orgs/adoptium/projects/2)
+- [GitHub Issues](https://github.com/orgs/adoptium/projects/1)
 - [Code of Conduct](https://github.com/adoptium/aqa-tests/blob/master/CODE_OF_CONDUCT.md)
-
-#### [FireFly](https://github.com/hyperledger-labs/firefly)
-
-| Description | Maintainer(s) |
-| ----------- | ------------- |
-| FireFly, a Hyperledger Lab, is a multiparty system for enterprise data flows, powered by blockchain. It solves all of the layers of complexity that sit between the low level blockchain and high level business processes and user interfaces. FireFly enables developers to build blockchain apps for enterprise radically faster by allowing them to focus on business logic instead of infrastructure. | [Nicko Guyer](https://github.com/nguyer), [Anastasia Lalamentik](https://github.com/lanasta), and [Linlu Liu](https://github.com/lil131) |
-
-- [Contributors Guide](https://labs.hyperledger.org/firefly/contributors/contributors.html) [Setup Guide](https://labs.hyperledger.org/firefly/contributors/dev_environment_setup.html)
-- [GitHub Issues](https://github.com/hyperledger-labs/firefly/issues)
-- [Code of Conduct](https://github.com/hyperledger-labs/firefly/blob/main/CODE_OF_CONDUCT.md)
 
 #### [Greenpeace Planet 4](https://github.com/greenpeace)
 
@@ -109,18 +99,22 @@ Additionally, we have a "Choose your own adventure" option, where you have the o
 
 | Description | Maintainer(s) |
 | ----------- | ------------- |
-| Hyperledger is an open source community focused on developing a suite of stable frameworks, tools and libraries for enterprise-grade blockchain deployments. It serves as a neutral home for various distributed ledger frameworks including Hyperledger Besu, Hyperledger Cactus, and Hyperledger Indy. | |
+| Hyperledger is an open source community focused on developing a suite of stable frameworks, tools and libraries for enterprise-grade blockchain deployments. It serves as a neutral home for various distributed ledger frameworks including Hyperledger Besu, Hyperledger Cactus, Hyperledger Indy, and Hyperledger FireFly. | |
 | [Hyperledger Besu](https://github.com/hyperledger/besu): Hyperledger Besu is an Ethereum client designed to be enterprise-friendly for both public and private permissioned network use cases. It can also be ran on test networks such as Rinkeby, Ropsten, and Görli. Hyperledger Besu includes several consensus algorithms including PoW, and PoA (IBFT, IBFT 2.0, Etherhash, and Clique). Its comprehensive permissioning schemes are designed specifically for use in a consortium environment. | [Grace Hartley](http://github.com/gmhartley53), and [Justin Florentine](http://github.com/jFlo) |
 | [Hyperledger Indy](https://github.com/hyperledger/indy-sdk): Distributed ledger software. Hyperledger Indy provides tools, libraries, and reusable components for providing digital identities rooted on blockchains or other distributed ledgers so that they are interoperable across administrative domains, applications, and any other silo. Indy is interoperable with other blockchains or can be used standalone powering the decentralization of identity. | [Renata Toktar](https://github.com/Toktar) |
 | [Hyperledger Cactus](https://github.com/hyperledger/cactus): Hyperledger Cactus is a plugin based framework which aims to provide developers with an abstraction over protocol specific implementations, and enabling interoperability. This enables solutions to more easily adapt to new protocols, and make transactions involving multiple public and/or permissioned ledgers. | [Peter Somogyvar](https://github.com/petermetz/), and [Tracy Kuhrt](https://github.com/tkuhrt/) |
+| [Hyperledger FireFly](https://github.com/hyperledger/firefly): FireFly is a multiparty system for enterprise data flows, powered by blockchain. It solves all of the layers of complexity that sit between the low level blockchain and high level business processes and user interfaces. FireFly enables developers to build blockchain apps for enterprise radically faster by allowing them to focus on business logic instead of infrastructure. | [Nicko Guyer](https://github.com/nguyer), [Anastasia Lalamentik](https://github.com/lanasta), and [Linlu Liu](https://github.com/lil131) |
 
-- Setup instructions: [Hyperledger Besu](https://wiki.hyperledger.org/display/BESU/How+to+Contribute)
-[Hyperledger Indy](https://github.com/hyperledger/indy-node#how-to-install-a-test-network)
-[Hyperledger Cactus](https://github.com/hyperledger/cactus/blob/main/CONTRIBUTING.md)
+- Setup instructions:
+  - [Hyperledger Besu](https://wiki.hyperledger.org/display/BESU/How+to+Contribute)
+  - [Hyperledger Indy](https://github.com/hyperledger/indy-node#how-to-install-a-test-network)
+  - [Hyperledger Cactus](https://github.com/hyperledger/cactus/blob/main/CONTRIBUTING.md)
+  - [Hyperledger FireFly](https://hyperledger.github.io/firefly/contributors/dev_environment_setup.html)
 - GitHub Issues:
-[Hyperledger Besu](https://github.com/hyperledger/besu/labels/good%20first%20issue)
-[Hyperledger Indy](https://github.com/hyperledger/indy-sdk/issues)
-[Hyperledger Cactus](https://github.com/hyperledger/cactus/issues?q=is%3Aopen+is%3Aissue+label%3Agood-first-issue)
+  - [Hyperledger Besu](https://github.com/hyperledger/besu/labels/good%20first%20issue)
+  - [Hyperledger Indy](https://github.com/hyperledger/indy-sdk/issues)
+  - [Hyperledger Cactus](https://github.com/hyperledger/cactus/issues?q=is%3Aopen+is%3Aissue+label%3Agood-first-issue)
+  - [Hyperledger FireFly](https://github.com/hyperledger/firefly/issues)
 - [Code of Conduct](https://wiki.hyperledger.org/display/HYP/Hyperledger+Code+of+Conduct)
 
 #### [#OPENEDUCATION](https://github.com/ActiveLearningStudio)
