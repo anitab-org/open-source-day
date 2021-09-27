@@ -176,14 +176,14 @@ Additionally, we have a "Choose your own adventure" option, where you have the o
 - [GitHub Issues](https://github.com/qAIRa/qAIRaMap-OpenSource/issues)
 - [Code of Conduct](https://github.com/qAIRa/qAIRaMapAPI-OpenSource/blob/master/CODE_OF_CONDUCT.md)
 
-#### [Rowy](https://github.com/FiretableProject/firetable)
+#### [Rowy](https://github.com/rowyio/rowy)
 
 | Description | Maintainer(s) |
 | ----------- | ------------- |
-| Rowy is an open-source and extendable spreadsheet for your database. With Rowy, non-technical team members can access Google Firestore data with a permission-controlled intuitive spreadsheet-like UI while developers can build fast on the GCP stack (manage their data models, create and deploy cloud functions and unlock the full power of Google Firestore). | [Harini Janakiraman](https://github.com/harinij), and [Shams Mosowi](https://github.com/shamsmosowi) |
+| Rowy is an open source project that lets you build your products on the Google Cloud Platform super fast. With Rowy, you can manage your Firestore data in a spreadsheet-like UI, write Cloud Functions effortlessly in the browser, connect to your favorite third party platforms such as sendgrid, twilio, algolia, slack and more. | [Harini Janakiraman](https://github.com/harinij), and [Shams Mosowi](https://github.com/shamsmosowi) |
 
-- [Setup Guide](https://github.com/FiretableProject/firetable/wiki/Getting-Started)
-- [GitHub Issues](https://github.com/FiretableProject/firetable/issues)
+- [Setup Guide](https://docs.rowy.io)
+- [GitHub Issues](https://github.com/rowyio/rowy/issues)
 
 #### [WildFly Elytron](https://github.com/wildfly-security/wildfly-elytron)
 
