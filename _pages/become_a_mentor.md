@@ -19,55 +19,9 @@ mentors that will walk the attendees through finding a project and an issue, exp
 the contribution requirements of the project, working on a solution, and then going through 
 the code review process to close the issue.
 
-OSD vGHC participating projects list can be viewed [here](https://airtable.com/shr9UUiGjdoPt8UNi).
-
 # Application process
 
-OSD mentors are required to have vGHC ticket to join the event.  As a result the application process was
-split to several options:
-
-**Option 1: No sweat application**
-
-All you have to do in this case is apply and tell us your experience and why you are interested in 
-supporting OSD as a mentor.
-
-**Option 2 Other**
-
-In these applications, applicants will be required to first become contributors of an OSD featured project by submitting
-a pull request. Existing contributors are welcomed to enter a link to an old PR, no need to create a new one
-for the application process.
-
-Projects that are in need of mentors are listed [here](https://airtable.com/shrpbjtqjLPQYmyqv).
-
-### Option 1: No sweat application
-
-You should apply under this category if...
-- You already registered for vGHC and... 
-- You are interested in joining OSD as a mentor and...
-- You don't have a preferred project or the time to become a contributor of an OSD featured project.
-
-Or if...
-- You are not interested in attending vGHC but... 
-- You are interested in joining OSD as a mentor and...
-- You don't have a preferred project or the time to become a contributor of an OSD featured project.
-
-[Click here to apply!](https://airtable.com/shrnir4qiMZ25yZ0S){: .btn .btn--primary}
-
-
-### Option 2: Other
-
-You should apply under this category if...
-
-- You already registered for vGHC and... 
-- You are interested in joining OSD as a mentor and...
-- You would like to contribute to a specific project.
-
-Or if...
-- You are not interested in attending vGHC but... 
-- You are interested in joining OSD as a mentor and...
-- You would like to contribute to a specific project.
-
-[Click here to apply!](https://airtable.com/shrTem4d8zbPpr2Xn){: .btn .btn--primary}
+Application is now closed. See you next year!
 
 # Frequently asked questions
 
