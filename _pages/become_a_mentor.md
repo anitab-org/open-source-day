@@ -5,7 +5,7 @@ classes: wide
 ---
 
 Thank you for your interest in applying to be a mentor for OSD 2021! Mentors application
-is opened!
+is now closed!
 
 Open Source Day (OSD) is an opportunity for attendees of all skill levels and backgrounds to 
 learn and experience open source contribution with the support of experienced mentors and 
