@@ -143,7 +143,7 @@ Additionally, we have a "Choose your own adventure" option, where you have the o
 | OpenStreetMap (OSM) is a collaborative project to create a free, editable map of the world. The global coverage and open-source nature of OpenStreetMap has made the map a critical tool for humanitarian and disaster efforts worldwide. Participants will learn how to use the Tasking Manager and OSM editing tools. The Project Task will be decided based on urgent disaster or data needs at the time of the event. This could include mapping to assist emergency organizations responding to hurricanes, floods, epidemics, etc. No coding or mapping experience is necessary. Participants are encouraged to navigate to openstreetmap.org and set up an OSM account prior to the event. Github will not be used for this project. | [Maggie Cawley](https://www.openstreetmap.org/user/MaggieMaps) and [Jess Beutler](https://www.openstreetmap.org/user/jessbeutler) |
 
 - [Setup Guide](https://teachosm.org/projects/2020-09-18-189203)
-- [Issues](https://tasks.openstreetmap.us/projects/251/)
+- [Issues](https://tasks.teachosm.org/projects/1374/)
 - [Code of Conduct](https://wiki.openstreetmap.org/wiki/Foundation/Local_Chapters/United_States/Code_of_Conduct_Committee/OSM_US_Code_of_Conduct)
 
 #### [OpenSUSE](https://github.com/openSUSE)
