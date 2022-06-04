@@ -236,6 +236,8 @@
 
     a {
       position: relative;
+      color: black;
+      font-size: 15px;
 
       &:before {
         content: "";
@@ -243,7 +245,7 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: $primary-color;
+        background: #230771;
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;

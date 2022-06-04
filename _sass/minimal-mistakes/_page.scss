@@ -201,11 +201,13 @@ body {
     }
 
     .page__lead {
-      max-width: $medium;
+      max-width: $large;
+      font-size: $type-size-5;
     }
 
     .page__title {
       font-size: $type-size-2;
+      font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 
       @include breakpoint($small) {
         font-size: $type-size-1;

@@ -3,7 +3,7 @@ title: "Call For Participation"
 permalink: /call-for-participation/
 classes: wide
 sidebar:
-  nav: "main"
+  nav: "cfp"
 ---
 
 **We're excited to announce that Grace Hopper Celebration Open Source Day is open for project, mentor, and workshop applications!**

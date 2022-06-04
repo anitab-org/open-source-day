@@ -14,7 +14,7 @@
   animation: $intro-transition;
   -webkit-animation-delay: 0.45s;
   animation-delay: 0.45s;
-  background-color: $footer-background-color;
+  background-color: white;
 
   footer {
     @include clearfix;
@@ -60,8 +60,8 @@
 
   li {
     display: inline-block;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 0;
+    padding-bottom: 0;
     font-family: $sans-serif-narrow;
     font-size: $type-size-6;
     text-transform: uppercase;

@@ -1,12 +1,12 @@
 ---
-title: "Open Souce Day"
+title: "Open Source Day"
 permalink: /open-source-day/
 classes: wide
 sidebar:
-  nav: "main"
+  nav: "open-source-day"
 ---
 
-> 2022 GHC Open Source Day will take place **virtually on September 16th 2022 from 8am to 3pm US Pacific Time.**
+2022 GHC Open Source Day will take place virtually on September 16th 2022 from 8am to 3pm US Pacific Time.
 
 Open Source Day (OSD) is an all-day hackathon (including workshops) at [Grace Hopper Celebration](https://ghc.anitab.org/) in which participants of all skill levels learn about Open Source while contributing to projects designed to solve real-world problems.
 
@@ -20,5 +20,5 @@ On the Contribution Track, attendees will contribute code to our partner open so
 ### Learning Track
 On the Learning Track, attendees can attend hands-on workshops to help them overcome the barriers to making open source contributions. Attendees will have a chance to attend technical and non-technical workshops and walk away with skills they can leverage in open source contributions.
 
-### Are you new to Open Source? Don't worry. You will not be alone!
-The Open Source Day team and participants will be there to guide you through finding issues suited for your skill level and support you throughout the day to help you make your first or many OSS contributions!
+### Are you new to Open Source?
+Don't worry. You will not be alone! The Open Source Day team and participants will be there to guide you through finding issues suited for your skill level and support you throughout the day to help you make your first or many OSS contributions!

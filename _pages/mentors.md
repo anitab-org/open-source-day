@@ -3,7 +3,7 @@ title: "Mentors"
 permalink: /mentors/
 classes: wide
 sidebar:
-  nav: "main"
+  nav: "mentors"
 ---
 
 OSD Mentors work with one of our partner projects to help participants contribute.
