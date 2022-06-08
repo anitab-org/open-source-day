@@ -4,15 +4,63 @@ main:
     url: /open-source-day/
   - title: "Call For Participation"
     url: /call-for-participation/
-  - title: "Featured Projects"
-    url: /featured-projects/
-  - title: "Choose Your Own Adventure"
-    url: /choose-your-own-adventure/
-  - title: "Workshops"
-    url: /workshops/
+  - title: "Contribution Track"
+    url: /contribution-track/
+  - title: "Learning Track"
+    url: /learning-track/
   - title: "Mentors"
     url: /mentors/
   - title: "Committee Members"
     url: /committee-members/
+  - title: "Blog"
+    url: /blog/
+
+open-source-day:
+  - title: "Open Source Day"
+  - title: "Contribution Track"
+    url: /open-source-day/#contribution-track
+  - title: "Learning Track"
+    url: /open-source-day/#learning-track
+  - title: "FAQ"
+    url: /open-source-day/#frequently-asked-questions-faq
+
+cfp:
+  - title: "Call For Participation"
+  - title: "Projects"
+    url: /call-for-participation/#projects
+  - title: "Mentors"
+    url: /call-for-participation/#mentors
+  - title: "Workshops"
+    url: /call-for-participation/#workshops
+  - title: "Apply Now"
+    url: https://bit.ly/osd22-cfp
+
+contribution:
+  - title: "Contribution Track"
+  - title: "Featured Projects"
+    url: /featured-projects/
+  - title: "Choose Your Own Adventure"
+    url: /choose-your-own-adventure/
+
+featured-projects:
+  - title: "Featured Projects"
+
+choose-your-own-adventure:
+  - title: "Choose Your Own Adventure"
+
+workshops:
+  - title: "Learning Track"
+
+mentors:
+  - title: "Mentors"
+
+committee:
+  - title: "Co-Chairs"
+    url: /committee-members/#co-chairs
+  - title: "Committee Members"
+    url: /committee-members/#committee-members
   - title: "Volunteer"
-    url: /volunteer/
+    url: /committee-members/#volunteer
+
+blog:
+  - title: "Blog Posts"

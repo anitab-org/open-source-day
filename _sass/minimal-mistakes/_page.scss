@@ -59,6 +59,7 @@ body {
     .page__meta,
     .page__share {
       position: relative;
+      font-size: medium;
       float: left;
       margin-left: 0;
       margin-right: 0;
@@ -79,7 +80,7 @@ body {
 
 .page__lead {
   font-family: $global-font-family;
-  font-size: $type-size-4;
+  font-size: $type-size-6;
 }
 
 .page__content {
@@ -201,11 +202,13 @@ body {
     }
 
     .page__lead {
-      max-width: $medium;
+      max-width: $large;
+      font-size: $type-size-5;
     }
 
     .page__title {
       font-size: $type-size-2;
+      font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 
       @include breakpoint($small) {
         font-size: $type-size-1;

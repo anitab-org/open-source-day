@@ -107,38 +107,3 @@
     display: block;
   }
 }
-
-.mentor-details .mentor__urls {
-  display: block;
-  position: relative;
-  margin: 0;
-  padding: 0;
-  border: 0;
-  background: transparent;
-  box-shadow: none;
-
-  ul {
-    padding: 10px;
-    list-style-type: none;
-  }
-
-  li {
-    display: inline;
-    white-space: nowrap;
-  }
-
-  a {
-    display: inline-block;
-    margin-bottom: 5px;
-    padding-right: 5px;
-    padding-top: 2px;
-    padding-bottom: 2px;
-    color: inherit;
-    font-size: $type-size-5;
-    text-decoration: none;
-
-    &:hover {
-      text-decoration: underline;
-    }
-  }
-}

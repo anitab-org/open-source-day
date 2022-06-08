@@ -17,15 +17,15 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 title                    : #"Open Source Day"
-title_separator          : "-"
+title_separator          : ""
 subtitle                 : #site tagline that appears below site title in masthead
 name                     : "Open Source Day"
 description              : "Your Guided Experience to Open Source"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/osd.png"
-logo                     : "/assets/images/osd_logo2.png"
+teaser                   : "/assets/images/logo-black.png"
+logo                     : "/assets/images/logo-black.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -124,22 +124,16 @@ footer:
   links:
     - label: ""
       icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/hashtag/OpenSourceDay
+      url: https://twitter.com/hashtag/GraceHopperOSD
     - label: ""
       icon: "fab fa-fw fa-facebook-square"
-      url: https://www.facebook.com/hashtag/opensourceday
-    - label: "GitHub"
+      url: https://www.facebook.com/hashtag/GraceHopperOSD
+    - label: ""
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: https://github.com/anitab-org/open-source-day
+    - label: ""
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:anitabopensourceday@gmail.com"
 
 
 # Reading Files

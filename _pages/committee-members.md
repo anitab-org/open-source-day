@@ -1,21 +1,54 @@
 ---
-title: "2022 Committee Members"
+title: "Committee Members"
 permalink: /committee-members/
 classes: wide
 sidebar:
-  nav: "main"
+  nav: "committee"
 ---
 
-**Thank you to our 2022 GHC Open Source Day Committee!**
+**Thank you to our 2022 GHC Open Source Day Committees!**
 
 
 ## Co-Chairs
 
 | [Ambika Sharma](https://www.linkedin.com/in/ambika-sharma/) | [Anna Jung](https://www.linkedin.com/in/antheajung/) | [Shagun Bose](https://www.linkedin.com/in/shagunbose/) |
 | --- | --- | --- |
-| <img src="https://media-exp1.licdn.com/dms/image/C4E03AQEIUscIw8pwZQ/profile-displayphoto-shrink_800_800/0/1569541079594?e=1659571200&v=beta&t=Fk9rhPt9hMLryaVYPrH1nN2QeM6LTsvc9OmkLB7LXc0" width="200"> |  <img src="https://media-exp1.licdn.com/dms/image/C5103AQEMC7gecMzIFQ/profile-displayphoto-shrink_400_400/0/1516609204143?e=1659571200&v=beta&t=qQs1BNqmhF-WWFBT4Ic_B0cYviLKUG35jLicyZzsaNU" width="200"> | <img src="https://media-exp1.licdn.com/dms/image/C5603AQF7bFK5TeQJiA/profile-displayphoto-shrink_800_800/0/1630453035802?e=1659571200&v=beta&t=ItkIOk2EzM9yimDm8ZhygUcUO5Oi3RMd8mKjS-1f0wI" width="200"> |
+| <img src="../assets/images/committees/2022/ambika_sharma.png" width="200"> | <img src="../assets/images/committees/2022/anna_jung.jpg" width="200"> | <img src="../assets/images/committees/2022/shagun_bose.jpg" width="200">
 
 
 ## Committee Members
 
-> Coming Soon!
+| [Annu Joshi](https://www.linkedin.com/in/annu-joshi/) | [Basak Scott](https://www.linkedin.com/in/basakkilicscott/) | [Chris Miyachi](https://www.linkedin.com/in/chris-miyachi-a31835/) |
+| --- | --- | --- |
+| <img src="../assets/images/committees/2022/annu_joshi.jpg" width="200"> | <img src="../assets/images/committees/2022/basak_scott.jpg" width="200"> | <img src="../assets/images/committees/2022/chris_miyachi.jpg" width="200"> |
+
+| [Emily Hoang](https://www.linkedin.com/in/emily-hoang-865b40102/) | [Jiawei Xie](https://www.linkedin.com/in/jiawei-xie-014562103/) | Joy Joel | 
+| --- | --- | --- |
+| <img src="../assets/images/committees/2022/emily_hoang.jpg" width="200"> | <img src="../assets/images/committees/2022/jiawei_xie.png" width="200"> | <img src="../assets/images/committees/2022/missing_photo.jpg" width="200"> |
+
+| Lucy Shen | [Monica Miyasato](https://www.linkedin.com/in/monicamiyasato/) | [Paula Paul](https://www.linkedin.com/in/paulapaul/) |
+| --- | --- | --- |
+| <img src="../assets/images/committees/2022/missing_photo.jpg" width="200"> | <img src="../assets/images/committees/2022/monica_miyasato.jpg" width="200"> | <img src="../assets/images/committees/2022/paula_paul.jpg" width="200"> |
+
+| [Phylis Atieno](https://www.linkedin.com/in/phyllis-atieno-ab7826182/) | [Prachi Sharma](https://www.linkedin.com/in/prachi94/) | Rasa Raghavan |
+| --- | --- | --- |
+| <img src="../assets/images/committees/2022/phylis_atieno.jpg" width="200"> | <img src="../assets/images/committees/2022/prachi_sharma.jpg" width="200"> | <img src="../assets/images/committees/2022/rasa_raghavan.jpg" width="200"> |
+
+| Rashan Smith | [Sandy Skipper](https://www.linkedin.com/in/sandraskipper/) | [Tracy Obakhena](https://www.linkedin.com/in/tracy-obakhena-066b4912a/) |
+| --- | --- | --- |
+| <img src="../assets/images/committees/2022/missing_photo.jpg" width="200"> | <img src="../assets/images/committees/2022/sandy_skipper.jpeg" width="200">  | <img src="../assets/images/committees/2022/tracy_obakhena.jpg" width="200"> |
+
+
+## Volunteer
+
+> Thank you for your interest! We're no longer accepting applications at this time.
+
+Grace Hopper Celebration Open Source Day team is looking for volunteers to help organize the event for 2022. As an OSD committee member, you are responsible for leading and being accountable for the event's success. OSD committee tasks are split between several areas of responsibility:
+
+- **Project**: Responsible for recruiting open source projects and coordinating with project partners to ensure preparation for the event.
+- **Mentor**: Responsible for recruiting mentors for partner projects, training mentors, and coordinating with mentors to ensure preparation for the event.
+- **Workshop**: Responsible for selecting content from reviewed CFPs, recruiting speakers, and coordinating with workshop speakers to ensure preparation for the event.
+- **Communication**: Responsible for creating social media campaigns / website content and assisting with external communication for OSD.
+
+[Apply now](https://bit.ly/OSD-volunteer) to be part of Open Source Day Committee!
+
