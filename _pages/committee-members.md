@@ -18,25 +18,25 @@ sidebar:
 
 ## Committee Members
 
-| [Annu Joshi](https://www.linkedin.com/in/annu-joshi/) | [Basak Scott](https://www.linkedin.com/in/basakkilicscott/) | [Chris Miyachi](https://www.linkedin.com/in/chris-miyachi-a31835/) |
+| [Annu Joshi](https://www.linkedin.com/in/annu-joshi/) | [Basak Scott](https://www.linkedin.com/in/basakkilicscott/) | Carinne Johnson |
 | --- | --- | --- |
-| <img src="../assets/images/committees/2022/annu_joshi.jpg" width="200"> | <img src="../assets/images/committees/2022/basak_scott.jpg" width="200"> | <img src="../assets/images/committees/2022/chris_miyachi.jpg" width="200"> |
+| <img src="../assets/images/committees/2022/annu_joshi.jpg" width="200"> | <img src="../assets/images/committees/2022/basak_scott.jpg" width="200"> | <img src="../assets/images/committees/2022/missing_photo.jpg" width="200"> |
 
-| [Emily Hoang](https://www.linkedin.com/in/emily-hoang-865b40102/) | [Jiawei Xie](https://www.linkedin.com/in/jiawei-xie-014562103/) | Joy Joel | 
+| [Chris Miyachi](https://www.linkedin.com/in/chris-miyachi-a31835/) | [Emily Hoang](https://www.linkedin.com/in/emily-hoang-865b40102/) | [Jiawei Xie](https://www.linkedin.com/in/jiawei-xie-014562103/) |
 | --- | --- | --- |
-| <img src="../assets/images/committees/2022/emily_hoang.jpg" width="200"> | <img src="../assets/images/committees/2022/jiawei_xie.png" width="200"> | <img src="../assets/images/committees/2022/missing_photo.jpg" width="200"> |
+| <img src="../assets/images/committees/2022/chris_miyachi.jpg" width="200"> | <img src="../assets/images/committees/2022/emily_hoang.jpg" width="200"> | <img src="../assets/images/committees/2022/jiawei_xie.png" width="200"> |
 
-| Lucy Shen | [Monica Miyasato](https://www.linkedin.com/in/monicamiyasato/) | [Paula Paul](https://www.linkedin.com/in/paulapaul/) |
+| Joy Joel | Lucy Shen | [Monica Miyasato](https://www.linkedin.com/in/monicamiyasato/) |
 | --- | --- | --- |
-| <img src="../assets/images/committees/2022/missing_photo.jpg" width="200"> | <img src="../assets/images/committees/2022/monica_miyasato.jpg" width="200"> | <img src="../assets/images/committees/2022/paula_paul.jpg" width="200"> |
+| <img src="../assets/images/committees/2022/missing_photo.jpg" width="200"> | <img src="../assets/images/committees/2022/missing_photo.jpg" width="200"> | <img src="../assets/images/committees/2022/monica_miyasato.jpg" width="200"> |
 
-| [Phylis Atieno](https://www.linkedin.com/in/phyllis-atieno-ab7826182/) | [Prachi Sharma](https://www.linkedin.com/in/prachi94/) | Rasa Raghavan |
+| [Paula Paul](https://www.linkedin.com/in/paulapaul/) | [Phylis Atieno](https://www.linkedin.com/in/phyllis-atieno-ab7826182/) | [Prachi Sharma](https://www.linkedin.com/in/prachi94/) |
 | --- | --- | --- |
-| <img src="../assets/images/committees/2022/phylis_atieno.jpg" width="200"> | <img src="../assets/images/committees/2022/prachi_sharma.jpg" width="200"> | <img src="../assets/images/committees/2022/rasa_raghavan.jpg" width="200"> |
+| <img src="../assets/images/committees/2022/paula_paul.jpg" width="200"> | <img src="../assets/images/committees/2022/phylis_atieno.jpg" width="200"> | <img src="../assets/images/committees/2022/prachi_sharma.jpg" width="200"> |
 
-| Rashan Smith | [Sandy Skipper](https://www.linkedin.com/in/sandraskipper/) | [Tracy Obakhena](https://www.linkedin.com/in/tracy-obakhena-066b4912a/) |
+| Rasa Raghavan | Rashan Smith | [Sandy Skipper](https://www.linkedin.com/in/sandraskipper/) |
 | --- | --- | --- |
-| <img src="../assets/images/committees/2022/missing_photo.jpg" width="200"> | <img src="../assets/images/committees/2022/sandy_skipper.jpeg" width="200">  | <img src="../assets/images/committees/2022/tracy_obakhena.jpg" width="200"> |
+| <img src="../assets/images/committees/2022/rasa_raghavan.jpg" width="200"> | <img src="../assets/images/committees/2022/missing_photo.jpg" width="200"> | <img src="../assets/images/committees/2022/sandy_skipper.jpeg" width="200">  |
 
 
 ## Volunteer

@@ -1,12 +1,15 @@
 ---
-title: "Call For Participation"
+title: "[Closed for 2022] Call For Participation"
 permalink: /call-for-participation/
 classes: wide
 sidebar:
   nav: "cfp"
 ---
 
-**We're excited to announce that Grace Hopper Celebration Open Source Day is open for project, mentor, and workshop applications!**
+> Thank you for your interest! We’re no longer accepting applications at this time.
+
+
+**We're excited to announce that Grace Hopper Celebration Open Source Day is ~~open~~ for project, mentor, and workshop applications!**
 
 If you're an open source project maintainer, an experienced open source contributor, or have stories and ideas to share related to open source, we invite you to join us to be part of Open Source Day 2022.
 
