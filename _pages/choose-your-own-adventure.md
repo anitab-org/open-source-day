@@ -93,7 +93,3 @@ NASA's Transform to Open Science (TOPS) mission leverages open science will broa
 - [Code of conduct](https://github.com/nasa/Transform-to-Open-Science/blob/main/CODE_OF_CONDUCT.md)
 
 This project will be represented by: Yvonne Ivey and Chelle Gentemann
-
-| <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" width="200"> | <img src="https://camo.githubusercontent.com/a8a74b3986fa8d06b25c66c7d35cbfd66f1a8f214ce51aad0fedf46673754c46/68747470733a2f2f63686170656c2d6c616e672e6f72672f696d616765732f63686170656c2d6c6f676f2d3230302e706e67" width="200"> | <img src="https://github.com/capitalone/DataProfiler/blob/gh-pages/docs/source/_static/images/DataProfilerLogoLightThemeLong.png" width="200"> |
-| --- | --- | --- |
-| <img src="https://matplotlib.org/_static/images/logo2.svg" width="200"> | <img src="https://static.openfoodfacts.org/images/logos/off-logo-horizontal-light.svg" width="200"> | <img src="https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F1430113306568765446%2Fo7GboeiB_400x400.jpg" width="200"> |
