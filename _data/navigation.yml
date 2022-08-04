@@ -17,6 +17,7 @@ main:
 
 open-source-day:
   - title: "Open Source Day"
+    url: /open-source-day/
   - title: "Contribution Track"
     url: /open-source-day/#contribution-track
   - title: "Learning Track"
@@ -26,6 +27,7 @@ open-source-day:
 
 cfp:
   - title: "Call For Participation"
+    url: /call-for-participation/
   - title: "Projects"
     url: /call-for-participation/#projects
   - title: "Mentors"
@@ -37,6 +39,7 @@ cfp:
 
 contribution:
   - title: "Contribution Track"
+    url: /contribution-track/
   - title: "Featured Projects"
     url: /featured-projects/
   - title: "Choose Your Own Adventure"
