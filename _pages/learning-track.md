@@ -53,7 +53,7 @@ Git is a powerful software development tool that allows people from all over the
 
 ## Hack an Open-Source Database Together
 
-Databases are crucial to modern applications today, and they come in many flavors. Even though they are widely used, like other system software they are often viewed as black boxes. In this workshop, we will take a peek under the covers of a mission-critical enterprise-grade open-source database system and implement a small feature together using test-drive development(TDD), GitHub, and raise a pull request.
+Databases are crucial to modern applications today, and they come in many flavors. Even though they are widely used, like other system software they are often viewed as black boxes. In this workshop, we will take a peek under the covers of a mission-critical enterprise-grade open-source database system and implement a small feature together using test-drive development (TDD), GitHub, and raise a pull request.
 
 <details>
   <summary>This workshop will be led by: Alexandra Wang</summary>
@@ -65,7 +65,7 @@ Databases are crucial to modern applications today, and they come in many flavor
 
 ## How to Write an Accessible Pull Request
 
-Web accessibility is the practice of making a product or feature usable for as many people as possible. It fosters inclusion and diversity by removing barriers that make it impossible for some people to use the web. Projects tend to perform better with a diverse set of participants. With that being said open source is still facing issues maintaining a diverse set of contributors. A recent study on The [Diversity, Equity, and Inclusion in Open Source] (https://linuxfoundation.org/tools/the-2021-linux-foundation-report-on-diversity-equity-and-inclusion-in-open-source/), conducted by the Linux Foundation, showed that 18% of respondents do not feel welcome in open source. A large number of the respondents that did not feel welcome came from disproportionately underrepresented groups, including people with disabilities. This workshop will demonstrate how we as developers can remove barriers and create a more inclusive open source community by adding accessibility into the markdown in a pull request. Markdown is a formatting language that generates semantic html from plaintext and it is used in pull requests to write descriptions and create comments. Writing proper semantic html is critical for accessible users, as it can be easily read by assistive technologies.
+Web accessibility is the practice of making a product or feature usable for as many people as possible. It fosters inclusion and diversity by removing barriers that make it impossible for some people to use the web. Projects tend to perform better with a diverse set of participants. With that being said open source is still facing issues maintaining a diverse set of contributors. A recent study on The <a href="https://linuxfoundation.org/tools/the-2021-linux-foundation-report-on-diversity-equity-and-inclusion-in-open-source/">Diversity, Equity, and Inclusion in Open Source</a>, conducted by the Linux Foundation, showed that 18% of respondents do not feel welcome in open source. A large number of the respondents that did not feel welcome came from disproportionately underrepresented groups, including people with disabilities. This workshop will demonstrate how we as developers can remove barriers and create a more inclusive open source community by adding accessibility into the markdown in a pull request. Markdown is a formatting language that generates semantic html from plaintext and it is used in pull requests to write descriptions and create comments. Writing proper semantic html is critical for accessible users, as it can be easily read by assistive technologies.
 
 <details>
   <summary>This workshop will be led by: Kendall Gassner and Adrián Bolonio</summary>
@@ -80,7 +80,7 @@ Web accessibility is the practice of making a product or feature usable for as m
 
 ## Overcoming the Fear of Contributing to Open
 
-If you’re feeling uncertain about contributing to an open source project for the first time, I understand. Navigating the open source space can feel intimidating. In this talk, audience members will learn how to confidently navigate the open source space and gain inspiration to make their first contribution.åå
+If you’re feeling uncertain about contributing to an open source project for the first time, I understand. Navigating the open source space can feel intimidating. In this talk, audience members will learn how to confidently navigate the open source space and gain inspiration to make their first contribution.
 
 <details>
   <summary>This workshop will be led by: Rizel Scarlett</summary>
@@ -92,14 +92,7 @@ If you’re feeling uncertain about contributing to an open source project for t
 
 ## Shift Left with Quality: Scalable Testing Infrastructure in UI Automation
 
-Many test automation practices rely on third party, out of the box frameworks as opposed to building out a native test framework. However, test automation written in this
-way can have a low return on investment. This typically causes client automation to run as an afterthought, acting as a simple report card of the product. Within our UI test automation spectrum, we’ve found a solution to help deconstruct what is truly important in the app and
-adopted a strategy that has encouraged collaboration between quality, engineering and
-product teams. A behavior-driven approach to UI test automation can increase your
-return on investment and confidence, all the while running in your CI/CD pipeline. 
-To ensure smooth adoption, we developed a set of tools that can help
-your organization drive adoption of behavior driven development (BDD) within UI test
-automation using the Gherkin language.
+Many test automation practices rely on third party, out of the box frameworks as opposed to building out a native test framework. However, test automation written in this way can have a low return on investment. This typically causes client automation to run as an afterthought, acting as a simple report card of the product. Within our UI test automation spectrum, we’ve found a solution to help deconstruct what is truly important in the app and adopted a strategy that has encouraged collaboration between quality, engineering and product teams. A behavior-driven approach to UI test automation can increase your return on investment and confidence, all the while running in your CI/CD pipeline. To ensure smooth adoption, we developed a set of tools that can help your organization drive adoption of behavior driven development (BDD) within UI test automation using the Gherkin language.
  
 <details>
   <summary>This workshop will be led by: Leila Navon</summary>
