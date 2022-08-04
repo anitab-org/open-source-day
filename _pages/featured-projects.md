@@ -3,7 +3,7 @@ title: "Featured Projects"
 permalink: /featured-projects/
 classes: wide
 sidebar:
-  nav: "featured-projects"
+  nav: "contribution"
 ---
 
 Featured projects are larger open source projects where you'll have opportunity to work in groups, learn from one another, get assistance from experienced mentors.
