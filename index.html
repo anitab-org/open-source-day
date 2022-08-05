@@ -2,14 +2,12 @@
 layout: splash
 seo_title: GHC Open Source Day
 title: Largest Celebration of Women in Open Source
-excerpt: "Open Source Day is an all-day hackathon (including workshops) at Grace Hopper Celebration in which participants of all skill levels learn about Open Source while contributing to projects designed to solve real-world problems! Open Source Day will take place on September 16, 2022. Can't wait to see you there!"
+excerpt: "Open Source Day is an all-day hackathon (including workshops) at Grace Hopper Celebration in which participants of all skill levels learn about Open Source while contributing to projects designed to solve real-world problems! Can't wait to see you there!"
 header:
   overlay_image: /assets/images/AB_GHC22_Brand Gradient_01.png
   actions:
     - label: "Register Now"
       url: "https://www.gracehoppercelebration.com/"
-intro: 
-    - excerpt: ""
 feature_row:
   - image_path: /assets/images/women_in_tech_3.jpg
     alt: "women in tech"
@@ -29,5 +27,42 @@ feature_row:
 ---
 
 {% include feature_row id="intro" type="center" %}
+
+<style>
+#countdown {
+  font-size: 30px;
+  text-align: center;
+}
+</style>
+
+<p id="countdown"></p>
+<br>
+
+<script>
+// Set the date we're counting down to
+var countDownDate = new Date("Sept 16, 2022").getTime();
+
+var x = setInterval(function() {
+  var now = new Date().getTime();
+  var distance = countDownDate - now;
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+
+  if (distance < 0) {
+     clearInterval(x);
+     document.getElementById("countdown").innerHTML = "Open Source Day is Happening Now! ✨ <br> <span style='font-size: 20px'>September 16, 2022 from 8am to 3pm US Pacific Time</span>";
+  }
+
+  if (parseInt(days) < 1) {
+      document.getElementById("countdown").innerHTML = "<b>" + hours + "h " + minutes + "m " + seconds + "s</b> </b> until Open Source Day ✨ <br> <span style='font-size: 20px'>September 16, 2022 at 8am US Pacific Time</span>"
+  } else {
+    document.getElementById("countdown").innerHTML = "<b>" + days + "</b> Days until Open Source Day ✨ <br> <span style='font-size: 20px'>September 16, 2022 at 8am US Pacific Time</span>"
+  }
+}, 1000);
+</script>
+
 
 {% include feature_row %}
