@@ -2,18 +2,20 @@
 main:
   - title: "Open Source Day"
     url: /open-source-day/
-  - title: "Call For Participation"
-    url: /call-for-participation/
-  - title: "Contribution Track"
-    url: /contribution-track/
-  - title: "Learning Track"
-    url: /learning-track/
-  - title: "Mentors"
-    url: /mentors/
+  # - title: "Call For Participation"
+  #   url: /call-for-participation/
+  - title: "Featured Projects"
+    url: /featured/
+  - title: "Choose Your Own Adventure"
+    url: /choose-your-own-adventure/
+  - title: "Workshops"
+    url: /workshops/
+  # - title: "Mentors"
+  #   url: /mentors/
   - title: "Committee Members"
     url: /committee-members/
-  - title: "Blog"
-    url: /blog/
+  # - title: "Blog"
+  #   url: /blog/
 
 open-source-day:
   - title: "Open Source Day"
@@ -37,22 +39,85 @@ cfp:
   - title: "Apply Now"
     url: https://bit.ly/osd22-cfp
 
-contribution:
-  - title: "Contribution Track"
-    url: /contribution-track/
-  - title: "Featured Projects"
-    url: /featured-projects/
-  - title: "Choose Your Own Adventure"
-    url: /choose-your-own-adventure/
-
-featured-projects:
-  - title: "Featured Projects"
+featured:
+  - title: "AIF360"
+    url: /featured/#aif360
+  - title: "Apache ShardingSphere"
+    url: /featured/#apache-shardingsphere
+  - title: "Argo CD"
+    url: /featured/#argocd
+  - title: "Backdrop CMS"
+    url: /featured/#backdrop-cms
+  - title: "Bevy"
+    url: /featured//#bevy
+  - title: "Blockly"
+    url: /featured/#blockly
+  - title: "Ceph"
+    url: /featured/#ceph
+  - title: "Egeria"
+    url: /featured/#egeria
+  - title: "Flint UI and Cloud"
+    url: /featured/#flint-ui-and-cloud
+  - title: "Hyperledger FireFly"
+    url: /featured/#hyperledger-firefly
+  - title: "Node.js"
+    url: /featured/#nodejs
+  - title: "OpenStack"
+    url: /featured/#openstack
+  - title: "OpenStreetMap"
+    url: /featured/#openstreetmap
+  - title: "OpenSUSE"
+    url: /featured/#opensuse
+  - title: "Python extension for Visual Studio Code"
+    url: /featured/#python-extension-for-visual-studio-code
+  - title: "RisingWave"
+    url: /featured/#risingwave
+  - title: "Rowy"
+    url: /featured/#rowy
+  - title: "WildFly Elytron"
+    url: /featured/#pwildfly-elytron
 
 choose-your-own-adventure:
-  - title: "Choose Your Own Adventure"
+  - title: "Apache Cassandra"
+    url: /choose-your-own-adventure/#apache-cassandra
+  - title: "Chapel"
+    url: /choose-your-own-adventure/#chapel
+  - title: "Data Profiler"
+    url: /choose-your-own-adventure/#data-profiler
+  - title: "Domain Graph Service Framework (DGS)"
+    url: /choose-your-own-adventure/#domain-graph-service-framework-dgs
+  - title: "Matplotlib"
+    url: /choose-your-own-adventure/#matplotlib
+  - title: "Open Food Facts"
+    url: /choose-your-own-adventure/#open-food-facts
+  - title: "Raphtory"
+    url: /choose-your-own-adventure/#raphtory
+  - title: "Transform to Open Science"
+    url: /choose-your-own-adventure/#transform-to-open-science
 
 workshops:
-  - title: "Learning Track"
+  - title: "Adrián Bolonio"
+    url: /workshops/#how-to-write-an-accessible-pull-request
+  - title: "Alexandra Wang"
+    url: /workshops/#hack-an-open-source-database-together
+  - title: "Annu Joshi"
+    url: /workshops/#build-production-ready-data-engineering-pipeline-using-open-source-framework-kedro
+  - title: "Diane Downie"
+    url: /workshops/#dont-sacrifice-security-when-coding-your-next-game-changing-app
+  - title: "Kendall Gassner"
+    url: /workshops/#how-to-write-an-accessible-pull-request
+  - title: "Leila Navon"
+    url: /workshops/#shift-left-with-quality-scalable-testing-infrastructure-in-ui-automation
+  - title: "Lingyi Zhang"
+    url: /workshops/#build-production-ready-data-engineering-pipeline-using-open-source-framework-kedro
+  - title: "Megan McIntyre"
+    url: /workshops/#dont-sacrifice-security-when-coding-your-next-game-changing-app
+  - title: "Ramona Sartipi"
+    url: /workshops/#when-design-thinking-meets-open-source
+  - title: "Rashan Smith"
+    url: /workshops/#git-101---how-to-contribute-to-an-open-source-project
+  - title: "Rizel Scarlett"
+    url: /workshops/#overcoming-the-fear-of-contributing-to-open
 
 mentors:
   - title: "Mentors"
@@ -62,8 +127,8 @@ committee:
     url: /committee-members/#co-chairs
   - title: "Committee Members"
     url: /committee-members/#committee-members
-  - title: "Volunteer"
-    url: /committee-members/#volunteer
+  # - title: "Volunteer"
+  #   url: /committee-members/#volunteer
 
 blog:
   - title: "Blog Posts"

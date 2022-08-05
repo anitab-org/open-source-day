@@ -1,6 +1,6 @@
 ---
-title: "Learning Track"
-permalink: /learning-track/
+title: "Workshops"
+permalink: /workshops/
 classes: wide
 sidebar:
   nav: "workshops"
@@ -39,7 +39,7 @@ Open Source Software (OSS) is hot! But with stories of exploits and stolen data,
 </details>
 
 
-## Git 101 - How to Contribute to an Open Source project
+## Git 101 - How to Contribute to an Open Source Project
 
 Git is a powerful software development tool that allows people from all over the world to collaborate on open source projects, in an organized way. If you are looking to prepare for your participation in an  Open Source Day project, and are new to git or looking for a refresher, join us! In this workshop we will go over the basics of git, and you will have the opportunity to put your skills to the test by contributing to a sample Open Source Project! Along the way, you will learn git tricks, tips, and best practices as you continue on your Open Source and Software Engineering Journey. 
 

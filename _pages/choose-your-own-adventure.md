@@ -3,7 +3,7 @@ title: "Choose Your Own Adventure"
 permalink: /choose-your-own-adventure/
 classes: wide
 sidebar:
-  nav: "contribution"
+  nav: "choose-your-own-adventure"
 ---
 
 Choose your own adventure projects provide you the opportunity to contribute code to projects led by women maintainers **or** to any project in the OSS community!

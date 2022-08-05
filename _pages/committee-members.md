@@ -18,28 +18,28 @@ sidebar:
 
 ## Committee Members
 
-| [Annu Joshi](https://www.linkedin.com/in/annu-joshi/) | [Basak Scott](https://www.linkedin.com/in/basakkilicscott/) | Carinne Johnson |
+| [Annu Joshi](https://www.linkedin.com/in/annu-joshi/) | [Basak Scott](https://www.linkedin.com/in/basakkilicscott/) | [Carinne Johnson](https://www.linkedin.com/in/carinnejohnson/) |
 | --- | --- | --- |
-| <img src="../assets/images/committees/2022/annu_joshi.jpg" width="200"> | <img src="../assets/images/committees/2022/basak_scott.jpg" width="200"> | <img src="../assets/images/committees/2022/missing_photo.jpg" width="200"> |
+| <img src="../assets/images/committees/2022/annu_joshi.jpg" width="200"> | <img src="../assets/images/committees/2022/basak_scott.jpg" width="200"> | <img src="../assets/images/committees/2022/carinne_johnson.jpg" width="200"> |
 
-| [Chris Miyachi](https://www.linkedin.com/in/chris-miyachi-a31835/) | [Emily Hoang](https://www.linkedin.com/in/emily-hoang-865b40102/) | [Jiawei Xie](https://www.linkedin.com/in/jiawei-xie-014562103/) |
+| [Chris Miyachi](https://www.linkedin.com/in/chris-miyachi-a31835/) | [Emily Hoang](https://www.linkedin.com/in/emily-hoang-865b40102/) | [Joy Joel](https://www.linkedin.com/in/joyjoel/) |
 | --- | --- | --- |
-| <img src="../assets/images/committees/2022/chris_miyachi.jpg" width="200"> | <img src="../assets/images/committees/2022/emily_hoang.jpg" width="200"> | <img src="../assets/images/committees/2022/jiawei_xie.png" width="200"> |
+| <img src="../assets/images/committees/2022/chris_miyachi.jpg" width="200"> | <img src="../assets/images/committees/2022/emily_hoang.jpg" width="200"> | <img src="../assets/images/committees/2022/missing_photo.jpg" width="200"> |
 
-| Joy Joel | Lucy Shen | [Monica Miyasato](https://www.linkedin.com/in/monicamiyasato/) |
+| [Lucy Shen](https://www.linkedin.com/in/lucyjshen/) | [Monica Miyasato](https://www.linkedin.com/in/monicamiyasato/) | [Paula Paul](https://www.linkedin.com/in/paulapaul/) |
 | --- | --- | --- |
-| <img src="../assets/images/committees/2022/missing_photo.jpg" width="200"> | <img src="../assets/images/committees/2022/missing_photo.jpg" width="200"> | <img src="../assets/images/committees/2022/monica_miyasato.jpg" width="200"> |
+| <img src="../assets/images/committees/2022/lucy_shen.jpg" width="200"> | <img src="../assets/images/committees/2022/monica_miyasato.jpg" width="200"> | <img src="../assets/images/committees/2022/paula_paul.jpg" width="200"> |
 
-| [Paula Paul](https://www.linkedin.com/in/paulapaul/) | [Phylis Atieno](https://www.linkedin.com/in/phyllis-atieno-ab7826182/) | [Prachi Sharma](https://www.linkedin.com/in/prachi94/) |
+| [Phylis Atieno](https://www.linkedin.com/in/phyllis-atieno-ab7826182/) | [Prachi Sharma](https://www.linkedin.com/in/prachi94/) | Rasa Raghavan |
 | --- | --- | --- |
-| <img src="../assets/images/committees/2022/paula_paul.jpg" width="200"> | <img src="../assets/images/committees/2022/phylis_atieno.jpg" width="200"> | <img src="../assets/images/committees/2022/prachi_sharma.jpg" width="200"> |
+| <img src="../assets/images/committees/2022/phylis_atieno.jpg" width="200"> | <img src="../assets/images/committees/2022/prachi_sharma.jpg" width="200"> | <img src="../assets/images/committees/2022/rasa_raghavan.jpg" width="200"> |
 
-| Rasa Raghavan | Rashan Smith | [Sandy Skipper](https://www.linkedin.com/in/sandraskipper/) |
-| --- | --- | --- |
-| <img src="../assets/images/committees/2022/rasa_raghavan.jpg" width="200"> | <img src="../assets/images/committees/2022/missing_photo.jpg" width="200"> | <img src="../assets/images/committees/2022/sandy_skipper.jpeg" width="200">  |
+| [Rashan Smith](https://www.linkedin.com/in/rashansmith/) | [Sandy Skipper](https://www.linkedin.com/in/sandraskipper/) |
+| --- | --- |
+| <img src="../assets/images/committees/2022/missing_photo.jpg" width="200"> | <img src="../assets/images/committees/2022/sandy_skipper.jpeg" width="200">  |
 
 
-## Volunteer
+<!-- ## Volunteer
 
 > Thank you for your interest! We're no longer accepting applications at this time.
 
@@ -52,3 +52,4 @@ Grace Hopper Celebration Open Source Day team is looking for volunteers to help 
 
 [Apply now](https://bit.ly/OSD-volunteer) to be part of Open Source Day Committee!
 
+ -->
