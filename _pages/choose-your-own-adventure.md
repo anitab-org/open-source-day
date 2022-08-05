@@ -40,12 +40,14 @@ The DataProfiler is a Python library designed to make data analysis, monitoring,
 
 This project will be represented by: Taylor Turner and Jeremy Goodsitt
 
-## Domain Graph Service Framework (DGS)
+## Domain Graph Service Framework
 
 The DGS framework is a Spring Boot based framework for easy wire up of GraphQL services. It is built on top of graphql-java. Graphql-java provides lower level building blocks to handle GraphQL query execution. The DGS framework makes all this available with a convenient Spring Boot programming model.
 
 - [Project link](https://github.com/Netflix/dgs-framework)
-- [Link to issues](https://github.com/Netflix/dgs-framework/labels/good-first-issues, https://github.com/Netflix/dgs-codegen/labels/good%20first%20issue)
+- Link to issues
+  - [DGS Framework](https://github.com/Netflix/dgs-framework/labels/good-first-issues)
+  - [DGS Codegen](https://github.com/Netflix/dgs-codegen/labels/good%20first%20issue)
 - [Code of conduct](https://github.com/Netflix/dgs-framework/blob/master/CONTRIBUTING.md)
 - [Setup Guide](https://github.com/Netflix/dgs-framework/blob/master/CONTRIBUTING.md)
 
@@ -82,7 +84,7 @@ An open-source platform for distributed real-time temporal graph analytics, allo
 - [Code of conduct](https://github.com/Raphtory/Raphtory/blob/master/LICENSE)
 - [Setup Guide](https://raphtory.readthedocs.io/en/development/Install/installdependencies.html)
 
-This project will be represented by: Rachel Chan
+This project will be represented by: Rachel Chan and Naomi Arnold
 
 ## Transform to Open Science
 

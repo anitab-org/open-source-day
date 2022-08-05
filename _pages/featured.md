@@ -27,7 +27,7 @@ Apache ShardingSphere is an open source ecosystem that allows you to transform a
 - [Code of conduct](https://shardingsphere.apache.org/community/en/contribute/code-conduct/)
 - [Setup Guide](https://shardingsphere.apache.org/community/en/contribute/establish-project/)
 
-This project will be represented by: Trista Pan, Yacine si Taceb and Haoran Meng
+This project will be represented by: Trista Pan, Yacine Si Tayeb and Meng Haoran
 
 ## ArgoCD
 
@@ -69,7 +69,7 @@ Blockly is a library that adds a visual code editor to web and mobile apps. The 
 - [Link to issues](https://github.com/google/blockly-samples/labels/good%20first%20issue)
 - [Setup Guide](https://developers.google.com/blockly/guides/modify/contributing)
 
-This project will be represented by: Maribeth Borttoff and Beka Westberg
+This project will be represented by: Maribeth Bottorff, Beka Westberg and Abby Schmiedt
 
 ## Ceph
 
@@ -80,7 +80,7 @@ Ceph is an open-source, distributed storage system.
 - [Code of conduct](https://ceph.io/en/code-of-conduct/#:~:text=We%20are%20a%20community%20of,exclusionary%20behavior%20aren't%20acceptable)
 - [Setup Guide](https://github.com/ceph/ceph#readme)
 
-This project will be represented by:  Laura Flores, Deepika Upadhyay and Neha Ojha
+This project will be represented by: Laura Flores, Deepika Upadhyay and Neha Ojha
 
 ## Egeria
 
@@ -108,7 +108,7 @@ Flint.Cloud
 - [Link to issues](https://github.com/moja-global/FLINT.Cloud/issues)
 - [Setup Guide](https://github.com/moja-global/flint.cloud#local-setup)
 
-This project will be represented by: Harsh Mishra, Yash Kandalkar and Padmaja Bhol
+This project will be represented by: Harsh Mishra, Padmaja Bhol and Shloka Gupta
 
 ## Hyperledger FireFly
 
@@ -119,18 +119,18 @@ The first open source Supernode: a complete stack for enterprises to build and s
 - [Code of conduct](https://github.com/hyperledger/firefly/blob/main/CODE_OF_CONDUCT.md)
 - [Setup Guide](https://hyperledger.github.io/firefly/contributors/dev_environment_setup.html)
 
-This project will be represented by: Nick Guyer
+This project will be represented by: Nicko Guyer
 
 ## Node.js
 
-Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine - often called server-side JavaScript. The Node.js project has more than 3,000 contributors, 88K stars on GitHub, and was downloaded over 3 billion times last year.
+Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser, which was designed to build scalable network applications.
 
 - [Project link](https://github.com/nodejs/nodejs.org)
 - [Link to issues](https://github.com/nodejs/node/issues)
 - [Code of conduct](https://github.com/nodejs/node/blob/main/CODE_OF_CONDUCT.md)
 - [Setup Guide](https://drive.google.com/file/d/1wBML7yGWGtkFJ_LHSEuGmwPVdOCgt5o1/view)
 
-This project will be represented by: White Khahil, Trott Rich and Franziska Hinkelmann
+This project will be represented by: Khahil White, Rich Trott and Franziska Hinkelmann
 
 ## NumPy
 
@@ -163,18 +163,18 @@ OpenStreetMap (OSM) is a collaborative project to create a free, editable map of
 - [Code of conduct](https://teachosm.org/projects/2020-09-18-189203)
 - [Setup Guide](https://teachosm.org/projects/2020-09-18-189203)
 
-This project will be represented by: Jess Beutler and Maggy Cawley
+This project will be represented by: Jess Beutler and Maggie Cawley
 
 ## OpenSUSE 
 
-openSUSE is well known for its Linux distributions, mainly Tumbleweed, a rolling release, and Leap, a distribution with long-term support. You will learn, how to contribute to a Linux distribution with packaging on OBS and upstream contributions. openSUSE contains also multiple sub-projects with expanding software. The openSUSE project supports the hardware architectures x86, arm, PowerPC and the mainframe architecture s390x (IBM zSystems).
+OpenSUSE is well known for its Linux distributions, mainly Tumbleweed, a rolling release, and Leap, a distribution with long-term support. You will learn, how to contribute to a Linux distribution with packaging on OBS and upstream contributions. openSUSE contains also multiple sub-projects with expanding software. The openSUSE project supports the hardware architectures x86, arm, PowerPC and the mainframe architecture s390x (IBM zSystems).
 
 - [Project link](https://github.com/opensuse)
 - [Link to issues](https://progress.opensuse.org/projects/zsystems/issues?fields%5B%5D=issue_tags&fields%5B%5D=status_id&operators%5Bissue_tags%5D=%3D&operators%5Bstatus_id%5D=o&set_filter=1&values%5Bissue_tags%5D%5B%5D=Good+First+Issue&values%5Bstatus_id%5D%5B%5D=)
 - [Code of conduct](https://en.opensuse.org/Code_of_Conduct)
 - [Setup Guide](https://en.opensuse.org/ZSystems/Good_First_Issues)
 
-This project will be represented by: Sarah Juli Kriesch and Christian Boltz
+This project will be represented by: Sarah Julia Kriesch and Christian Boltz
 
 ## Python extension for Visual Studio Code
 
@@ -195,7 +195,7 @@ RisingWave is a cloud-native streaming database that uses SQL as the interface. 
 - [Link to issues](https://github.com/singularity-data/risingwave/issues)
 - [Setup Guide](https://github.com/singularity-data/risingwave/blob/main/docs/developer-guide.md)
 
-This project will be represented by: Chi Zhang and Zhi Liu
+This project will be represented by: Chi Zhang, Zhi Liu and Yanghao Wang
 
 ## Rowy
 

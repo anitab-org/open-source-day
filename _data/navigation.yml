@@ -75,7 +75,7 @@ featured:
   - title: "Rowy"
     url: /featured/#rowy
   - title: "WildFly Elytron"
-    url: /featured/#pwildfly-elytron
+    url: /featured/#wildfly-elytron
 
 choose-your-own-adventure:
   - title: "Apache Cassandra"
@@ -84,8 +84,8 @@ choose-your-own-adventure:
     url: /choose-your-own-adventure/#chapel
   - title: "Data Profiler"
     url: /choose-your-own-adventure/#data-profiler
-  - title: "Domain Graph Service Framework (DGS)"
-    url: /choose-your-own-adventure/#domain-graph-service-framework-dgs
+  - title: "Domain Graph Service Framework"
+    url: /choose-your-own-adventure/#domain-graph-service-framework
   - title: "Matplotlib"
     url: /choose-your-own-adventure/#matplotlib
   - title: "Open Food Facts"

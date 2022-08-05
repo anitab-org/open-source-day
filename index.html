@@ -1,7 +1,7 @@
 ---
 layout: splash
 seo_title: GHC Open Source Day
-title: Largest Celebration of Women in Open Source
+title: Largest <span id="celebration">Celebration</span> of Women in Open Source
 excerpt: "Open Source Day is an all-day hackathon (including workshops) at Grace Hopper Celebration in which participants of all skill levels learn about Open Source while contributing to projects designed to solve real-world problems! Can't wait to see you there!"
 header:
   overlay_image: /assets/images/AB_GHC22_Brand Gradient_01.png
@@ -29,13 +29,17 @@ feature_row:
 {% include feature_row id="intro" type="center" %}
 
 <style>
+#celebration {
+  color: pink;
+}
+
 #countdown {
-  font-size: 30px;
+  /*font-size: 30px;*/
   text-align: center;
 }
 </style>
 
-<p id="countdown"></p>
+<h1 id="countdown"></h1>
 <br>
 
 <script>
@@ -53,13 +57,13 @@ var x = setInterval(function() {
 
   if (distance < 0) {
      clearInterval(x);
-     document.getElementById("countdown").innerHTML = "Open Source Day is Happening Now! ✨ <br> <span style='font-size: 20px'>September 16, 2022 from 8am to 3pm US Pacific Time</span>";
+     document.getElementById("countdown").innerHTML = "Open Source Day is Happening Now! ✨ <br> <span style='font-size: 18px'>September 16, 2022 from 8am to 3pm US Pacific Time</span>";
   }
 
   if (parseInt(days) < 1) {
-      document.getElementById("countdown").innerHTML = "<b>" + hours + "h " + minutes + "m " + seconds + "s</b> </b> until Open Source Day ✨ <br> <span style='font-size: 20px'>September 16, 2022 at 8am US Pacific Time</span>"
+      document.getElementById("countdown").innerHTML = "<b>" + hours + "h " + minutes + "m " + seconds + "s</b> </b> until Open Source Day ✨ <br> <span style='font-size: 18px'>September 16, 2022 at 8am US Pacific Time</span>"
   } else {
-    document.getElementById("countdown").innerHTML = "<b>" + days + "</b> Days until Open Source Day ✨ <br> <span style='font-size: 20px'>September 16, 2022 at 8am US Pacific Time</span>"
+    document.getElementById("countdown").innerHTML = "<b>" + days + "</b> Days until Open Source Day ✨ <br> <span style='font-size: 18px'>September 16, 2022 at 8am US Pacific Time</span>"
   }
 }, 1000);
 </script>
