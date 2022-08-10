@@ -24,7 +24,7 @@ sidebar:
 
 | [Chris Miyachi](https://www.linkedin.com/in/chris-miyachi-a31835/) | [Emily Hoang](https://www.linkedin.com/in/emily-hoang-865b40102/) | [Joy Joel](https://www.linkedin.com/in/joyjoel/) |
 | --- | --- | --- |
-| <img src="../assets/images/committees/2022/chris_miyachi.jpg" width="200"> | <img src="../assets/images/committees/2022/emily_hoang.jpg" width="200"> | <img src="../assets/images/committees/2022/missing_photo.jpg" width="200"> |
+| <img src="../assets/images/committees/2022/chris_miyachi.jpg" width="200"> | <img src="../assets/images/committees/2022/emily_hoang.jpg" width="200"> | <img src="../assets/images/committees/2022/joy_joel.jpg" width="200"> |
 
 | [Lucy Shen](https://www.linkedin.com/in/lucyjshen/) | [Monica Miyasato](https://www.linkedin.com/in/monicamiyasato/) | [Paula Paul](https://www.linkedin.com/in/paulapaul/) |
 | --- | --- | --- |
