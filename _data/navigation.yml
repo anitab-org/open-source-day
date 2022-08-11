@@ -4,6 +4,8 @@ main:
     url: /open-source-day/
   # - title: "Call For Participation"
   #   url: /call-for-participation/
+  - title: "Agenda"
+    url: /agenda/
   - title: "Featured Projects"
     url: /featured/
   - title: "Choose Your Own Adventure"
