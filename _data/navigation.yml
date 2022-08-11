@@ -4,8 +4,8 @@ main:
     url: /open-source-day/
   # - title: "Call For Participation"
   #   url: /call-for-participation/
-  - title: "Agenda"
-    url: /agenda/
+  # - title: "Agenda"
+  #   url: /agenda/
   - title: "Featured Projects"
     url: /featured/
   - title: "Choose Your Own Adventure"
@@ -18,6 +18,8 @@ main:
     url: /committee-members/
   # - title: "Blog"
   #   url: /blog/
+  - title: "FAQ"
+    url: /faq/
 
 open-source-day:
   - title: "Open Source Day"
@@ -26,8 +28,6 @@ open-source-day:
     url: /open-source-day/#contribution-track
   - title: "Learning Track"
     url: /open-source-day/#learning-track
-  - title: "FAQ"
-    url: /open-source-day/#frequently-asked-questions-faq
 
 cfp:
   - title: "Call For Participation"
@@ -144,3 +144,15 @@ committee:
 
 blog:
   - title: "Blog Posts"
+
+faq:
+  - title: "General"
+    url: /faq/#general
+  - title: "Project Participation"
+    url: /faq/#project-participation
+  - title: "Mentor Participation"
+    url: /faq/#mentor-participation
+  - title: "Workshop Participation"
+    url: /faq/#workshop-participation
+  - title: "OSD Participant"
+    url: /faq/#osd-participant

@@ -2,82 +2,40 @@
 title: "Agenda"
 permalink: /agenda/
 classes: wide
+sidebar:
+  nav: "agenda"
 ---
 
-<style>
-table {
-  text-align: center;
-}
-</style>
+<div class="calendar">
+    <div class="calendar-header">
+        <span class="month-picker" id="month-picker">April</span>
+        <div class="year-picker">
+            <span class="year-change" id="prev-year">
+                <pre><</pre>
+            </span>
+            <span id="year">2022</span>
+            <span class="year-change" id="next-year">
+                <pre>></pre>
+            </span>
+        </div>
+    </div>
+    <div class="calendar-body">
+        <div class="calendar-week-day">
+            <div>Sun</div>
+            <div>Mon</div>
+            <div>Tue</div>
+            <div>Wed</div>
+            <div>Thu</div>
+            <div>Fri</div>
+            <div>Sat</div>
+        </div>
+        <div class="calendar-days"></div>
+    </div>
+   
+    <div class="month-list"></div>
+</div>
 
-<table>
-    <thead>
-        <tr>
-            <th>Time (US Pacific)</th>
-            <th>Event</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>08:00</td>
-            <td colspan=8>Open Soure Day Kickoff</td>
-        </tr>
-        <tr>
-            <td>08:30</td>
-            <td colspan=6>Project Overview</td>
-            <td rowspan=15 colspan=2>Project Contribution</td>
-        </tr>
-        <tr>
-            <td>09:00</td>
-            <td colspan=6>Break</td>
-        </tr>
-        <tr>
-            <td>09:30</td>
-            <td rowspan=2 colspan=3>Workshop #1</td>
-            <td rowspan=2 colspan=3>Workshop #2</td>
-        </tr>
-        <tr>
-            <td>10:00</td>
-        </tr>
-        <tr>
-            <td>10:30</td>
-            <td colspan=6>Break</td>
-        </tr>
-        <tr>
-            <td>11:00</td>
-            <td rowspan=2 colspan=3>Workshop #3</td>
-            <td rowspan=2 colspan=3>Workshop #4</td>
-        </tr>
-        <tr>
-            <td>11:30</td>
-        </tr>
-        <tr>
-            <td>12:00</td>
-            <td colspan=6>Break</td>
-        </tr>
-        <tr>
-            <td>12:30</td>
-            <td rowspan=2 colspan=3>Workshop #5</td>
-            <td rowspan=2 colspan=3>Workshop #6</td>
-        </tr>
-        <tr>
-            <td>13:00</td>
-        </tr>
-        <tr>
-            <td>13:30</td>
-            <td colspan=6>Break</td>
-        </tr>
-        <tr>
-            <td>14:00</td>
-            <td rowspan=2 colspan=3>Workshop #7</td>
-            <td rowspan=2 colspan=3>Workshop #8</td>
-        </tr>
-        <tr>
-            <td>14:30</td>
-        </tr>
-        <tr>
-            <td>15:00</td>
-            <td colspan=8>End of Open Source Day</td>
-        </tr>
-    </tbody>
-</table>
+<script>
+  
+
+</script>
