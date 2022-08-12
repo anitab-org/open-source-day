@@ -18,9 +18,13 @@ Open Source Day is on September 16, 2022, from 8am to 3pm US Pacific Time.
 
 Open Source Day 2022 is a virtual-only event.
 
+### What is the Opening Ceremony?
+
+We are curating an inspiring Opening Ceremony with leading and influential women figures in open source. Don't miss it. We'll start at 8am PT prompt!
+
 ### What is the target audience of Open Source Day?
 
-Open Source Day is targeted toward first-time open source contributors. In the past, we have seen high attendance
+Open Source Day is open to all skill levels - first time contributors and experienced contributors. In the past, we have seen high attendance
  from students and early-career professionals. We have also seen mid-career participants who are skilled engineers
  but are new to open source. We welcome participants of all skill levels to join us to learn about open source!
 
@@ -33,6 +37,22 @@ There are many ways to participate in Open Source Day. We invite you to join us 
 
 Open Source Day is part of [Grace Hopper Celebration](https://ghc.anitab.org/) (GHC). Therefore, you need a GHC ticket
  to participate. All selected project partners, mentors, and speakers will receive a free virtual ticket to GHC.
+
+### I have a GHC ticket. Do I need to do anything else? 
+
+Yes, you must register for OSD once you have your GHC ticket. The registration for OSD will open on **September 8th**. As part of this registration, you will select the project that you would like to contribute to as well as workshops you would like to attend.
+
+### How do I decide which projects to choose during my OSD registration?
+
+We have a total of 27 different projects for you to choose among this year. The projects are organized as [Featured projects](/featured/) and [Choose Your Own Adventure](/choose-your-own-adventure/).
+
+### How do I ask for September 16th off from my manager, in addition to September 20-23 for the main GHC conference?
+
+OSD will be significantly more hands-on, with 27 projects focused on helping you contribute to open source projects as well as 10 workshops designed to help you upskill on open source concepts. Therefore, we suggest you provide the [agenda](/agenda/) of the Open Source Day as a training/professional development opportunity to your management.
+
+### What are the communication tools for the day of the event - September 16th?
+
+All project reps, workshop speakers, and participants who register for OSD will be onboarded to our Slack channel beginning September 8th and September 16th. All projects and workshops will take place on separate Zoom rooms. So, make sure to sign up for the projects and workshops you are interested in so, we can relay the right Zoom rooms to you!
 
 ### Who can I contact for additional questions?
 
@@ -61,6 +81,10 @@ Yes! As long as multiple repositories represent one project and project maintain
 
 Open Source Day does not give contributors a shortcut to their contributions. All participants will be required to abide by the project's code of conduct and other guidelines. The Open Source Day team does not expect any of our project partners to accept/merge any work that does not meet the project’s standards and expectations. We kindly ask you to bear in mind that some participants may be new to open source as you decide how to handle the contributions made to your project.
 
+### How many participants can I expect for my project?
+
+For a Featured project, we ask the project rep to inform us of capacity. If you can serve 250 participants only, that is fine. Just let us know. Participants will have to select a project of their interest when they register for OSD, beginning September 8th.
+
 <br>
 
 # Mentor Participation
@@ -72,6 +96,10 @@ Before the event, all selected mentors will be asked to complete onboarding task
 
 During the event, all mentors are required to be present at all times as they will act as the first line of support for
  participants.
+
+### As a mentor, can I contribute to projects?
+
+Selected mentors must prioritize mentorship over contribution. Mentors must proactively assist attendees and project representatives throughout the day. If you can prioritize your responsibility, you are welcome to contribute only to your **assigned project**. However, we ask you to be mindful of the number of issues project representatives bring to the event as they're specifically triaged and written for the OSD attendees. Therefore, we ask that mentors to limit their contributions so that there are enough issues for the attendees who join the projects throughout the day. 
 
 <br>
 
@@ -88,6 +116,11 @@ During the event, speakers need to commit approximately 2 hours. Each workshop i
 ### What topics would be best fit for Open Source Day workshop?
 
 We accept both technical and non-technical content related to open source. Any topic that will allow OSD participants to walk away with a skill they can utilize in open source contribution will be considered as a possible workshop. As an example, during OSD 2021, workshop topics included: GitHub 101, How to make money contributing to open source, MLOps, inclusive language in open source, CI/CD, and more!
+
+### Will there be dry runs?
+
+Yes, the OSD Committee will partner with you to conduct dry runs ahead of the event.
+
 
 <br>
 

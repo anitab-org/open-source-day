@@ -2,8 +2,6 @@
 title: "Open Source Day"
 permalink: /open-source-day/
 classes: wide
-sidebar:
-  nav: "open-source-day"
 ---
 
 2022 GHC Open Source Day will take place virtually on September 16th 2022 from 8am to 3pm US Pacific Time.
