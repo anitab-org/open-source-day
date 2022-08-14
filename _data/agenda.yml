@@ -11,10 +11,18 @@
   events:
     - name: "Project Kickoffs"
       emoji: 💻
+      links:
+        - text: "Featured Projects ->"
+          url: "/featured"
+        - text: "CYOA Projects ->"
+          url: "/choose-your-own-adventure"
 - slot: '9:30am'
   events:
     - name: "Workshops Started"
       emoji: 🎓
+      links:
+      - text: "See all abstracts ->"
+        url: "/workshops"
   workshops: 
     - name: "Git 101 - How to Contribute to an Open Source Project"
       emoji: 📚

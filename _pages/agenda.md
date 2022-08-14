@@ -20,7 +20,14 @@ You can contribute to projects and attend workshops in parallel 🚀
                     <tr>
                         <td>{{timeslots.slot}}</td>
                         {% for event in timeslots.events %}
-                            <td colspan={{event.colspan | default: 1}}><span class="e">{{event.emoji}}</span> {{ event.name }} </td>
+                            <td colspan={{event.colspan | default: 1}}>
+                                <span class="e">{{event.emoji}}</span> {{ event.name }}
+                                 {% for link in event.links %}
+                                    <div>
+                                        <a href="{{link.url}}">{{link.text}}</a>
+                                    </div>
+                                 {% endfor %}
+                            </td>
                         {% endfor %}
                     </tr>
                 {% endif %}
