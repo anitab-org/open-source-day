@@ -1,0 +1,40 @@
+span.e {
+    margin-right: 5px;
+}
+#agenda-all {
+    margin-top: 1em;
+    margin-right: 2em;
+    width: 30%;
+}
+#agenda-all thead tr {
+    background-color: #733C7F;
+    color: #ffffff;
+}
+#agenda-workshop {
+    width: 65%
+}
+#agenda-workshop thead tr {
+    background-color: #733C7F;
+    color: #ffffff;
+}
+.agenda-col{
+  float: left;
+  font-size: 16px;
+  display: table;
+  border-collapse: collapse;
+  font-size: 16px;
+}
+@media (max-width: 600px) {
+    #agenda-all {
+        width: 100%;
+    }
+    #agenda-workshop {
+        width: 100%;
+    }
+}
+th, td {
+  padding: 15px;
+  text-align: left;
+  border-bottom: 1px solid #fff;
+}
+tr:nth-child(even) {background-color: #f2f2f2;}
