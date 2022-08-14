@@ -1,0 +1,59 @@
+# how to use this file: 
+# for each time slot you can add an event entry or workshop entry
+# events will show up in the "day at a glance" table
+# workshops will show us in the special "workshop schedule" table
+# both tables loaded in the agenda page
+- slot: '8:00am'
+  events:
+    - name: "Opening Ceremony"
+      emoji: 🎉
+- slot: '8:30am'
+  events:
+    - name: "Project Kickoffs"
+      emoji: 💻
+- slot: '9:30am'
+  events:
+    - name: "Workshops Started"
+      emoji: 🎓
+  workshops: 
+    - name: "Git 101 - How to Contribute to an Open Source Project"
+      emoji: 📚
+      type: "Beginner"
+    - name: "How to Write an Accessible Pull Request"
+      emoji: ♿️
+      type: "Intermediate"
+- slot: '11:00am'
+  workshops: 
+    - name: "Overcoming the Fear of Contributing to Open"
+      emoji: 😰
+      type: "Beginner"
+    - name: "When Design Thinking Meets Open Source"
+      emoji: 🤯
+      type: "Intermediate"
+    - name: "Build Production Ready Data Engineering Pipeline using Open Source Framework"
+      emoji: 🚀
+      type: "Advanced"
+- slot: '12:30pm'
+  workshops: 
+    - name: "The Open Source Game"
+      emoji: 🎲
+      type: "Beginner"
+    - name: "Shift Left with Quality: Scalable Testing Infrastructure in UI Automation"
+      emoji: ⬅️
+      type: "Intermediate"
+    - name: "Deploy Your First Smart Contract"
+      emoji: 📝
+      type: "Advanced"
+- slot: '2:00pm'
+  workshops: 
+    - name: "Don’t Sacrifice Security When Coding your Next Game-Chaining App!"
+      emoji: 🔒
+      type: "Intermediate"
+    - name: "Hack an Open Source Database Together"
+      emoji: 🔑
+      type: "Advanced"
+- slot: '3:00pm'
+  events:
+    - name: "All done"
+      emoji: 🎉
+      colspan: 3
