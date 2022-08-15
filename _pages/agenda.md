@@ -24,7 +24,7 @@ You can contribute to projects and attend workshops in parallel 🚀
                                 <span class="e">{{event.emoji}}</span> {{ event.name }}
                                  {% for link in event.links %}
                                     <div>
-                                        <a href="{{link.url}}">{{link.text}}</a>
+                                        <a href="{{link.url | relative_url}}">{{link.text}}</a>
                                     </div>
                                  {% endfor %}
                             </td>
