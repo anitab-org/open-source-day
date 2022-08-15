@@ -4,7 +4,7 @@ permalink: /agenda/
 classes: wide
 ---
 You can contribute to projects and attend workshops in parallel 🚀
-<link rel="stylesheet" href="/assets/css/agenda.css">
+<link rel="stylesheet" href="{{ '/assets/css/agenda.css' | relative_url }}">
 <div id="agenda_schedule">
     <table id="agenda-all" class="agenda-col">
         <thead>
