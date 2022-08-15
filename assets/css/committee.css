@@ -64,3 +64,17 @@
 .font-3 {
     color: #733C7F;
  }
+
+ @media (max-width: 600px) {
+    .image-card {
+        margin: 10px;
+        width: 25%;
+    }
+    .name {
+        font-size: 18px;
+    }
+    
+    .subtitle {
+        font-size: 16px;
+    }
+}
