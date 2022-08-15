@@ -5,39 +5,41 @@ classes: wide
 sidebar:
   nav: "committee"
 ---
+<link rel="stylesheet" href="{{ '/assets/css/committee.css' | relative_url }}">
+{% assign people = site.data.committee-members %}
 
 **Thank you to our 2022 GHC Open Source Day Committees!**
+<!-- co-chair table -->
+<div id="co-chairs">
+{% for chair in people.co-chairs %}
+{% assign index = forloop.index | modulo: 4 %}
+<div class="image-card top-border-{{index}}">
+  <div>
+    <a href="{{chair.linkedin}}" target="_blank">
+      <img src="{{chair.image|relative_url}}">
+    </a>
+  </div>
+  <div class="name font-{{index}}">{{ chair.name }}</div>
+  <div class="subtitle">Co-Chair</div>
+</div>
+{% endfor %}
+</div>
 
-
-## Co-Chairs
-
-| [Ambika Sharma](https://www.linkedin.com/in/ambika-sharma/) | [Anna Jung](https://www.linkedin.com/in/antheajung/) | [Shagun Bose](https://www.linkedin.com/in/shagunbose/) |
-| --- | --- | --- |
-| <img src="../assets/images/committees/2022/ambika_sharma.png" width="200"> | <img src="../assets/images/committees/2022/anna_jung.jpg" width="200"> | <img src="../assets/images/committees/2022/shagun_bose.jpg" width="200">
-
-
-## Committee Members
-
-| [Annu Joshi](https://www.linkedin.com/in/annu-joshi/) | [Basak Scott](https://www.linkedin.com/in/basakkilicscott/) | [Carinne Johnson](https://www.linkedin.com/in/carinnejohnson/) |
-| --- | --- | --- |
-| <img src="../assets/images/committees/2022/annu_joshi.jpg" width="200"> | <img src="../assets/images/committees/2022/basak_scott.jpg" width="200"> | <img src="../assets/images/committees/2022/carinne_johnson.jpg" width="200"> |
-
-| [Chris Miyachi](https://www.linkedin.com/in/chris-miyachi-a31835/) | [Emily Hoang](https://www.linkedin.com/in/emily-hoang-865b40102/) | [Joy Joel](https://www.linkedin.com/in/joyjoel/) |
-| --- | --- | --- |
-| <img src="../assets/images/committees/2022/chris_miyachi.jpg" width="200"> | <img src="../assets/images/committees/2022/emily_hoang.jpg" width="200"> | <img src="../assets/images/committees/2022/joy_joel.jpg" width="200"> |
-
-| [Lucy Shen](https://www.linkedin.com/in/lucyjshen/) | [Monica Miyasato](https://www.linkedin.com/in/monicamiyasato/) | [Paula Paul](https://www.linkedin.com/in/paulapaul/) |
-| --- | --- | --- |
-| <img src="../assets/images/committees/2022/lucy_shen.jpg" width="200"> | <img src="../assets/images/committees/2022/monica_miyasato.jpg" width="200"> | <img src="../assets/images/committees/2022/paula_paul.jpg" width="200"> |
-
-| [Phylis Atieno](https://www.linkedin.com/in/phyllis-atieno-ab7826182/) | [Prachi Sharma](https://www.linkedin.com/in/prachi94/) | Rasa Raghavan |
-| --- | --- | --- |
-| <img src="../assets/images/committees/2022/phylis_atieno.jpg" width="200"> | <img src="../assets/images/committees/2022/prachi_sharma.jpg" width="200"> | <img src="../assets/images/committees/2022/rasa_raghavan.jpg" width="200"> |
-
-| [Rashan Smith](https://www.linkedin.com/in/rashansmith/) | [Sandy Skipper](https://www.linkedin.com/in/sandraskipper/) |
-| --- | --- |
-| <img src="../assets/images/committees/2022/missing_photo.jpg" width="200"> | <img src="../assets/images/committees/2022/sandy_skipper.jpeg" width="200">  |
-
+<!-- committee member table -->
+<div id="committee-members">
+{% for person in people.committee-members %}
+{% assign index = forloop.index | modulo: 4 %}
+<div class="image-card top-border-{{index}}">
+  <div>
+    <a href="{{person.linkedin}}" target="_blank">
+      <img src="{{person.image|relative_url}}">
+    </a>
+  </div>
+  <div class="name font-{{index}}">{{ person.name }}</div>
+  <div class="subtitle">Committee Member</div>
+</div>
+{% endfor %}
+</div>
 
 <!-- ## Volunteer
 
