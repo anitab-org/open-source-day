@@ -1,0 +1,66 @@
+#co-chairs {
+    display: flex;
+}
+
+.image-card {
+    margin: 20px;
+    width: 25%;
+}
+
+.image-card img {
+    aspect-ratio : 1 / 1;
+    width: 100%;
+}
+
+.image-card:hover img {
+    opacity: 0.3;
+}
+
+.top-border-0 {
+    border-top: solid 7px green;
+}
+
+.top-border-1 {
+    border-top: solid 7px #FEDC2A;
+}
+
+.top-border-2 {
+    border-top: solid 7px pink;
+}
+
+.top-border-3 {
+    border-top: solid 7px #733C7F;
+}
+
+#committee-members {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.name {
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.subtitle {
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.font-0 {
+    color: green;
+}
+
+.font-1 {
+    color: #FEDC2A;
+}
+
+.font-2 {
+   color: pink;
+}
+
+.font-3 {
+    color: #733C7F;
+ }
