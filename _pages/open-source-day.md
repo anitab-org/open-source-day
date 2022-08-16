@@ -8,6 +8,10 @@ classes: wide
 
 Open Source Day (OSD) is an all-day hackathon (including workshops) at [Grace Hopper Celebration](https://ghc.anitab.org/) in which participants of all skill levels learn about open source while contributing to projects designed to solve real-world problems. With the support of project maintainers, experienced mentors, and expert speakers, OSD attendees are on the fast track to becoming open source contributors.
 
+<img src="{{ site.baseurl }}/assets/images/2021_osd_impact.png" alt="2021 OSD Impact Slides">
+<br />
+<br />
+
 During OSD, participants can join a project on the **Contribution Track** and/or attend one or more workshops from the **Learning track**.
 
 ### Contribution Track (Projects)

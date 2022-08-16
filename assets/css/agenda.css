@@ -4,7 +4,7 @@ span.e {
 #agenda-all {
     margin-top: 1em;
     margin-right: 2em;
-    width: 30%;
+    width: 100%;
 }
 #agenda-all thead tr {
     background-color: #733C7F;
@@ -35,6 +35,11 @@ span.e {
 th, td {
   padding: 15px;
   text-align: left;
-  border-bottom: 1px solid #fff;
+  border-bottom: 1px solid black;
 }
 tr:nth-child(even) {background-color: #f2f2f2;}
+
+.btn.active {
+  background-color: #666;
+  color: white;
+}
