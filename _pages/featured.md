@@ -125,7 +125,7 @@ This project will be represented by: Nicko Guyer
 
 Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser, which was designed to build scalable network applications.
 
-- [Project link](https://github.com/nodejs/nodejs.org)
+- [Project link](https://github.com/nodejs/node)
 - [Link to issues](https://github.com/nodejs/node/issues)
 - [Code of conduct](https://github.com/nodejs/node/blob/main/CODE_OF_CONDUCT.md)
 - [Setup Guide](https://drive.google.com/file/d/1wBML7yGWGtkFJ_LHSEuGmwPVdOCgt5o1/view)
