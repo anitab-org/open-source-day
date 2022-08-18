@@ -1,0 +1,111 @@
+# how to use this file: 
+# for each time slot you can add an event entry or workshop entry
+# events will show up in the "day at a glance" table
+# workshops will show us in the special "workshop schedule" table
+# both tables loaded in the agenda page
+- slot: '8:00am'
+  events:
+    - name: "Opening Ceremony"
+      emoji: 🎉
+      colspan: 11
+- slot: '8:30am'
+  events:
+    - name: "Project Kickoffs"
+      emoji: 💻
+      colspan: 6
+    - name: "Featured Projects"
+      emoji: 💻
+      rowspan: 12
+      colspan: 4
+      background-color: "#FCF0FD"
+    - name: "Choose Your Own Adventure"
+      emoji: 💻
+      rowspan: 12
+      colspan: 2
+      background-color: "#EFF1FF"
+- slot: '9:00am'
+  events:
+    - name: "Break"
+      colspan: 6
+- slot: '9:30am'
+  workshop: "true"
+  events:
+    - name: "Git 101 - How to Contribute to an Open Source Project"
+      emoji: 📚
+      type: "Beginner"
+      colspan: 2
+      background-color: "white"
+    - name: "How to Write an Accessible Pull Request"
+      emoji: ♿️
+      type: "Intermediate"
+      colspan: 2
+      background-color: "white"
+    - name: ""
+- slot: '10:30am'
+  events:
+    - name: "Break"
+      colspan: 6
+- slot: '11:00am'
+  workshop: "true"
+  events:
+    - name: "Overcoming the Fear of Contributing to Open"
+      emoji: 😰
+      type: "Beginner"
+      colspan: 2
+      background-color: "white"
+    - name: "When Design Thinking Meets Open Source"
+      emoji: 🤯
+      type: "Intermediate"
+      colspan: 2
+      background-color: "white"
+    - name: "Build Production Ready Data Engineering Pipeline using Open Source Framework"
+      emoji: 🚀
+      type: "Advanced"
+      colspan: 2
+      background-color: "white"
+- slot: '12:00pm'
+  events:
+    - name: "Break"
+      colspan: 6
+- slot: '12:30pm'
+  workshop: "true"
+  events:
+    - name: "The Open Source Game"
+      emoji: 🎲
+      type: "Beginner"
+      colspan: 2
+      background-color: "white"
+    - name: "Shift Left with Quality: Scalable Testing Infrastructure in UI Automation"
+      emoji: ⬅️
+      type: "Intermediate"
+      colspan: 2
+      background-color: "white"
+    - name: "Deploy Your First Smart Contract"
+      emoji: 📝
+      type: "Advanced"
+      colspan: 2
+      background-color: "white"
+- slot: '1:30pm'
+  events:
+    - name: "Break"
+      colspan: 6
+- slot: '2:00pm'
+  workshop: "true"
+  events:
+    - name: ''
+      colspan: 2
+    - name: "Don’t Sacrifice Security When Coding your Next Game-Chaining App!"
+      emoji: 🔒
+      type: "Intermediate"
+      colspan: 2
+      background-color: "white"
+    - name: "Hack an Open Source Database Together"
+      emoji: 🔑
+      type: "Advanced"
+      colspan: 2
+      background-color: "white"
+- slot: '3:00pm'
+  events:
+    - name: "All done"
+      emoji: 🎉
+      colspan: 12

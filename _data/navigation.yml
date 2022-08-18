@@ -4,8 +4,8 @@ main:
     url: /open-source-day/
   # - title: "Call For Participation"
   #   url: /call-for-participation/
-  # - title: "Agenda"
-  #   url: /agenda/
+  - title: "Agenda"
+    url: /agenda/
   - title: "Featured Projects"
     url: /featured/
   - title: "Choose Your Own Adventure"
@@ -43,59 +43,61 @@ cfp:
 
 featured:
   - title: "AIF360"
-    url: /featured/#aif360
+    url: /featured/#AIF360
   - title: "Apache ShardingSphere"
-    url: /featured/#apache-shardingsphere
+    url: /featured/#Apache%20ShardingSphere
   - title: "Argo CD"
-    url: /featured/#argocd
+    url: /featured/#ArgoCD
   - title: "Backdrop CMS"
-    url: /featured/#backdrop-cms
+    url: /featured/#Backdrop%20CMS
   - title: "Bevy"
-    url: /featured/#bevy
+    url: /featured/#Bevy
   - title: "Blockly"
-    url: /featured/#blockly
+    url: /featured/#Blockly
   - title: "Ceph"
-    url: /featured/#ceph
+    url: /featured/#Ceph
   - title: "Egeria"
-    url: /featured/#egeria
+    url: /featured/#Egeria
   - title: "Flint UI and Cloud"
-    url: /featured/#flint-ui-and-cloud
+    url: /featured/#Flint%20UI%20and%20Cloud
   - title: "Hyperledger FireFly"
-    url: /featured/#hyperledger-firefly
+    url: /featured/#Hyperledger%20FireFly
   - title: "Node.js"
-    url: /featured/#nodejs
+    url: /featured/#Node.js
+  - title: "NumPy"
+    url: /featured/#NumPy
   - title: "OpenStack"
-    url: /featured/#openstack
+    url: /featured/#OpenStack
   - title: "OpenStreetMap"
-    url: /featured/#openstreetmap
+    url: /featured/#OpenStreetMap
   - title: "OpenSUSE"
-    url: /featured/#opensuse
+    url: /featured/#OpenSUSE
   - title: "Python extension for Visual Studio Code"
-    url: /featured/#python-extension-for-visual-studio-code
+    url: /featured/#Python%20extension%20for%20Visual%20Studio%20Code
   - title: "RisingWave"
-    url: /featured/#risingwave
+    url: /featured/#RisingWave
   - title: "Rowy"
-    url: /featured/#rowy
+    url: /featured/#Rowy
   - title: "WildFly Elytron"
-    url: /featured/#wildfly-elytron
+    url: /featured/#WildFly%20Elytron
 
 choose-your-own-adventure:
   - title: "Apache Cassandra"
-    url: /choose-your-own-adventure/#apache-cassandra
+    url: /choose-your-own-adventure/#Apache%20Cassandra
   - title: "Chapel"
-    url: /choose-your-own-adventure/#chapel
+    url: /choose-your-own-adventure/#Chapel
   - title: "Data Profiler"
-    url: /choose-your-own-adventure/#data-profiler
+    url: /choose-your-own-adventure/#Data%20Profiler
   - title: "Domain Graph Service Framework"
-    url: /choose-your-own-adventure/#domain-graph-service-framework
+    url: /choose-your-own-adventure/#Domain%20Graph%20Service%20Framework
   - title: "Matplotlib"
-    url: /choose-your-own-adventure/#matplotlib
+    url: /choose-your-own-adventure/#Matplotlib
   - title: "Open Food Facts"
-    url: /choose-your-own-adventure/#open-food-facts
+    url: /choose-your-own-adventure/#Open%20Food%20Facts
   - title: "Raphtory"
-    url: /choose-your-own-adventure/#raphtory
+    url: /choose-your-own-adventure/#Raphtory
   - title: "Transform to Open Science"
-    url: /choose-your-own-adventure/#transform-to-open-science
+    url: /choose-your-own-adventure/#Transform%20to%20Open%20Science
 
 workshops:
   - title: "Adrián Bolonio"

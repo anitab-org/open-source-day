@@ -1,0 +1,95 @@
+- name: "Apache Cassandra"
+  description: "Apache Cassandra is an open source NoSQL distributed database trusted by thousands of companies for scalability and high availability without compromising performance. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure make it the perfect platform for mission-critical data."
+  type: "CYOA"
+  color: "#ffffe6"
+  resources:
+  - project: "https://github.com/apache/cassandra"
+    issues: "https://issues.apache.org/jira/projects/CASSANDRA/issues"
+    setup: "https://cassandra.apache.org/_/development/index.html"
+    code-of-conduct: "https://www.apache.org/foundation/policies/conduct"
+  representatives:
+    - name: Paulo Motta
+    - name: Ekaterina Dimitrova
+- name: "Chapel"
+  description: "Chapel is a programming language designed for productive parallel computing. Come learn how to contribute to Chapel benchmarks, testcases, libraries, and/or the Chapel compiler itself with help from core <a href='https://chapel-lang.org/contributors.html'>team developers</a>"
+  type: "CYOA"
+  color: "#ffe6ff"
+  resources:
+  - project: "https://github.com/chapel-lang/chapel"
+    issues: "https://github.com/chapel-lang/chapel/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22"
+    setup: "https://chapel-lang.org/docs/developer/bestPractices/index.html"
+    code-of-conduct: "https://github.com/chapel-lang/chapel/blob/main/CODE_OF_CONDUCT.md"
+  representatives:
+    - name: Michelle Strout
+    - name: Lydia Duncan
+- name: "Data Profiler"
+  description: "The DataProfiler is a Python library designed to make data analysis, monitoring, and sensitive data detection easy."
+  type: "CYOA"
+  color: "#e6fff9"
+  resources:
+  - project: "https://github.com/capitalone/DataProfiler"
+    issues: "https://github.com/capitalone/DataProfiler/issues"
+    setup: "https://capitalone.github.io/DataProfiler/docs/0.7.8/html/install.html"
+  representatives:
+    - name: Taylor Turner
+    - name: Jeremy Goodsitt
+- name: "Domain Graph Service Framework"
+  description: "The DGS framework is a Spring Boot based framework for easy wire up of GraphQL services. It is built on top of graphql-java. Graphql-java provides lower level building blocks to handle GraphQL query execution. The DGS framework makes all this available with a convenient Spring Boot programming model."
+  type: "CYOA"
+  color: "#e6e6ff"
+  resources:
+  - project: "https://github.com/Netflix/dgs-framework"
+    issues: "https://github.com/Netflix/dgs-framework/labels/good-first-issues"
+    issues2: "https://github.com/Netflix/dgs-codegen/labels/good%20first%20issue"
+    setup: "https://github.com/Netflix/dgs-framework/blob/master/CONTRIBUTING.md"
+    code-of-conduct: "https://github.com/Netflix/dgs-framework/blob/master/CONTRIBUTING.md"
+  representatives:
+    - name: Kavitha Srinivasan
+    - name: Bernardo Gomez Palacio
+- name: "Matplotlib"
+  description: "Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. Matplotlib makes easy things easy and hard things possible."
+  type: "CYOA"
+  color: "#e6ffee"
+  resources:
+  - project: "https://github.com/matplotlib/matplotlib"
+    issues: "https://github.com/matplotlib/matplotlib/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+first+issue%22"
+    setup: "https://matplotlib.org/stable/devel/development_setup.html"
+    code-of-conduct: "https://github.com/matplotlib/matplotlib/blob/main/CODE_OF_CONDUCT.md"
+  representatives:
+    - name: Thomas Caswell
+    - name: Oscar Gustafsson
+- name: "Open Food Facts"
+  description: "Open Food Facts is a Wikipedia for food, a collaborative, free and open database of food products from all around the world."
+  type: "CYOA"
+  color: "#ffffe6"
+  resources:
+  - project: "https://github.com/openfoodfacts/openfoodfacts-server"
+    issues: "https://github.com/openfoodfacts/openfoodfacts-server/issues"
+    setup: "https://github.com/openfoodfacts/openfoodfacts-server/blob/main/docs/introduction/dev-environment-quick-start-guide.md"
+    code-of-conduct: "https://world.openfoodfacts.org/code-of-conduct"
+  representatives:
+    - name: Stéphane Gigandet
+    - name: Yukti Sharma
+- name: "Raphtory"
+  description: "An open-source platform for distributed real-time temporal graph analytics, allowing you to load and process large dynamic datasets across time. By doing this, you are able to see how networks evolve (known as dynamic graphs). Current systems for analysing graphs were built with static graphs in mind, making them cumbersome when dealing with the time aspect. If you wanted to analyse the graph at a new time point, you would have to reload the entire dataset, which is slow and efficient, especially with Big Data becoming the norm in data science. Raphtory addresses this problem by automatically updating the dynamic graph as new data comes in. The software keeps a rolling record of any changes to the nodes and links, giving users instant access to the graph's entire history."
+  type: "CYOA"
+  color: "#ffe6ff"
+  resources:
+  - project: "https://github.com/Raphtory"
+    issues: "https://github.com/Raphtory/Raphtory/issues"
+    setup: "https://raphtory.readthedocs.io/en/development/Install/installdependencies.html"
+    code-of-conduct: "https://github.com/Raphtory/Raphtory/blob/master/LICENSE"
+  representatives:
+    - name: Rachel Chan
+    - name: Naomi Arnold
+- name: "Transform to Open Science"
+  description: "NASA's Transform to Open Science (TOPS) mission leverages open science will broaden participation in scientific research, increase accessibility to knowledge, and embrace new technologies that can respond to changes to science in the 21st century at scale. Open science creates more advanced and inclusive research faster, builds a more just and equitable world, and ensures that minds from all walks of life can participate in science. TOPS is NASA’s ambitious plan to accelerate open science practices."
+  type: "CYOA"
+  color: "#e6fff9"
+  resources:
+  - project: "https://github.com/reeseIngraham/Transform-to-Open-Science/issues"
+    issues: "https://github.com/nasa/Transform-to-Open-Science/issues/created_by/reeseIngraham"
+    code-of-conduct: "https://github.com/nasa/Transform-to-Open-Science/blob/main/CODE_OF_CONDUCT.md"
+  representatives:
+    - name: Yvonne Ivey
+    - name: Chelle Gentemann
