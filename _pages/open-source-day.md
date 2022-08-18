@@ -14,7 +14,7 @@ Open Source Day (OSD) is an all-day hackathon (including workshops) at [Grace Ho
 
 During OSD, participants can join a project on the **Contribution Track** and/or attend one or more workshops from the **Learning track**.
 
-### Contribution Track (Projects)
+<h3 style="color: #005C88;"> Contribution Track (Projects) </h3>
 On the Contribution Track, participants will contribute code to our partner open source software (OSS) projects.
  Participants can choose to work solo or in groups on an issue and have opportunities to meet project maintainers
  and experienced mentors who will be available throughout the day to help them make their OSS contribution.
@@ -22,7 +22,10 @@ On the Contribution Track, participants will contribute code to our partner open
  have the opportunity to contribute code to projects led by women maintainers or to any project in the OSS
  community with mentors available to help!
 
-### Learning Track (Workshops)
+<h3 style="color: #005C88;"> Learning Track (Workshops) </h3>
 On the Learning Track, participants can attend hands-on workshops to help them overcome the barriers to making
  open source contributions. Participants will have a chance to attend technical and non-technical workshops and walk
  away with skills they can leverage in open source contributions.
+
+#### Have Questions?
+Check out answers to frequently asked questions on our [FAQ](/faq/) page.

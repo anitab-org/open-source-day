@@ -81,26 +81,31 @@ Yes! As long as multiple repositories represent one project and project maintain
 
 Open Source Day does not give contributors a shortcut to their contributions. All participants will be required to abide by the project's code of conduct and other guidelines. The Open Source Day team does not expect any of our project partners to accept/merge any work that does not meet the project’s standards and expectations. We kindly ask you to bear in mind that some participants may be new to open source as you decide how to handle the contributions made to your project.
 
-### Can we have extra materials to guide participants that are not necessarily on Github?
+### Can we have extra materials to guide participants that are not necessarily on our repo?
 
-Yes, it is acceptable to have other contribution guides to make it easier for those wishing to contribute to your project. Kindly make sure to let the contributors know before they start their contributions.
+Yes, it is acceptable to have other contribution guides to make it easier for those wishing to contribute to your project.
+  Any extra material shared with us, we'll add to the project description. 
 
 ### Is it possible to know the number of registered participants to our projects before OSD?
 
-The number of registered participants for each project will be sent to the project representatives to enable them to prepare prior to OSD. However, this might be sent at a closer date to OSD.
+The number of registered participants for each project will be shared with the project representatives closer to the date.
+  Please note that OSD registration opens up on September 8th.
 
-### Will we be merging PRs only as project representatives on OSD?
+### What are the responsibilities of project representatives during OSD?
 
-Project representatives are expected to keep track of contributions made to their projects, make sure participants follow their code of conduct while contributing and in some cases help the mentors incase there is an issue in addition to merging PRs.
+Project representatives starts the day with a short presentation to introduce the project to the attendees.
+  After the overview, they are responsible for proactively helping OSD attendees contribute to their project. Some of those
+  responsibilities may be assisting with choosing an issue, debugging a blocker, explaining project setup, reviewing and approving
+  pull requests, and etc.
 
 ### Will we be using one zoom room for all projects during OSD?
 
-Each featured project will have its own zoom room in order to handle the large numbers of participants that will be interested in contributing to the projects. 
-However, all CYOA projects will be in one zoom room.
+Each featured projects will have its own zoom call. All CYOA projects will share one zoom call and leverage the breakout rooms.
 
 ### How will we explain extra details about our project to participants before they start contributing ?
 
-OSD will officially start at 8 AM PT but contributions will begin at 8:30 AM PT, this is to allow project representatives and mentors to have an info session with the interested contributors. This will be the time to familiarise the participants with your project.
+Any extra details you like to share with the attendees should be shared with the OSD committee to include in the project
+  description. This will allow both mentors and attendees to be prepared before joining the project on the day of the event.
 
 ### How many participants can I expect for my project?
 
@@ -120,7 +125,7 @@ During the event, all mentors are required to be present at all times as they wi
 
 ### As a mentor, can I contribute to projects?
 
-Selected mentors must prioritize mentorship over contribution. Mentors must proactively assist attendees and project representatives throughout the day. If you can prioritize your responsibility, you are welcome to contribute only to your **assigned project**. However, we ask you to be mindful of the number of issues project representatives bring to the event as they're specifically triaged and written for the OSD attendees. Therefore, we ask that mentors to limit their contributions so that there are enough issues for the attendees who join the projects throughout the day. 
+Selected mentors must prioritize mentorship over contribution. Mentors must proactively assist attendees and project representatives throughout the day. If you can prioritize your responsibility, you are welcome to contribute only to your **assigned project**. However, we ask you to be mindful of the number of issues project representatives bring to the event as those are specifically triaged and written for the OSD attendees. Therefore, we ask that mentors to limit their contributions to enable attendees sufficient selection of issues to contribute to. 
 
 <br>
 
@@ -132,11 +137,6 @@ Before the event, all selected speakers will need to prepare their content and a
  OSD committee members.
 
 During the event, speakers need to commit approximately 2 hours. Each workshop is expected to be an hour, but we will ask the speakers to join early for production setup and stay after for ~30 minutes to answer questions on Slack.
-
-
-### What topics would be best fit for Open Source Day workshop?
-
-We accept both technical and non-technical content related to open source. Any topic that will allow OSD participants to walk away with a skill they can utilize in open source contribution will be considered as a possible workshop. As an example, during OSD 2021, workshop topics included: GitHub 101, How to make money contributing to open source, MLOps, inclusive language in open source, CI/CD, and more!
 
 ### Will there be dry runs?
 

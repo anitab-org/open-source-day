@@ -1,0 +1,72 @@
+.image-card {
+    margin: 20px;
+    width: 20%;
+}
+
+.image-card img {
+    aspect-ratio : 1 / 1;
+    width: 100%;
+}
+
+.top-border-0 {
+    border-top: solid 7px #1A237E;
+}
+
+.top-border-1 {
+    border-top: solid 7px #1565C0;
+}
+
+.top-border-2 {
+    border-top: solid 7px #006064;
+}
+
+.top-border-3 {
+    border-top: solid 7px #00897B;
+}
+
+#mentors {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.name {
+    font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.subtitle {
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.font-0 {
+    color: #1A237E;
+}
+
+.font-1 {
+    color: #1565C0;
+}
+
+.font-2 {
+   color: #006064;
+}
+
+.font-3 {
+    color: #00897B;
+ }
+
+ @media (max-width: 600px) {
+    .image-card {
+        margin: 10px;
+        width: 25%;
+    }
+    .name {
+        font-size: 16px;
+    }
+    
+    .subtitle {
+        font-size: 14px;
+    }
+}

@@ -12,8 +12,8 @@ main:
     url: /choose-your-own-adventure/
   - title: "Workshops"
     url: /workshops/
-  # - title: "Mentors"
-  #   url: /mentors/
+  - title: "Mentors"
+    url: /mentors/
   - title: "Committee Members"
     url: /committee-members/
   # - title: "Blog"
