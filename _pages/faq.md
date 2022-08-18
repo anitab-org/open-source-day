@@ -81,6 +81,27 @@ Yes! As long as multiple repositories represent one project and project maintain
 
 Open Source Day does not give contributors a shortcut to their contributions. All participants will be required to abide by the project's code of conduct and other guidelines. The Open Source Day team does not expect any of our project partners to accept/merge any work that does not meet the project’s standards and expectations. We kindly ask you to bear in mind that some participants may be new to open source as you decide how to handle the contributions made to your project.
 
+### Can we have extra materials to guide participants that are not necessarily on Github?
+
+Yes, it is acceptable to have other contribution guides to make it easier for those wishing to contribute to your project. Kindly make sure to let the contributors know before they start their contributions.
+
+### Is it possible to know the number of registered participants to our projects before OSD?
+
+The number of registered participants for each project will be sent to the project representatives to enable them to prepare prior to OSD. However, this might be sent at a closer date to OSD.
+
+### Will we be merging PRs only as project representatives on OSD?
+
+Project representatives are expected to keep track of contributions made to their projects, make sure participants follow their code of conduct while contributing and in some cases help the mentors incase there is an issue in addition to merging PRs.
+
+### Will we be using one zoom room for all projects during OSD?
+
+Each featured project will have its own zoom room in order to handle the large numbers of participants that will be interested in contributing to the projects. 
+However, all CYOA projects will be in one zoom room.
+
+### How will we explain extra details about our project to participants before they start contributing ?
+
+OSD will officially start at 8 AM PT but contributions will begin at 8:30 AM PT, this is to allow project representatives and mentors to have an info session with the interested contributors. This will be the time to familiarise the participants with your project.
+
 ### How many participants can I expect for my project?
 
 For a Featured project, we ask the project rep to inform us of capacity. If you can serve 250 participants only, that is fine. Just let us know. Participants will have to select a project of their interest when they register for OSD, beginning September 8th.
