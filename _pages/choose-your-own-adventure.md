@@ -13,27 +13,27 @@ Choose your own adventure projects provide you the opportunity to contribute cod
 <div class="row">
   {% for project in site.data.cyoa-projects %}
   <div class="column">
-    <h2 id="{{project.name}}" style="background: {{project.color | default: 'white'}}; padding: 10px;">{{project.name}}</h2>
+    <h2 id="{{project.name}}" style="background: {{project.color | default: 'rgb(29, 66, 138)'}}; color: white; padding: 10px;">{{project.name}}</h2>
     {% for resource in project.resources %}
       <div id="project-links">
-        <button class="btn" style="background: {{project.color | default: 'white'}}; opacity: .8;" onclick="window.location.href='{{resource.project}}';">Project Repo</button>
-        <button class="btn" style="background: {{project.color | default: 'white'}}; opacity: .8;" onclick="window.location.href='{{resource.issues}}';">Issues</button>
+        <button class="btn" style="background: {{project.color | default: '#e6f2ff'}};" onclick="window.open('{{resource.project}}','_blank')">Project Repo</button>
+        <button class="btn" style="background: {{project.color | default: '#e6f2ff'}};" onclick="window.open('{{resource.issues}}','_blank')">Issues</button>
         {% if resource.issues2 %}
-        <button class="btn" style="background: {{project.color | default: 'white'}}; opacity: .8;" onclick="window.location.href='{{resource.issues2}}';">Other Issues</button>
+        <button class="btn" style="background: {{project.color | default: '#e6f2ff'}};" onclick="window.open('{{resource.issues2}}','_blank')">Other Issues</button>
         {% endif %}
-        <button class="btn" style="background: {{project.color | default: 'white'}}; opacity: .8;" onclick="window.location.href='{{resource.setup}}';">Setup Guide</button>
+        <button class="btn" style="background: {{project.color | default: '#e6f2ff'}};" onclick="window.open('{{resource.setup}}','_blank')">Setup Guide</button>
         {% if resource.code-of-coduct %}
-        <button class="btn" style="background: {{project.color | default: 'white'}}; opacity: .8;" onclick="window.location.href='{{resource.code-of-conduct}}';">Code of Conduct</button>
+        <button class="btn" style="background: {{project.color | default: '#e6f2ff'}};" onclick="window.open('{{resource.code-of-conduct}}','_blank')">Code of Conduct</button>
         {% endif %}
       </div>
     {% endfor %}
     <br />
+    <p style="font-size: 14px;">Representative(s):
+    {% for representative in project.representatives %}
+      <button class="btn" onclick="window.open('{{representative.github}}','_blank')">{{representative.name}}</button>
+    {% endfor %}
+    </p>
     <p>{{project.description}}</p>
-      <span>This project will be represented by:
-      {% for representative in project.representatives %}
-        {{representative.name}};
-      {% endfor %}
-      </span>
   </div>
   {% endfor %}
 </div>

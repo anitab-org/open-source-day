@@ -1,0 +1,50 @@
+- slot: '9:30am'
+  rowspan: 2
+  colspan: 1
+  workshop: "true"
+  events:
+    - name: "Git 101 - How to Contribute to an Open Source Project"
+      emoji: 📚
+      type: "Beginner"
+      background-color: "white"
+- slot: '♿️ How to Write an Accessible Pull Request'
+  workshop: "true"
+  colspan: 1
+  rowspan: 1
+- slot: '11:00am'
+  rowspan: 3
+  workshop: "true"
+  events:
+    - name: "Overcoming the Fear of Contributing to Open"
+      emoji: 😰
+      type: "Beginner"
+      colspan: 1
+      background-color: "white"
+- slot: ' 🤯 When Design Thinking Meets Open Source'
+  workshop: "true"
+- slot: ' 🚀 Build Production Ready Data Engineering Pipeline using Open Source Framework'
+  workshop: "true"
+- slot: '12:30pm'
+  rowspan: 3
+  workshop: "true"
+  events:
+    - name: "The Open Source Game"
+      emoji: 🎲
+      type: "Beginner"
+      colspan: 1
+      background-color: "white"
+- slot: ' ⬅️ Shift Left with Quality: Scalable Testing Infrastructure in UI Automation'
+  workshop: "true"
+- slot: ' 📝 Deploy Your First Smart Contract'
+  workshop: "true"
+- slot: '2:00pm'
+  rowspan: 2
+  workshop: "true"
+  events:
+    - name: "Don’t Sacrifice Security When Coding your Next Game-Chaining App!"
+      emoji: 🔒
+      type: "Intermediate"
+      colspan: 1
+      background-color: "white"
+- slot: '🔑 Hack an Open Source Database Together'
+  workshop: "true"

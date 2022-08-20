@@ -2,7 +2,7 @@
   float: left;
   width: 45%;
   padding: 5px 25px 25px 25px;
-  height: 400px;
+  height: 440px;
   overflow-y:auto;
   margin: 5px;
 }
@@ -17,4 +17,8 @@
   .column {
     width: 100%;
   }
+}
+
+p {
+  margin: 0;
 }

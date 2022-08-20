@@ -12,12 +12,13 @@ You can contribute to projects and attend workshops in parallel 🚀
   <button id="button-workshops" class="btn" onclick="filterSelection('workshops')"> Workshops</button>
 </div>
 
-<div id="all">
+<div id="all" style="display: none;">
     <table id="agenda-all" class="agenda-col">
         <thead>
             <tr>
                 <th colspan="12">
                     <h3>Day at a glance</h3>
+                    <p>All times are in U.S. Pacific</p>
                 </th>
             </tr>
         </thead>
@@ -27,17 +28,49 @@ You can contribute to projects and attend workshops in parallel 🚀
                     <tr>
                         <td style="background: white">{{timeslots.slot}}</td>
                         {% for event in timeslots.events %}
-                            <td colspan={{event.colspan | default: 1}} rowspan={{event.rowspan | default: 1}} style="background: {{event.background-color | default: 'white'}}; padding: 25px 25px 25px 25px;">
-                                <span class="e">{{event.emoji}}</span> {{ event.name }}
-                                 {% for link in event.links %}
-                                    <div>
-                                        <a href="{{link.url | relative_url}}">{{link.text}}</a>
-                                    </div>
-                                 {% endfor %}
+                            <td colspan={{event.colspan | default: 1}} rowspan={{event.rowspan | default: 1}} style="background: {{event.background-color | default: 'white'}}; padding: 25px 25px 25px 25px; border-top: 1px solid black;">
+                                <span class="e">{{event.emoji}}</span>
+                                 {% if event.url %}
+                                   <a href="{{event.url}}">{{ event.name }}</a>
+                                 {% else %}
+                                 {{ event.name }}
+                                 {% endif %}
                             </td>
                         {% endfor %}
                     </tr>
                 {% endif %}
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+<div id="all-mini" style="display: none;">
+    <table id="agenda-all" class="agenda-col">
+        <thead>
+            <tr>
+                <th colspan="4">
+                    <h3>Day at a glance</h3>
+                    <p>All times are in U.S. Pacific</p>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for timeslots in site.data.agenda-mini %}
+                    <tr>
+                        <td colspan={{timeslots.colspan | default: 1}} rowspan={{timeslots.rowspan | default: 1}} style="background: white; padding: 25px 25px 25px 25px;">{{timeslots.slot}}</td>
+                        {% if timeslots.events %}
+                        {% for event in timeslots.events %}
+                            <td colspan={{event.colspan | default: 1}} rowspan={{event.rowspan | default: 1}} style="background: {{event.background-color | default: 'white'}}; padding: 25px 25px 25px 25px; border-top: 1px solid black;">
+                                <span class="e">{{event.emoji}}</span>
+                                 {% if event.url %}
+                                   <a href="{{event.url}}">{{ event.name }}</a>
+                                 {% else %}
+                                 {{ event.name }}
+                                 {% endif %}
+                            </td>
+                        {% endfor %}
+                        {% endif %}
+                    </tr>
             {% endfor %}
         </tbody>
     </table>
@@ -70,6 +103,38 @@ You can contribute to projects and attend workshops in parallel 🚀
                         {% endfor %}
                     </tr>
                 {% endif %}
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+<div id="workshops-mini" style="display: none;">
+    <table id="agenda-all" class="agenda-col">
+        <thead>
+            <tr>
+                <th colspan="4">
+                    <h3>Workshop Schedule</h3>
+                    <p>Each workshop is 1 hour</p>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for timeslots in site.data.workshop-mini %}
+                    <tr>
+                        <td colspan={{timeslots.colspan | default: 1}} rowspan={{timeslots.rowspan | default: 1}} style="background: white; padding: 25px 25px 25px 25px;">{{timeslots.slot}}</td>
+                        {% if timeslots.events %}
+                        {% for event in timeslots.events %}
+                            <td colspan={{event.colspan | default: 1}} rowspan={{event.rowspan | default: 1}} style="background: {{event.background-color | default: 'white'}}; padding: 25px 25px 25px 25px; border-top: 1px solid black;">
+                                <span class="e">{{event.emoji}}</span>
+                                 {% if event.url %}
+                                   <a href="{{event.url}}">{{ event.name }}</a>
+                                 {% else %}
+                                 {{ event.name }}
+                                 {% endif %}
+                            </td>
+                        {% endfor %}
+                        {% endif %}
+                    </tr>
             {% endfor %}
         </tbody>
     </table>

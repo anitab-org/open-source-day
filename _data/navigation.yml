@@ -14,8 +14,6 @@ main:
     url: /workshops/
   - title: "Mentors"
     url: /mentors/
-  - title: "Committee Members"
-    url: /committee-members/
   # - title: "Blog"
   #   url: /blog/
   - title: "FAQ"
@@ -24,10 +22,8 @@ main:
 open-source-day:
   - title: "Open Source Day"
     url: /open-source-day/
-  - title: "Contribution Track"
-    url: /open-source-day/#contribution-track
-  - title: "Learning Track"
-    url: /open-source-day/#learning-track
+  - title: "Committee Members"
+    url: /open-source-day/#committee-members
 
 cfp:
   - title: "Call For Participation"

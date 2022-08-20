@@ -7,14 +7,14 @@ span.e {
     width: 100%;
 }
 #agenda-all thead tr {
-    background-color: #733C7F;
+    background-color: rgb(29, 66, 138);
     color: #ffffff;
 }
 #agenda-workshop {
     width: 65%
 }
 #agenda-workshop thead tr {
-    background-color: #733C7F;
+    background-color: rgb(29, 66, 138);
     color: #ffffff;
 }
 .agenda-col{
@@ -24,7 +24,7 @@ span.e {
   border-collapse: collapse;
   font-size: 16px;
 }
-@media (max-width: 600px) {
+@media (max-width: 400px) {
     #all {
         width: 100%;
     }
@@ -42,4 +42,8 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 .btn.active {
   background-color: #666;
   color: white;
+}
+
+.btn {
+  font-size: 1em;
 }
