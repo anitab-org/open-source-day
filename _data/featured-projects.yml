@@ -244,7 +244,7 @@
   type: "Featured"
   resources:
   - project: "https://github.com/wildfly-security/wildfly-elytron"
-    issues: "https://issues.redhat.com/browse/ELY-2310?filter=12364234"
+    issues: "https://issues.redhat.com/issues/?filter=12364234"
     setup: "https://github.com/wildfly-security/wildfly-elytron/blob/1.x/CONTRIBUTING.md"
   representatives:
     - name: Farah Juma
