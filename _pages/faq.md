@@ -111,6 +111,34 @@ Any extra details you like to share with the attendees should be shared with the
 
 For a Featured project, we ask the project rep to inform us of capacity. If you can serve 250 participants only, that is fine. Just let us know. Participants will have to select a project of their interest when they register for OSD, beginning September 8th.
 
+### How can I introduce my project for the CYOA track?
+
+CYOA projects will be introduced to the participants on the day of OSD.
+
+### Would the participants be able to register for a specific CYOA project?
+
+The participants won't be able to register for a specific CYOA project until the day of OSD.
+
+### When will the slack channel be available?
+
+All project representatives will be sent an invite to the slack workspace in the last week of August. The slack channels would be availabe to the participants starting September 8th.
+
+### Would a cloud space be provided for contributors to test their changes as it could take long time to test in a local environment?
+
+We won't be providing an environment from our side. The project representatives decide how do they want to approach testing/ease of setup.
+
+### Who can participate in project slack communications?
+
+Project representatives, mentors and contributors who are registered for a particular project would be able to participate in slack communications.
+
+### Would mentors be assigned for CYOA?
+
+No, project representatives will be the ones guiding participants in case of CYOA projects.
+
+### My project takes some time to setup the environment, is there somewhere I can provide the instructions beforehand?
+
+Yes, the instructions can be provided on the dedicated slack channel.
+
 <br>
 
 # Mentor Participation
