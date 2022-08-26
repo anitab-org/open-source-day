@@ -121,11 +121,11 @@ The participants won't be able to register for a specific CYOA project until the
 
 ### When will the slack channel be available?
 
-All project representatives will be sent an invite to the slack workspace in the last week of August. The slack channels would be availabe to the participants starting September 8th.
+All project representatives will be sent an invite to the slack workspace in the last week of August. The slack channels would be available to the participants starting September 8th.
 
-### Would a cloud space be provided for contributors to test their changes as it could take long time to test in a local environment?
+### Would a cloud space be provided for contributors to test their changes, as it could take long time to test in a local environment?
 
-We won't be providing an environment from our side. The project representatives decide how do they want to approach testing/ease of setup.
+We won't be providing an environment from our side. The project representatives decide on how they want to make testing/setup easy for a participant.
 
 ### Who can participate in project slack communications?
 
@@ -137,7 +137,8 @@ No, project representatives will be the ones guiding participants in case of CYO
 
 ### My project takes some time to setup the environment, is there somewhere I can provide the instructions beforehand?
 
-Yes, the instructions can be provided on the dedicated slack channel.
+Yes, the instructions can be provided on the dedicated project slack channel.
+
 
 <br>
 
