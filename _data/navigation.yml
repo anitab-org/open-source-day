@@ -14,8 +14,8 @@ main:
     url: /workshops/
   - title: "Mentors"
     url: /mentors/
-  # - title: "Blog"
-  #   url: /blog/
+  - title: "Blog"
+    url: /blog/
   - title: "FAQ"
     url: /faq/
 
