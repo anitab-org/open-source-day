@@ -1,4 +1,5 @@
 ---
+layout: splash
 title: "Mentors"
 permalink: /mentors/
 classes: wide
@@ -6,7 +7,7 @@ classes: wide
 
 <link rel="stylesheet" href="{{ '/assets/css/mentor.css' | relative_url }}">
 
-Meet our mentors for Open Source Day 2022!
+<h1>Meet our mentors for Open Source Day 2022!</h1>
 
 <div id="mentors">
 {% for mentor in site.data.mentors %}

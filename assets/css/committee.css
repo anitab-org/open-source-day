@@ -4,7 +4,7 @@
 
 .image-card {
     margin: 20px;
-    width: 25%;
+    width: 20%;
 }
 
 .image-card img {
@@ -17,15 +17,15 @@
 }
 
 .top-border-0 {
-    border-top: solid 7px green;
+    border-top: solid 7px #006666;
 }
 
 .top-border-1 {
-    border-top: solid 7px #FEDC2A;
+    border-top: solid 7px #2b1459;
 }
 
 .top-border-2 {
-    border-top: solid 7px pink;
+    border-top: solid 7px rgb(29, 66, 138);
 }
 
 .top-border-3 {
@@ -50,15 +50,15 @@
 }
 
 .font-0 {
-    color: green;
+    color: #006666;
 }
 
 .font-1 {
-    color: #FEDC2A;
+    color: #2b1459;
 }
 
 .font-2 {
-   color: pink;
+   color: rgb(29, 66, 138);
 }
 
 .font-3 {

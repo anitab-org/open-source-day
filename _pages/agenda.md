@@ -1,9 +1,10 @@
 ---
 title: "Agenda"
 permalink: /agenda/
+layout: splash
 classes: wide
 ---
-You can contribute to projects and attend workshops in parallel 🚀
+<p style="font-size:16px;">You can contribute to projects and attend workshops in parallel 🚀</p>
 <link rel="stylesheet" href="{{ '/assets/css/agenda.css' | relative_url }}">
 <script src="{{ '/assets/js/agenda.js' | relative_url }}"></script>
 

@@ -1,47 +1,40 @@
 ---
 layout: splash
-permalink: /blog/
+permalink: /news/opening-ceremony-speakers/
+seo_title: OSD Opening Ceremony Speakers
+title: Meet Our Opening Ceremony Speakers
+header:
+  overlay_color: "#2b1459"
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/blog.css' | relative_url }}">
 <script src="{{ '/assets/js/blog.js' | relative_url }}"></script>
 
-<div>
-  <div style="float: left; border-right: 20px solid white;">
-    <img src="{{ site.baseurl }}/assets/images/speakers/opening_ceremony.png">
-  </div>
-  <div>
-    <h3>Featured Post</h3>
-    <h1>Meet Our Opening Ceremony Speakers!</h1>
-    Don’t miss the OSD opening ceremony to hear from <b><a href="https://www.linkedin.com/in/anne-neuberger-13b4491b/">Anne Neuberger</a></b>, Deputy Assistant to the President & Deputy National Security Advisor for Cyber & Emerging Technologies at The White House, <b><a href="https://www.linkedin.com/in/nithyaruff/">Nithya Ruff</a></b>, Head of Open Source at Amazon and Chair of the Board of Directors, The Linux Foundation and <b><a href="https://www.linkedin.com/in/mishi-choudhary-esq-983b526/">Mishi Choudhary</a></b>, Senior Vice President and General Counsel at Virtru, previous Legal Director of the New York based Software Freedom Law Center (SFLC) and Partner at Moglen & Associates.
-    <br/><button class="button blog_button" onclick="show_more('opening_ceremony')">Read More</button>
-  </div>
-</div>
+During the Open Source Day opening ceremony, you'll hear from <span style='color: rgb(155,81,224);'><b>Anne Neuberger</b></span>,
+ <span style='color: rgb(155,81,224);'><b>Nithya Ruff</b></span>, and <span style='color: rgb(155,81,224);'><b>Mishi Choudhary</b></span>
+ about their open source journey!
 
-<br />
-<br />
-
-<div id="opening_ceremony" style="display: none;">
+<div id="opening_ceremony">
 
   <h1 style="margin-bottom: 0px;">Anne Neuberger</h1>
   <h4>Deputy Assistant to the President & Deputy National Security Advisor for Cyber & Emerging Technologies at The White House</h4>
 
-  <div style="float: left; border-right: 20px solid white; width: 40vw;">
+  <div style="float: left; border-right: 20px solid white; width: 30vw;">
     <img src="{{ site.baseurl }}/assets/images/speakers/anne_neuberger.png">
   </div>
-  <div>
+  <div style="font-size: 20px;">
     Ms. Neuberger is the Deputy Assistant to the President and Deputy National Security Advisor for Cyber and Emerging Technologies on the White House’s National Security Council. Previously, she served as the National Security Agency’s (NSA) Director of Cybersecurity, where she led NSA’s cybersecurity mission, including emerging technology areas like quantum-resistant cryptography. Prior to this role, Ms. Neuberger co-led NSA and USCC’s election security effort and led NSA’s intelligence operations, leading an organization of over 20,000 people globally, driving major change initiatives across technology and operations. She also served as NSA’s first Chief Risk Officer building NSA’s enterprise risk management program, Director of NSA’s Commercial Solutions Center, the Department of the Navy’s Deputy Chief Management Officer and a White House Fellow. In 2020, Ms. Neuberger was awarded DoD’s and NSA’s highest civilian awards, the DoD Distinguished Civilian Service Award, and NSA’s Distinguished Service Medal. In 2017, Ms. Neuberger was awarded a Presidential Rank Award. Before her Government service, Ms. Neuberger was Senior Vice President of Operations at American Stock Transfer and Trust Company, where she directed technology and operations. Ms. Neuberger is a graduate of Columbia University, where she earned an MBA and Masters of International Affairs.
   </div>
 
-<br/><br/>
+<br/><br/><br/>
 
   <h1 style="margin-bottom: 0px;">Nithya Ruff</h1>
   <h4>Head of Open Source at Amazon and Chair of the Board of Directors, The Linux Foundation</h4>
 
-  <div style="float: right; border-left: 20px solid white; width: 40vw;">
+  <div style="float: right; border-left: 20px solid white; width: 30vw;">
     <img src="{{ site.baseurl }}/assets/images/speakers/nithya_ruff.png">
   </div>
-  <div>
+  <div style="font-size: 20px;">
     Nithya A. Ruff is the Head of the Amazon Open Source Program Office. She drives open source culture and coordination inside of Amazon and engagement with external communities. Amazon is guided by its leadership principles, including Customer Obsession, Invent and Simplify, and Think Big, which help direct Nithya’s work at Amazon—especially as they relate to the engagement, contribution, and participation in the broader Open Source Community. Open Source has proven to be one of the world’s most prolific enablers of innovation and collaboration, and Amazon’s customers increasingly value open source innovation and cloud’s role in helping them adopt and run important open source services.
     <br/><br/>
     Prior to Amazon, she started and grew Comcast and Western Digital’s Open Source Program Offices. Open Source Program Offices are a critical part of a company’s digital transformation and innovation journey and enable the intentional and systematic engagement with open source for companies.
@@ -53,15 +46,15 @@ permalink: /blog/
     Nithya graduated with an MS in Computer Science from NDSU and an MBA from the University of Rochester, Simon Business School. Today she is an aspiring corporate director and corporate governance enthusiast. You can follow her on twitter <a href="https://twitter.com/nithyaruff">@nithyaruff</a> and can find more at <a href="https://www.linkedin.com/in/nithyaruff/">https://www.linkedin.com/in/nithyaruff/</a>
   </div> 
 
-<br/><br/>
+<br/><br/><br/>
 
   <h1 style="margin-bottom: 0px;">Mishi Choudhary</h1>
   <h4>Senior Vice President and General Counsel at Virtru, previous Legal Director of the New York based Software Freedom Law Center (SFLC) and Partner at Moglen & Associates</h4>
 
-  <div style="float: left; border-right: 20px solid white; width: 40vw;">
+  <div style="float: left; border-right: 20px solid white; width: 30vw;">
     <img src="{{ site.baseurl }}/assets/images/speakers/mishi_choudhary.jpg">
   </div>
-  <div>
+  <div style="font-size: 20px;">
     Mishi Choudhary is a technology lawyer and an online civil liberties activist with law practice in New York and New Delhi. The Open Magazine calls her an emerging legal guardian of the free and open internet. She recently joined as the Senior Vice President and General Counsel at Virtru. Previously, she was the Legal Director of the New York based Software Freedom Law Center (SFLC) and Partner at Moglen & Associates. At SFLC, Mishi has served as the primary legal representative of many of the world's most significant free software developers and non-profit distributors, including Debian, the Apache Software Foundation, and OpenSSL. She advises technology startups and established businesses around the world on intellectual property matters, in particular on open source software licensing and strategy, export control compliance, diversity and inclusion, data protection and content moderation.
     <br/><br/>
     In 2010, she founded SFLC.in. She served as its President and Executive Director until 2017. Under her direction, SFLC.in has become the premier non-profit organization representing the rights of Internet users and free software developers in India. One of the lead counsels for Mouthshut.com a writ petition challenging online free speech and intermediary liability, Mishi Choudhary helped win the Shreya Singhal vs Union of India case in which the Supreme Court delivered a landmark verdict, ruling Section 66A of the Information Technology Act as unconstitutional. She was also part of the coalition that worked on the Network Neutrality campaign in India that put a stop to Freebasics by Facebook in India. Recently, SFLC.in members were petitioners in the landmark unanimous judgment delivered by the Indian Supreme Court holding Right to privacy as a fundamental right.

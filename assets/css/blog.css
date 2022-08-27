@@ -1,5 +1,5 @@
 h1 {
-  color: rgb(29, 66, 138);
+  color: #2b1459;
 }
 
 h4 {
@@ -20,12 +20,59 @@ h4 {
 }
 
 .blog_button {
-  background-color: rgb(29, 66, 138);
+  background-color: #2b1459;
+  color: white;
+}
+
+.blog_button:link {
+  color: white;
+}
+
+.blog_button:visited {
   color: white;
 }
 
 .blog_button:hover {
   background-color: white;
   color: black;
-  border: 2px solid rgb(29, 66, 138);
+  border: 2px solid #2b1459;
+}
+
+/* unvisited link */
+a:link {
+  color: #2b1459;
+}
+
+/* visited link */
+a:visited {
+  color: #2b1459;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+
+.press-btn{
+  background-color: #dcdedd;
+  color:black;
+}
+
+.press-btn:visited{
+  background-color: #dcdedd;
+  color:black;
+}
+
+.press-btn:hover{
+  background-color:black;
+  color: #dcdedd;
+}
+
+.btn {
+  font-size: 16px;
 }
