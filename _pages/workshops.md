@@ -116,7 +116,7 @@ Many test automation practices rely on third party, out of the box frameworks as
     Bio: Leila Navon is currently a Senior Engineering Manager at SiriusXM+Pandora. She has 10 years of experience spanning startups to large-cap companies. Leila currently leads a team of test automation engineers driving a culture of shared quality across the engineering organization through pragmatic test automation, influencing manual testing, quality of service, and overall CI/CD confidence. Before her career in tech, she worked as a sound designer on major motion picture films and owned a calligraphy business.
 </details>
 
-## The Open Source Games
+## The Open Source Game
 
 Open source ecosystems contain multitudes of people who are critical to the creation, maintenance, distribution, security, and usage of open source software. But depending on whom you talk to, each group will have a different perspective of what makes open source communities tick - sometimes they even talk to each other. And if you're new to open source, this presents a number of confusing obstacles to participation. 
 
