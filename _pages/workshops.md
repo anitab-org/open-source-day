@@ -27,11 +27,13 @@ Bye-bye Jupyter Notebook! Are you working on a Machine Learning project? Do you 
 
 ## Deploy Your First Smart Contract
 
+As blockchain technology continues to flourish, companies are moving towards building their applications on-chain using smart contracts. In this workshop, we will discuss how Ethereum smart contracts work and go over related concepts like gas fees, the Ethereum Virtual Machine (EVM), customizable event classes, wallets and identities, visualization tools, and more. We will then get familiar with the Solidity programming language and write a simple smart contract together. Afterward, we will deploy the smart contract to an Ethereum test network through the latest Ethereum development tools like Hardhat and the MetaMask wallet. After we test some interactions with our deployed smart contract, you’ll feel empowered to write, test, and deploy your own smart contract to bring blockchain to your use case.
+
 <details>
   <summary>This workshop will be led by: Anastasia Lalamentik</summary>
 
   <br>
-    Bio: Anastasia Lalamentik
+    Bio: Anastasia Lalamentik is a full-stack engineer at Kaleido. She obtained her undergraduate degree at UNC Chapel-Hill and her graduate degree at the University of Virginia, where she did Human-Computer Interaction research in haptics and accessibility.
 </details>
 
 ## Don’t Sacrifice Security When Coding Your Next Game-Changing App!

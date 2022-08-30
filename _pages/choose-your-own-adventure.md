@@ -25,6 +25,9 @@ Choose your own adventure projects provide you the opportunity to contribute cod
         {% if resource.code-of-coduct %}
         <button class="btn" style="background: {{project.color | default: '#e6f2ff'}};" onclick="window.open('{{resource.code-of-conduct}}','_blank')">Code of Conduct</button>
         {% endif %}
+        {% if resource.wiki %}
+        <button class="btn" style="background: {{project.color | default: '#e6f2ff'}};" onclick="window.open('{{resource.wiki}}','_blank')">Wiki</button>
+        {% endif %}
       </div>
     {% endfor %}
     <br />

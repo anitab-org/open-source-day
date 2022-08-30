@@ -148,7 +148,7 @@
     setup: "https://drive.google.com/file/d/1wBML7yGWGtkFJ_LHSEuGmwPVdOCgt5o1/view"
     code-of-conduct: "https://github.com/nodejs/node/blob/main/CODE_OF_CONDUCT.md"
   representatives:
-    - name: Khahil White
+    - name: Danielle Adams
     - name: Rich Trott
       github: "https://github.com/Trott"
     - name: Franziska Hinkelmann
