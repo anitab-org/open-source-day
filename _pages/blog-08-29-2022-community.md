@@ -12,12 +12,13 @@ header:
 
 <p style="padding-bottom: 15px;">When asked why they contribute to open source and volunteer for events like Open Source Day, time and again, our speakers, project leads, and mentors say the same thing: <b>community</b>. <br/><br/>
 
-Hear from some of the mentors and project representatives who believes open source is all bout the community! They share their tips to first time contributors and their personal story on how they got started with open source.</p>
+Hear from OSD mentors and project representatives who believe open source is all bout the community!
+ They share advice for first time contributors and their personal story on how they got started with open source.</p>
 
 <h1>Meet <a href="https://www.linkedin.com/in/nupur-baghel/" target="_blank">Nupur Baghel</a>, Mentor</h1>
 
 <div style="font-size: 18px;">
-  <div style="float: right; border-left: 15px solid white; width: 40vw;">
+  <div class="quote-right">
     <img src="{{ site.baseurl }}/assets/images/blog_posts/08-29-2022-community-over-code/quote1.png">
   </div>
 
@@ -51,7 +52,7 @@ Hear from some of the mentors and project representatives who believes open sour
 <h1>Meet <a href="https://www.linkedin.com/in/panjuan/" target="_blank">Trista Pan</a>, Project <a href="https://github.com/apache/shardingsphere" target="_blank">Apache ShardingSphere</a> Representative</h1>
 
 <div style="font-size: 18px;">
-  <div style="float: left; border-right: 15px solid white; width: 40vw;">
+  <div class="quote-left">
     <img src="{{ site.baseurl }}/assets/images/blog_posts/08-29-2022-community-over-code/quote2.png">
   </div>
 
@@ -74,7 +75,7 @@ Hear from some of the mentors and project representatives who believes open sour
 <h1>Meet <a href="https://www.linkedin.com/in/meenakshi-dhanani/" target="_blank">Meenakshi Dhanani</a>, Mentor</h1>
 
 <div style="font-size: 18px;">
-  <div style="float: right; border-left: 15px solid white; width: 40vw;">
+  <div class="quote-right">
     <img src="{{ site.baseurl }}/assets/images/blog_posts/08-29-2022-community-over-code/quote3.png">
   </div>
 
@@ -105,7 +106,7 @@ Hear from some of the mentors and project representatives who believes open sour
 <h1>Meet <a href="https://www.linkedin.com/in/mandy-chessell-a4989722/" target="_blank">Mandy Chessell</a>, Project <a href="https://github.com/odpi/egeria" target="_blank">Egeria</a> Representative</h1>
 
 <div style="font-size: 18px;">
-  <div style="float: left; border-right: 15px solid white; width: 40vw;">
+  <div class="quote-left">
     <img src="{{ site.baseurl }}/assets/images/blog_posts/08-29-2022-community-over-code/quote4.png">
   </div>
 

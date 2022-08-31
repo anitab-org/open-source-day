@@ -76,3 +76,24 @@ a:active {
 .btn {
   font-size: 16px;
 }
+
+.quote-left {
+  float: left;
+  border-right: 15px solid white;
+  width: 40vw;
+}
+
+.quote-right {
+  float: left;
+  border-right: 15px solid white;
+  width: 40vw;
+}
+
+@media (max-width: 600px) {
+    .quote-left {
+        width: 96vw;
+    }
+    .quote-right {
+        width: 96vw;
+    }
+}
