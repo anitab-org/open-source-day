@@ -64,8 +64,9 @@
 - name: "Bhavya Verma"
   project: "Rowy"
   github:
-    id:
-    url:
+    id: "BeeBombshell"
+    url: "https://github.com/BeeBombshell"
+  picture: "/assets/images/mentors/2022/bhavya_verma.png"
 - name: "Brian Muenzenmeyer"
   project: "Node.js"
   github:
