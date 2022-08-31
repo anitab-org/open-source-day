@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /news/community/
+permalink: /blog/community/
 seo_title: OSD All About The Community
 title: Community > Code
 header:

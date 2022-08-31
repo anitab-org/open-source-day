@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /news/opening-ceremony-speakers/
+permalink: /blog/opening-ceremony-speakers/
 seo_title: OSD Opening Ceremony Speakers
 title: Meet Our Opening Ceremony Speakers
 header:
@@ -19,7 +19,7 @@ During the Open Source Day opening ceremony, you'll hear from <span style='color
   <h1 style="margin-bottom: 0px;">Anne Neuberger</h1>
   <h4>Deputy Assistant to the President & Deputy National Security Advisor for Cyber & Emerging Technologies at The White House</h4>
 
-  <div style="float: left; border-right: 20px solid white; width: 30vw;">
+  <div class="opening_speakers_left">
     <img src="{{ site.baseurl }}/assets/images/speakers/anne_neuberger.png">
   </div>
   <div style="font-size: 20px;">
@@ -31,7 +31,7 @@ During the Open Source Day opening ceremony, you'll hear from <span style='color
   <h1 style="margin-bottom: 0px;">Nithya Ruff</h1>
   <h4>Head of Open Source at Amazon and Chair of the Board of Directors, The Linux Foundation</h4>
 
-  <div style="float: right; border-left: 20px solid white; width: 30vw;">
+  <div class="opening_speakers_right">
     <img src="{{ site.baseurl }}/assets/images/speakers/nithya_ruff.png">
   </div>
   <div style="font-size: 20px;">
@@ -51,7 +51,7 @@ During the Open Source Day opening ceremony, you'll hear from <span style='color
   <h1 style="margin-bottom: 0px;">Mishi Choudhary</h1>
   <h4>Senior Vice President and General Counsel at Virtru, previous Legal Director of the New York based Software Freedom Law Center (SFLC) and Partner at Moglen & Associates</h4>
 
-  <div style="float: left; border-right: 20px solid white; width: 30vw;">
+  <div class="opening_speakers_left">
     <img src="{{ site.baseurl }}/assets/images/speakers/mishi_choudhary.jpg">
   </div>
   <div style="font-size: 20px;">

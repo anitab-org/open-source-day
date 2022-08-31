@@ -84,9 +84,21 @@ a:active {
 }
 
 .quote-right {
-  float: left;
-  border-right: 15px solid white;
+  float: right;
+  border-left: 15px solid white;
   width: 40vw;
+}
+
+.opening_speakers_left {
+  float: left;
+  border-right: 20px solid white;
+  width: 30vw;
+}
+
+.opening_speakers_right {
+  float: right;
+  border-left: 20px solid white;
+  width: 30vw;
 }
 
 @media (max-width: 600px) {
@@ -95,5 +107,11 @@ a:active {
     }
     .quote-right {
         width: 96vw;
+    }
+    .opening_speakers_left {
+      width: 60vw;
+    }
+    .opening_speakers_right {
+      width: 60vw;
     }
 }

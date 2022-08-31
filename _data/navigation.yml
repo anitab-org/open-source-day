@@ -16,6 +16,8 @@ main:
     url: /mentors/
   - title: "News"
     url: /news/
+  - title: "Blog"
+    url: /blog/
   - title: "FAQ"
     url: /faq/
 
