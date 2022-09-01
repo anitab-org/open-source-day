@@ -390,6 +390,7 @@
   github:
     id: "codeWithUtkarsh"
     url: "https://github.com/codeWithUtkarsh"
+  picture: "/assets/images/mentors/2022/utkarsh_sharma.png"
 - name: "Vidushi Gupta"
   project: "Python Extension for VSCode"
   github:
