@@ -353,6 +353,7 @@
   github:
     id: "codestephanie"
     url: "https://github.com/codestephanie"
+  picture: "/assets/images/mentors/2022/stephanie_rideout.png"  
 - name: "Stephanie Weber"
   project: "ArgoCD"
   github:
