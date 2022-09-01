@@ -388,8 +388,8 @@
 - name: "Utkarsh Sharma"
   project: "Choose Your Own Adventure"
   github:
-    id:
-    url:
+    id: "codeWithUtkarsh"
+    url: "https://github.com/codeWithUtkarsh"
 - name: "Vidushi Gupta"
   project: "Python Extension for VSCode"
   github:
