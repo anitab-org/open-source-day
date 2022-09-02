@@ -2,8 +2,8 @@
 
 Website for the Open Source Day hackathon
 
-
 ## Setup
+
 - Install the prerequisites from:  https://jekyllrb.com/docs/#prerequisites
 - To run the site locally:
 
@@ -11,7 +11,16 @@ Website for the Open Source Day hackathon
 bundle exec jekyll serve
 ```
 
-- Build before you commit 
+==Note==
+
+- When using the latest versions of ruby that are installed with homebrew, note that webrick is not included by default as explained in [this github issue](https://github.com/github/pages-gem/issues/752).
+- To resolve this you may either use ruby 2.7 or manually add webrick using the command below:
+
+```bash
+bundle add webrick
+```
+
+- Build before you commit
 
 ```bash
 bundle exec jekyll build
@@ -35,4 +44,3 @@ You may access the page, locally generated at
 ## Contributing
 
 Please create a PR with as many detail info about your change and screenshots if possible.
-
