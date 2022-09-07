@@ -22,6 +22,11 @@ feature_row:
     url: "https://wildfly-security.github.io/wildfly-elytron/blog/top-five-reasons-to-join-elytron-open-source-day/"
     btn_label: "Read More"
     btn_class: "press-btn"
+  - title: "<span style='font-size: 20px'>External</span><br/>At NearForm, the Future is Open"
+    excerpt: "by Paula Paul, Field CTO, NearForm"
+    url: "https://www.nearform.com/blog/at-nearform-the-future-is-open/"
+    btn_label: "Read More"
+    btn_class: "press-btn"
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/blog.css' | relative_url }}">
