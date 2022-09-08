@@ -10,6 +10,7 @@ Open Source Day hands-on workshops are dedicated to help you overcome barriers t
 
 You will have a chance to attend technical and non-technical workshops and walk away with skills you can leverage in open source contributions.
 
+<img src="{{ site.baseurl }}/assets/images/workshop.gif" alt="2022 OSD Worshops">
 
 ## Build production ready data engineering pipeline using Open Source Framework (Kedro)
 

@@ -40,7 +40,7 @@ Open Source Day is part of [Grace Hopper Celebration](https://ghc.anitab.org/) (
 
 ### I have a GHC ticket. Do I need to do anything else? 
 
-Yes, you must register for OSD once you have your GHC ticket. The registration for OSD will open on **September 8th**. As part of this registration, you will select the project that you would like to contribute to as well as workshops you would like to attend.
+Yes, you must register for OSD once you have your GHC ticket. The registration for OSD will open on **September 13th**. As part of this registration, you will select the project that you would like to contribute to as well as workshops you would like to attend.
 
 ### How do I decide which projects to choose during my OSD registration?
 
@@ -53,6 +53,11 @@ OSD will be significantly more hands-on, with 27 projects focused on helping you
 ### What are the communication tools for the day of the event - September 16th?
 
 All project reps, workshop speakers, and participants who register for OSD will be onboarded to our Slack channel beginning September 8th and September 16th. All projects and workshops will take place on separate Zoom rooms. So, make sure to sign up for the projects and workshops you are interested in so, we can relay the right Zoom rooms to you!
+
+### Will workshops or projects be recorded?
+
+No, none of the workshop sessions or project zoom rooms will be recorded.
+
 
 ### Who can I contact for additional questions?
 

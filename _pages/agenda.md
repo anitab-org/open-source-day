@@ -84,6 +84,7 @@ classes: wide
                 <th colspan="12">
                     <h3>Workshop Schedule</h3>
                     <p>Each workshop is 1 hour</p>
+                    <p>**Workshops will not be recorded**</p>
                 </th>
             </tr>
         </thead>
