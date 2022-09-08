@@ -65,7 +65,7 @@
   description: "Open Food Facts is a Wikipedia for food, a collaborative, free and open database of food products from all around the world."
   type: "CYOA"
   resources:
-  - project: "https://github.com/openfoodfacts/openfoodfacts-server"
+  - project: "https://github.com/orgs/openfoodfacts/repositories"
     issues: "https://github.com/openfoodfacts/openfoodfacts-server/issues"
     setup: "https://github.com/openfoodfacts/openfoodfacts-server/blob/main/docs/introduction/dev-environment-quick-start-guide.md"
     code-of-conduct: "https://world.openfoodfacts.org/code-of-conduct"
