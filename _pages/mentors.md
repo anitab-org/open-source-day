@@ -9,6 +9,25 @@ classes: wide
 
 <h1>Meet our mentors for Open Source Day 2022!</h1>
 
+<div class="responsive" style="width: 49.99999%;">
+  <div class="gallery">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/2LCEuDUEcp4" title="Meet Liangda Wang, OSD Mentor" frameborder="0"></iframe>
+    <div class="desc">Meet <a href="https://www.linkedin.com/in/liangda-wang/">Liangda Wang</a>, OSD mentor for project Apache ShardingSphere</div>
+  </div>
+</div>
+
+
+<div class="responsive" style="width: 49.99999%;">
+  <div class="gallery">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/a1sfKjx5VT8" title="Meet Irvi Aini, OSD Mentor" frameborder="0"></iframe>
+    <div class="desc">Meet <a href="https://www.linkedin.com/in/irvifa/">Irvi Aini</a>, OSD mentor for project ArgoCD</div>
+  </div>
+</div>
+
+<div class="clearfix"></div>
+
+<br/>
+
 <div id="mentors">
 {% for mentor in site.data.mentors %}
 {% if mentor.picture %}

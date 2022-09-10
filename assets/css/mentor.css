@@ -1,6 +1,6 @@
 .image-card {
-    margin: 20px;
-    width: 20%;
+    margin: 1%;
+    width: 18%;
 }
 
 .image-card img {
@@ -57,20 +57,78 @@
     color: #00897B;
  }
 
- @media (max-width: 600px) {
-    .image-card {
-        margin: 10px;
-        width: 25%;
-    }
-    .name {
-        font-size: 16px;
-    }
-    
-    .subtitle {
-        font-size: 14px;
-    }
-}
-
 h1 {
   margin-top: 15px;
+  margin-bottom: 30px;
+}
+
+div.gallery {
+  border: 1px solid #ccc;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+  font-size: 14px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.sub {
+  text-align: center;
+  font-size: 12px;
+  margin: 10px;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 49.99999%;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+
+  .image-card {
+    margin: 1%;
+    width: 23%;
+  }
+
+  .name {
+    font-size: 16px;
+  }
+
+  .subtitle {
+    font-size: 14px;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+
+  .image-card {
+    margin: 2%;
+    width: 46%;
+  }
+
+  .name {
+    font-size: 16px;
+  }
+
+  .subtitle {
+    font-size: 14px;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
 }
