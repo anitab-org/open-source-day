@@ -258,8 +258,8 @@
   github:
     id: "oscargus"
     url: "https://github.com/oscargus"
-- name: "Rae Eun"
-  project: "Lee	Python Extension for VSCode"
+- name: "Rae Eun Lee"
+  project: "Python Extension for VSCode"
   github:
     id: "gorae17"
     url: "https://github.com/gorae17"
@@ -405,8 +405,8 @@
 - name: "Vini Jaiswal"
   project: "Python Extension for VSCode"
   github:
-    id:
-    url:
+    id: "vinijaiswal"
+    url: "https://github.com/vinijaiswal"
   picture: "/assets/images/mentors/2022/vini_jaiswal.jpg"
 - name: "Vivian Wang"
   project: "Choose Your Own Adventure"
