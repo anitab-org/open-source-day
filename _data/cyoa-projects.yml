@@ -66,7 +66,7 @@
   type: "CYOA"
   resources:
   - project: "https://github.com/orgs/openfoodfacts/repositories"
-    issues: "https://github.com/openfoodfacts/openfoodfacts-server/issues"
+    issues: "https://github.com/orgs/openfoodfacts/projects/61"
     setup: "https://github.com/openfoodfacts/openfoodfacts-server/blob/main/docs/introduction/dev-environment-quick-start-guide.md"
     code-of-conduct: "https://world.openfoodfacts.org/code-of-conduct"
     wiki: "https://wiki.openfoodfacts.org/Grace_Hopper_Celebration_2022"
