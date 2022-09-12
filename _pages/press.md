@@ -2,9 +2,9 @@
 layout: splash
 permalink: /press/
 feature_row:
-  - title: "<span style='font-size: 20px'>External</span><br/>Producing \"The Open Source Game\" at Grace Hopper Celebration"
+  - title: "<span style='font-size: 20px'>External</span><br/>Producing \"The Open Source Game\" for Open Source Day at the Grace Hopper Celebration"
     excerpt: "by John Mark Walker, Fannie Mae"
-    url: "https://www.linkedin.com/pulse/producing-open-source-game-grace-hopper-celebration-john-mark-walker/"
+    url: "https://www.linkedin.com/pulse/producing-open-source-game-day-grace-hopper-john-mark-walker/"
     btn_label: "Read More"
     btn_class: "press-btn"
   - title: "<span style='font-size: 20px'>External</span><br/>At NearForm, the Future is Open"
