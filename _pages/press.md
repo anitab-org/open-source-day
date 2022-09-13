@@ -2,6 +2,21 @@
 layout: splash
 permalink: /press/
 feature_row:
+  - title: "<span style='font-size: 20px'>External</span><br/>Get Involved with Ceph at Grace Hopper Celebration Open Source Day, 2022!"
+    excerpt: "by Laura Flores, Red Hat"
+    url: "https://ceph.io/en/news/blog/2022/open-source-day-2022/"
+    btn_label: "Read More"
+    btn_class: "press-btn"
+  - title: "<span style='font-size: 20px'>External</span><br/>OpenJS Foundation Supports Diversity in Open Source at Grace Hopper Celebration"
+    excerpt: "by OpenJS Foundation"
+    url: "https://openjsf.org/blog/2022/09/13/openjs-foundation-supports-diversity-in-open-source-at-grace-hopper-celebration%ef%bf%bc/"
+    btn_label: "Read More"
+    btn_class: "press-btn"
+  - title: "<span style='font-size: 20px'>External</span><br/>Join GitHub at the Grace Hopper Celebration 2022"
+    excerpt: "by Abby Cabunoc Mayes, GitHub"
+    url: "https://github.blog/2022-09-13-join-github-at-the-grace-hopper-celebration-2022/"
+    btn_label: "Read More"
+    btn_class: "press-btn"
   - title: "<span style='font-size: 20px'>External</span><br/>Producing \"The Open Source Game\" for Open Source Day at the Grace Hopper Celebration"
     excerpt: "by John Mark Walker, Fannie Mae"
     url: "https://www.linkedin.com/pulse/producing-open-source-game-day-grace-hopper-john-mark-walker/"
