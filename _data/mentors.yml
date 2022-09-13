@@ -343,8 +343,8 @@
 - name: "Sofia Enriquez"
   project: "OpenStack"
   github:
-    id:
-    url:
+    id: "enriquetaso"
+    url: "https://github.com/enriquetaso"
   picture: "/assets/images/mentors/2022/sofia_enriquez.jpg"
 - name: "Somya Kapoor"
   project: "OpenSUSE"
