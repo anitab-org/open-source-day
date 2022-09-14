@@ -28,8 +28,8 @@
   type: "CYOA"
   resources:
   - project: "https://github.com/capitalone/DataProfiler"
-    issues: "https://github.com/capitalone/DataProfiler/issues"
-    setup: "https://capitalone.github.io/DataProfiler/docs/0.7.8/html/install.html"
+    issues: "https://github.com/capitalone/DataProfiler/issues?q=is%3Aissue+is%3Aopen+label%3Astatic_typing"
+    setup: "https://capitalone.github.io/DataProfiler/docs/0.7.11/html/install.html"
   representatives:
     - name: Taylor Turner
       github: "https://github.com/taylorfturner"
