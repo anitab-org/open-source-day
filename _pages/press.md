@@ -2,6 +2,11 @@
 layout: splash
 permalink: /press/
 feature_row:
+  - title: "<span style='font-size: 20px'>External</span><br/>Join Us at the Grace Hopper Celebration’s Open Source Day"
+    excerpt: "by Marc Lewis, Kaleido"
+    url: "https://www.kaleido.io/blockchain-blog/grace-hopper-celebration-open-source-day"
+    btn_label: "Read More"
+    btn_class: "press-btn"
   - title: "<span style='font-size: 20px'>External</span><br/>Get Involved with Ceph at Grace Hopper Celebration Open Source Day, 2022!"
     excerpt: "by Laura Flores, Red Hat"
     url: "https://ceph.io/en/news/blog/2022/open-source-day-2022/"
