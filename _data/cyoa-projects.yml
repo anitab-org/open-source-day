@@ -90,11 +90,12 @@
   description: "NASA's Transform to Open Science (TOPS) mission leverages open science will broaden participation in scientific research, increase accessibility to knowledge, and embrace new technologies that can respond to changes to science in the 21st century at scale. Open science creates more advanced and inclusive research faster, builds a more just and equitable world, and ensures that minds from all walks of life can participate in science. TOPS is NASA’s ambitious plan to accelerate open science practices."
   type: "CYOA"
   resources:
-  - project: "https://github.com/reeseIngraham/Transform-to-Open-Science/issues"
-    issues: "https://github.com/nasa/Transform-to-Open-Science/issues/created_by/reeseIngraham"
+  - project: "https://github.com/nasa/Transform-to-Open-Science"
+    issues: "https://github.com/nasa/Transform-to-Open-Science/labels/Grace%20Hopper%20Day"
+    setup: "https://github.com/nasa/Transform-to-Open-Science/blob/main/getting_started.md"
     code-of-conduct: "https://github.com/nasa/Transform-to-Open-Science/blob/main/CODE_OF_CONDUCT.md"
   representatives:
     - name: Yvonne Ivey
       github: "https://github.com/Earth2Ivey"
-    - name: Chelle Gentemann
-      github: "https://github.com/cgentemann"
+    - name: Isabella Martinez
+      github: "https://github.com/bello-mart-isabella"

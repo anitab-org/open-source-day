@@ -8,6 +8,14 @@
   representatives:
     - name: Karthikeyan Natesan Ramamurthy
       github: "https://github.com/nrkarthikeyan"
+    - name: Anupama Murthi
+      github: "https://github.com/anupamamurthi"
+    - name: Aroma Mahendru
+      github: "https://github.com/aroma123"
+    - name: Manish Nagireddy
+      github: "https://github.com/mnagired"
+    - name: Samuel Hoffman
+      github: "https://github.com/hoffmansc"
 - name: "Apache ShardingSphere"
   description: "Apache ShardingSphere is an open source ecosystem that allows you to transform any database into a distributed database system, and enhance it with sharding, elastic scaling, encryption features & more. The project includes a JDBC, a Proxy and Sidecar (Planning). Thanks to its plugin oriented architecture, features can be flexibly expanded at will."
   type: "Featured"
