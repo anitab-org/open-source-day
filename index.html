@@ -8,8 +8,6 @@ header:
   actions:
     - label: "Register Now"
       url: "https://www.gracehoppercelebration.com/"
-intro: 
-    - excerpt: <h1 id="countdown"></h1>
 feature_row:
   - image_path: /assets/images/women_in_tech_3.jpg
     alt: "women in tech"
@@ -56,29 +54,5 @@ feature_row:
 }
 </style>
 
-<script>
-// Set the date we're counting down to
-var countDownDate = new Date("Sept 16, 2022").getTime();
-
-var x = setInterval(function() {
-  var now = new Date().getTime();
-  var distance = countDownDate - now;
-  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-
-  if (distance < 0) {
-     clearInterval(x);
-     document.getElementById("countdown").innerHTML = "Open Source Day is Happening Now! ✨ <br> <span style='font-size: 18px'>September 16, 2022 from 8am to 3pm US Pacific Time</span>";
-  }
-
-  if (parseInt(days) < 1) {
-      document.getElementById("countdown").innerHTML = "<b>" + hours + "h " + minutes + "m " + seconds + "s</b> </b> until Open Source Day ✨ <br> <span style='font-size: 18px'>September 16, 2022 at 8am US Pacific Time</span>"
-  } else {
-    document.getElementById("countdown").innerHTML = "<b>" + days + "</b> Days until Open Source Day ✨ <br> <span style='font-size: 18px'>September 16, 2022 at 8am US Pacific Time</span>"
-  }
-}, 1000);
-</script>
 
 {% include feature_row %}
