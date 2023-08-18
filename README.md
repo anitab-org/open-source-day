@@ -1,6 +1,6 @@
 # Open Source Day Site
 
-Website for the Open Source Day hackathon
+Website for the Grace Hoppper Celebration 2023 Open Source Day hackathon
 
 ## Setup
 
